@@ -165,7 +165,6 @@
 {"key":"屁股_皮皮","name":"🦐┃皮皮┃网盘","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$null$$$1","timeout":60},
 {"key":"屁股_影巢","name":"🎥┃影巢┃网盘","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
 
-{"key":"csp_影探","name":"影探┃云播","type":3,"api":"csp_AppYsV2","indexs":1,"quickSearch":0,"changeable":0,"searchable":0,"filterable":0,"ext":"http://cms-vip.lyyytv.cn/api.php/app/"},
 {"key":"饭佬_七七","name":"👒┃七七┃秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0427.jar;md5;ca8aebf22c8948c98104d094d5f87c73","timeout":15},
 
 
