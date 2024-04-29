@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720",
-"spider":"./jar/pg0427.jar;md5;f22f94e83ecd259dd1be128c5d95074e",
+"spider":"./jar/pg0429.jar;md5;adfaee867a4bcc71d509fbd5fe0bf8a4",
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
 {"name":"糖意","type":0,"url":"https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
