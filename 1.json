@@ -34,7 +34,7 @@
 {"key":"短剧_天天","name":"天天短剧","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
 {"key":"短剧_极速","name":"极速短剧","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
 
-
+ 
 
 //{"key":"T4-douban","name":"豆瓣推荐","type":4,"api":"https://catbox.n13.club/t4/douban.php"},
 //{"key":"豆瓣_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：4/16😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣搜索.js","searchable":0,"quickSearch":0,"filterable":0},
