@@ -1,6 +1,7 @@
 {
 	"spider":"./jar/pg0429.jar;md5;adfaee867a4bcc71d509fbd5fe0bf8a4",
 	"sites":[
+		
 		{
 			"key": "豆瓣",
 			"name": "豆瓣",
