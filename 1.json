@@ -36,7 +36,7 @@
 
 
 
-//{"key":"T4-douban","name":"豆瓣推荐","type":4,"api":"https://catbox.n13.club/douban.php"},
+//{"key":"T4-douban","name":"豆瓣推荐","type":4,"api":"https://catbox.n13.club/t4/douban.php"},
 //{"key":"豆瓣_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：4/16😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣搜索.js","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"影视_短二","name":"影视短剧","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 //{"key":"屁股_短剧五线","name":"短剧五线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu"},
@@ -89,15 +89,23 @@
 {"key":"屁股_暴風","name":"☁️┃暴風┃云播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
 {"key":"采集_有酷","name":"☁️┃有酷┃云播","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","电影","电视剧","动作片","动漫","综艺","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港澳剧","日剧","欧美剧","台湾剧","国产剧","韩剧","泰剧","动漫电影","记录片","奇幻片","犯罪片"]},
 
-{"key":"木鱼-剧圈","name":"T4┃剧圈┃秒播","type":4,"api":"https://catbox.n13.club/juquan.php"},
-{"key":"木鱼-明日","name":"T4┃明日┃秒播","type":4,"api":"https://catbox.n13.club/mingri.php"},
-{"key":"木鱼-视觉","name":"T4┃视觉┃秒播","type":4,"api":"https://catbox.n13.club/xinshijue.php"},
-{"key":"木鱼-黑狐","name":"T4┃黑狐┃秒播","type":4,"api":"https://catbox.n13.club/heihu.php"},
+{"key":"木鱼-剧圈","name":"T4┃剧圈┃秒播","type":4,"api":"https://catbox.n13.club/t4/juquan.php"},
+{"key":"木鱼-明日","name":"T4┃明日┃秒播","type":4,"api":"https://catbox.n13.club/t4/mingri.php"},
+{"key":"木鱼-视觉","name":"T4┃视觉┃秒播","type":4,"api":"https://catbox.n13.club/t4/xinshijue.php"},
+{"key":"木鱼-黑狐","name":"T4┃黑狐┃秒播","type":4,"api":"https://catbox.n13.club/t4/heihu.php"},
 
-{"key":"木鱼-极光","name":"T4┃极光┃秒播","type":4,"api":"https://catbox.n13.club/jiguang.php"},
-{"key":"木鱼-角角","name":"T4┃角角┃秒播","type":4,"api":"https://catbox.n13.club/jojo.php"},
-{"key":"木鱼-采集","name":"T4┃采集┃秒播","type":4,"api":"https://catbox.n13.club/caiji.php"},
-{"key":"木鱼-韩剧","name":"T4┃韩剧┃秒播","type":4,"api":"https://catbox.n13.club/hanju.php"},
+{"key":"木鱼-极光","name":"T4┃极光┃秒播","type":4,"api":"https://catbox.n13.club/t4/jiguang.php"},
+{"key":"木鱼-角角","name":"T4┃角角┃秒播","type":4,"api":"https://catbox.n13.club/t4/jojo.php"},
+{"key":"木鱼-采集","name":"T4┃采集┃秒播","type":4,"api":"https://catbox.n13.club/t4/caiji.php"},
+{"key":"木鱼-韩剧","name":"T4┃韩剧┃秒播","type":4,"api":"https://catbox.n13.club/t4/hanju.php"},
+
+{"key":"木鱼-文才","name":"T4┃文才┃秒播","type":4,"api":"https://catbox.n13.club/t4/wencai.php"},
+{"key":"木鱼-荐片","name":"T4┃荐片┃秒播","type":4,"api":"https://catbox.n13.club/t4/jianpian.php"},
+{"key":"木鱼-南瓜","name":"T4┃南瓜┃秒播","type":4,"api":"https://catbox.n13.club/t4/nangua.php"},
+{"key":"木鱼-腐剧","name":"T4┃腐剧┃秒播","type":4,"api":"https://catbox.n13.club/t4/fuju.php"},
+  
+{"key":"木鱼-骚火","name":"T4┃骚火┃秒播","type":4,"api":"https://catbox.n13.club/t4/saohuo.php"},
+{"key":"木鱼-兄弟","name":"T4┃兄弟┃秒播","type":4,"api":"https://catbox.n13.club/t4/xiongdi.php"},
 
 {"key":"香佬_Mp4k","name":"🧲┃Mp4┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0415.jar;md5;0578e48b03db152d0f0bbb03704d4ab5"},
 {"key":"屁股_荐片","name":"🧲┃荐片┃磁力","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./lib/jianpian.json$$$1","timeout":60},
