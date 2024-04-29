@@ -47,6 +47,7 @@
 //{"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar":"./jar/fan0427.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
 //{"key":"屁股_白嫖","name":"👻┃白嫖┃秒播","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar;md5;74973e619283181a56289fcd8dd954b5","ext":{"地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]","分类":"电影$1#电视剧$2#动漫$3#短剧$4#综艺$5","分类url":"https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}},
 
+  
 
 
 {"key":"影视_白嫖","name":"👻┃白嫖┃秒播","type":3,"api":"csp_Web996","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://baipiaoys.com:9092#公众号:影视资源站#https://www.baipiao-ys.cc:6062","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
