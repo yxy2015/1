@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0431.jar;md5;786ab2170be0f6b6183083218258de6e",
+"spider":"./jar/pg0430.jar;md5;7633f8ea346c082b7aa163be58aed023",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "lives":[
 {"name":"小二直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -177,29 +177,6 @@
 {"key":"屁股_帽子","name":"👒┃帽子┃网盘","type":3,"api":"csp_Moli","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json","timeout":60},
 
 
-
-
-
-{
-      "key": "bt天堂",
-      "name": "🧲┃天堂┃💠",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar;md5;5fc0a1807a335d01b6813d2ebe153ce3",
-      "ext": {
-        "数组": "class=\"col-md-6\">&&</li>",
-        "副标题": "span>更新时间：&&<a",
-        "简介": "<p>◎简*介&&<p>◎影片截图</p>",
-        "起始页": 0,
-        "线路标题": "磁力",
-        "搜索请求头参数": "User-Agent$PC_UA",
-        "搜索url": "https://www.bttt11.com/e/search/;post",
-        "POST请求数据": "show=title,newstext&keyboard={wd}&searchtype=影视搜索",
-        "分类url":"https://www.bttt11.com/html/page-{cateId}-{catePg}.html",
-        "分类": "畅影大陆电影&畅影港台电影&畅影欧美电影&畅影欧美剧&畅影日韩剧&畅影日韩电影&畅影动漫&畅影亚太剧&畅影亚太电影&畅影综艺&畅影纪录片",
-        "分类值": "4&3&1&6&7&2&11&10&5&12&13"
-      }
-},
 
 
 
