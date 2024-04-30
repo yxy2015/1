@@ -44,7 +44,7 @@
 //{"key":"影视_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 //{"key":"饭佬_农民","name":"🌾┃农民┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json","jar":"./jar/fan0430.jar;md5;b20ebd0d4515a0c921b560f63753c762"},
 //{"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar":"./jar/fan0430.jar;md5;b20ebd0d4515a0c921b560f63753c762"},
-//{"key":"影视_白嫖","name":"👻┃白嫖┃秒播","type":3,"api":"csp_Web996","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://baipiaoys.com:9092#公众号:影视资源站#https://www.baipiao-ys.cc:6062","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
+{"key":"影视_白嫖","name":"👻┃白嫖┃秒播","type":3,"api":"csp_Web996","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://baipiaoys.com:9092#公众号:影视资源站#https://www.baipiao-ys.cc:6062","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 
 
 
