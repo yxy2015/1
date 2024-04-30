@@ -14,15 +14,15 @@
 {"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：4/30😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.json"},
 {"key":"屁股_电影配置","name":"ㅤㅤ4K电影配置页ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tokenm.json"},
 
+{"key":"饭佬_讲堂","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔哩合集-学习.json","jar":"./jar/fan0430.jar;md5;2e518d1fe2a0f74638a5f46d18129d3e"},
 {"key":"饭佬_游戏","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0430.jar;md5;2e518d1fe2a0f74638a5f46d18129d3e"},
 {"key":"饭佬_广场","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/广场舞.json","jar":"./jar/fan0430.jar;md5;2e518d1fe2a0f74638a5f46d18129d3e"},
 {"key":"采集_中央","name":"CCTV","type":3,"api":"csp_CCTV","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/央视大全.json","jar":"./jar/cctv.jar;md5;a4641d44614be4500b314841116b55a4"},
-{"key":"饭佬_讲堂","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔哩合集-学习.json","jar":"./jar/fan0430.jar;md5;2e518d1fe2a0f74638a5f46d18129d3e"},
 
+{"key":"屁股_酷狗","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
 {"key":"影视_听书","name":"听书小说","type":3,"api":"csp_BookTing","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"https://m.ting275.com","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 {"key":"老猫-相声","name":"相声评书","type":4,"api":"https://catbox.n13.club/suishenting.php","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
 {"key":"屁股_音乐","name":"KTV音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
-{"key":"屁股_酷狗","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
 
 {"key":"短剧_非凡","name":"非凡短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
 {"key":"短剧_量子","name":"量子短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
@@ -113,7 +113,7 @@
 {"key":"采集_恐怖","name":"👿┃恐怖┃磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/恐怖.json","jar":"./lib/XBPQ.jar;md5;5fc0a1807a335d01b6813d2ebe153ce3"},
 
 {"key":"采集_小白","name":"👩‍🦳┃小白┃磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/小白.json","jar":"./lib/XBPQ.jar;md5;5fc0a1807a335d01b6813d2ebe153ce3"},
-{"key":"采集_天堂","name":"🌈┃天堂┃磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/天堂.json","jar":"./lib/XBPQ.jar;md5;5fc0a1807a335d01b6813d2ebe153ce3"},
+{"key":"采集_天堂","name":"🌈┃天堂┃磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/天堂.json","jar":"./lib/XBPQ.jar;md5;5fc0a1807a335d01b6813d2ebe153ce3"},
 {"key":"道长_磁熊","name":"🐻┃磁熊┃磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/磁力熊.js","playerType":"1","indexs":1},
  
 {"key":"采集_影探","name":"🕵️‍♂️┃影探┃云播","type":3,"api":"csp_AppYsV2","indexs":1,"quickSearch":1,"changeable":1,"searchable":1,"filterable":1,"ext":"http://cms-vip.lyyytv.cn/api.php/app/"},
@@ -240,12 +240,10 @@
 {"key":"屁股_Just","name":"JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0},
 {"key":"屁股_蚂蚁","name":"🐜┃蚂蚁┃秒播","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 
-{"key":"道长_磁熊","name":"🐻‍┃磁熊┃磁力2K","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/磁力熊（磁）.js"},
 
 {"key":"道长_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./哔哩哔哩/哔哩影视.js"},
 {"key":"道长_新6V","name":"💫┃新6V┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/6V（磁）.js"},
 {"key":"道长_xb6v","name":"💫┃新6V┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/XB6V（磁）.js"},
-{"key":"道长_低端","name":"⏮️┃低端┃超清（备Js）","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"playerType":"2","ext":"./js/ddys_d.js"},
 
 
 
