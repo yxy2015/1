@@ -16,7 +16,7 @@
     "首页片单链接加前缀": "https://www.bt-tt.com",
     "首页片单链接加后缀": "",
     "分类起始页码": "0",
-    "分类链接": "https://www.bt-tt.com/html/{cateId}-{catePg}.html",
+    "分类链接": "https://www.bt-tt.com/html/page-{cateId}-{catePg}.html",
     //"分类链接": "https://www.clgod.xyz/list/{catePg}-{cateId}-0-0.html",
     "分类名称": "畅影大陆电影&畅影港台电影&畅影欧美电影&畅影欧美剧&畅影日韩剧&畅影日韩电影&畅影动漫&畅影亚太剧&畅影亚太电影&畅影综艺&畅影纪录片",
     "分类名称替换词": "4&3&1&6&7&2&8&9&11&10&5&12&13",
