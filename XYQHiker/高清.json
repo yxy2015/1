@@ -1,14 +1,12 @@
 {
-"分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
-"搜索链接":"https://gaoqing.la/page/{pg}?cat&s={wd}",
-"简介":"◎简*介</p>&&</p>",
-"影片年代":"◎上映日期&&<br>",
-"影片地区":"◎产*地&&<br>",
-"图片是否需要代理":"1",
-"线路数组":"entry-contentu-text-formatu-clearfix&&\"content-template",
-"线路标题":"磁力",
-"播放数组":"entry-contentu-text-formatu-clearfix&&\"content-template",
-"播放列表":"<p>&&</p>[包含:magnet]",
-"播放链接":"</a>&&</a>",
-"分类链接":"https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"
-}
+        "搜索链接":"https://gaoqing.la/?s={wd}",
+        "简介":"<span style=\"color: #000000;\">◎简&&<p><span style=\"color: #ff0000;\">磁力链接：</span></p>",
+        "图片是否需要代理": "1",
+        "线路数组":"<p><span style=\"color: #ff0000;\">磁力链接：</span></p>&&</a></span></p>",
+        "线路标题":"磁力",
+        "播放数组":"<p><span style=\"color: #ff0000;\">磁力链接：</span></p>&&</a></span></p>",
+        "播放列表":"<p>&&</p>[包含:magnet]",
+        "播放链接":"</a>&&</a>",
+        "分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
+        "分类链接":"https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"
+      }
