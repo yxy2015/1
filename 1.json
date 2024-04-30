@@ -25,7 +25,7 @@
 {"key":"屁股_音乐","name":"KTV音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
 
 {"key":"短剧_非凡","name":"非凡短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
-{"key":"短剧_量子","name":"量子短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8","playerType":1,"searchable":1,"changeable":1,"categories":["短剧"]},
+{"key":"短剧_量子","name":"量子短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8","searchable":0,"changeable":1,"categories":["短剧"]},
 {"key":"短剧_火狐","name":"火狐短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 {"key":"短剧_卧龙","name":"卧龙短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://collect.wolongzyw.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 
