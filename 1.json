@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0427.jar;md5;f22f94e83ecd259dd1be128c5d95074e",
+"spider":"./jar/pg0430.jar;md5;c0fb7eaa02d465a4251344404c4c8d71",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "lives":[
 {"name":"小二直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -9,7 +9,7 @@
 {"name":"本地直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites":[
-{"key":"悟空_悟空搜索","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：4/30😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
+{"key":"悟空_悟空搜索","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃五一国际劳动节快乐！😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
 {"key":"饭佬_饭佬搜索","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：4/30😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0430.jar;md5;2e518d1fe2a0f74638a5f46d18129d3e"},
 {"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：4/30😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.json"},
 {"key":"屁股_电影配置","name":"ㅤㅤ4K电影配置页ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tokenm.json"},
