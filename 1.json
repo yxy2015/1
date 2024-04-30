@@ -180,7 +180,26 @@
 
 
 
-
+{
+      "key": "bt天堂",
+      "name": "🧲┃天堂┃💠",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar;md5;5fc0a1807a335d01b6813d2ebe153ce3",
+      "ext": {
+        "数组": "class=\"col-md-6\">&&</li>",
+        "副标题": "span>更新时间：&&<a",
+        "简介": "<p>◎简*介&&<p>◎影片截图</p>",
+        "起始页": 0,
+        "线路标题": "磁力",
+        "搜索请求头参数": "User-Agent$PC_UA",
+        "搜索url": "https://www.bttt11.com/e/search/;post",
+        "POST请求数据": "show=title,newstext&keyboard={wd}&searchtype=影视搜索",
+        "分类url":"https://www.bttt11.com/html/page-{cateId}-{catePg}.html",
+        "分类": "畅影大陆电影&畅影港台电影&畅影欧美电影&畅影欧美剧&畅影日韩剧&畅影日韩电影&畅影动漫&畅影亚太剧&畅影亚太电影&畅影综艺&畅影纪录片",
+        "分类值": "4&3&1&6&7&2&11&10&5&12&13"
+      }
+},
 
 
 
