@@ -11,7 +11,7 @@
 "sites":[
 {"key":"悟空_悟空搜索","name":"ㅤㅤ悟空搜索ㅤㅤㅤ🎉五一国际劳动节🎉ㅤㅤㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
 {"key":"饭佬_饭佬搜索","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：5/01😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0430.jar;md5;b20ebd0d4515a0c921b560f63753c762"},
-{"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：4/30😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.json"},
+{"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：5/01😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.json"},
 {"key":"屁股_电影配置","name":"ㅤㅤ4K电影配置页ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tokenm.json"},
 
 {"key":"饭佬_讲堂","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔哩合集-学习.json","jar":"./jar/fan0430.jar;md5;b20ebd0d4515a0c921b560f63753c762"},
