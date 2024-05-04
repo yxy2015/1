@@ -45,6 +45,7 @@
 //{"key":"影视_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 //{"key":"饭佬_农民","name":"🌾┃农民┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json","jar":"./jar/fan0504.jar;md5;177584a6db7606778d53181f34310ae9"},
 //{"key":"影视_白嫖","name":"👻┃白嫖┃秒播","type":3,"api":"csp_Web996","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://baipiaoys.com:9092#公众号:影视资源站#https://www.baipiao-ys.cc:6062","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
+//{"key":"香佬_Mp4","name":"🎧┃Mp4┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0415.jar;md5;0578e48b03db152d0f0bbb03704d4ab5"},
 
 
 
@@ -101,9 +102,7 @@
 {"key":"木鱼-骚火","name":"T4┃骚火┃秒播","type":4,"api":"https://catbox.n13.club/t4/saohuo.php"},
 {"key":"木鱼-兄弟","name":"T4┃兄弟┃秒播","type":4,"api":"https://catbox.n13.club/t4/xiongdi.php"},
 
-{"key":"MP4us","name":"🎧┃Mp4┃磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","ext": {"标题":"《&&》","数组":"<li>&&</li>","副标题":"rate badge\">&&</span>+|+update_time\">&&</span>","线路标题":"<h2>&&</h2>[替换:下载地址>>磁力]","播放数组":"download_url&&</ul>","播放列表":"<a&&</a>[不包含:ed2k]","线路数组":"download_url&&</ul>","分类二次截取":"<ul&&</ul>","分类数组":"<li&&</li>","分类标题":">&&</a","分类ID":"/list/&&-1.html","分类url":"https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"}},
-
-{"key":"香佬_Mp4","name":"🎧┃Mp4┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0415.jar;md5;0578e48b03db152d0f0bbb03704d4ab5"},
+{"key":"屁股_MP4u","name":"🎧┃Mp4┃磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","ext": {"标题":"《&&》","数组":"<li>&&</li>","副标题":"rate badge\">&&</span>+|+update_time\">&&</span>","线路标题":"<h2>&&</h2>[替换:下载地址>>磁力]","播放数组":"download_url&&</ul>","播放列表":"<a&&</a>[不包含:ed2k]","线路数组":"download_url&&</ul>","分类二次截取":"<ul&&</ul>","分类数组":"<li&&</li>","分类标题":">&&</a","分类ID":"/list/&&-1.html","分类url":"https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"}},
 {"key":"屁股_荐片","name":"💿┃荐片┃磁力","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./lib/jianpian.json$$$1","timeout":60},
 {"key":"屁股_太灵","name":"🐶┃太灵┃磁力","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":60},
 {"key":"道长_港口","name":"🚢┃港口┃磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
