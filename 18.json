@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720",
-"spider":"./jar/pg0427.jar;md5;f22f94e83ecd259dd1be128c5d95074e",
+"spider":"./jar/pg0504.jar;md5;c6500622984f8cbe68045be070ffbaa6",
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
 {"name":"糖意","type":0,"url":"https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
@@ -13,6 +13,7 @@
 
 "sites":[
 {"key":"合集","name":"合ㅤ集ㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ点击主页切换站源","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"屁股_电影配置","name":"ㅤㅤ电影配置页ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tokenm.json"},
 
 
 {"key":"吃瓜","name":"💋吃瓜网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"今日吃瓜$6#今日热搜$7#热门大瓜$8#黑料历史$10#独家爆料$9","分类url":"https://yt6d.yilecdi.com/category/{cateId}/{catePg}.html","直接播放":"1"},"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
