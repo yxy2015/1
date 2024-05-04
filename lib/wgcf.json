@@ -149,145 +149,16 @@
 			}
 		},
 		{
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "edgetunnel-free.pages.dev",
-            "port": 2087,
-            "users": [
-              {
-                "encryption": "none",
-                "flow": "",
-                "id": "de44b044-8f90-4e18-b742-16591667ff96",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "edgetunnel-free.pages.dev"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "edgetunnel-free.pages.dev"
-          },
-          "path": "/?ed=2048"
-        }
-      },
-      "tag": "2087"
-        },
-        {
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "edgetunnel-free.pages.dev",
-            "port": 2096,
-            "users": [
-              {
-                "encryption": "none",
-                "flow": "",
-                "id": "de44b044-8f90-4e18-b742-16591667ff96",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "edgetunnel-free.pages.dev"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "edgetunnel-free.pages.dev"
-          },
-          "path": "/?ed=2048"
-        }
-      },
-      "tag": "2096"
-        },
-        {
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "edgetunnel-free.pages.dev",
-            "port": 443,
-            "users": [
-              {
-                "encryption": "none",
-                "flow": "",
-                "id": "de44b044-8f90-4e18-b742-16591667ff96",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "edgetunnel-free.pages.dev"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "edgetunnel-free.pages.dev"
-          },
-          "path": "/?ed=2048"
-        }
-      },
-      "tag": "443"
-        },
-        {
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "edgetunnel-free.pages.dev",
-            "port": 2053,
-            "users": [
-              {
-                "encryption": "none",
-                "flow": "",
-                "id": "de44b044-8f90-4e18-b742-16591667ff96",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "edgetunnel-free.pages.dev"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "edgetunnel-free.pages.dev"
-          },
-          "path": "/?ed=2048"
-        }
-      },
-      "tag": "2053"
-        },
+			"protocol": "freedom",
+			"settings":{
+				"fragment": {
+					"packets": "tlshello",
+					"length": "40-60",
+					"interval": "30-50"
+				}
+			},
+			"tag": "directfragment"
+		},
 		{
 		"protocol": "shadowsocks",
         "settings": {
@@ -306,7 +177,7 @@
         "network": "tcp",
         "security": ""
       },
-      "tag": "proxy"
+      "tag": "🇭🇰香港"
     },
     {
       "protocol": "vmess",
@@ -358,25 +229,383 @@
           }
         }
       },
-      "tag": "vmess"
+      "tag": "🇯🇵JP"
     },
 		{
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "134.195.197.160",
+            "level": 8,
+            "method": "aes-256-gcm",
+            "ota": false,
+            "password": "TEzjfAYq2IjtuoS",
+            "port": 6697
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": ""
+      },
+      "tag": "🇨🇦 Vancouver 2"
+    },
+    {
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "158.51.123.253",
+            "level": 8,
+            "method": "aes-256-gcm",
+            "ota": false,
+            "password": "KixLvKzwjekG00rm",
+            "port": 5500
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": ""
+      },
+      "tag": "🇨🇦 Vancouver 3"
+    },
+    {
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "23.158.200.234",
+            "level": 8,
+            "method": "aes-256-gcm",
+            "ota": false,
+            "password": "KixLvKzwjekG00rm",
+            "port": 5500
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": ""
+      },
+      "tag": "Phoenix 2"
+      },
+      {
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "23.158.56.196",
+            "level": 8,
+            "method": "aes-256-gcm",
+            "ota": false,
+            "password": "kDWvXYZoTBcGkC4",
+            "port": 8882
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": ""
+      },
+      "tag": "Frankfurt 2"
+      },
+      {
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "23.158.56.17",
+            "level": 8,
+            "method": "aes-256-gcm",
+            "ota": false,
+            "password": "FoOiGlkAA9yPEGP",
+            "port": 7307
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": ""
+      },
+      "tag": "Frankfurt 3"
+      },
+      {
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "172.99.190.198",
+            "level": 8,
+            "method": "aes-256-gcm",
+            "ota": false,
+            "password": "faBAoD54k87UJG7",
+            "port": 2375
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": ""
+      },
+      "tag": "🇬🇧 London 3"
+      },
+      {
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "172.99.190.13",
+            "level": 8,
+            "method": "aes-256-gcm",
+            "ota": false,
+            "password": "Y6R9pAtvxxzmGC",
+            "port": 5001
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": ""
+      },
+      "tag": "🇬🇧 London 4"
+      },
+      {
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "23.166.88.5",
+            "level": 8,
+            "method": "aes-256-gcm",
+            "ota": false,
+            "password": "Y6R9pAtvxxzmGC",
+            "port": 5000
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": ""
+      },
+      "tag": "🇨🇭 Zurich"
+      },
+      {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "edgetunnel-free.pages.dev",
+            "port": 2087,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "edgetunnel-free.pages.dev"
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "edgetunnel-free.pages.dev"
+          },
+          "path": "/?ed=2048"
+        }
+      },
+      "tag": "🇨🇳五妹_2087"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "edgetunnel-free.pages.dev",
+            "port": 2096,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "edgetunnel-free.pages.dev"
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "edgetunnel-free.pages.dev"
+          },
+          "path": "/"
+        }
+      },
+      "tag": "🇨🇳五妹_2096"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "edgetunnel-free.pages.dev",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "edgetunnel-free.pages.dev"
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "edgetunnel-free.pages.dev"
+          },
+          "path": "/?ed=2048"
+        }
+      },
+      "tag": "🇨🇳五妹_443"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "edgetunnel-free.pages.dev",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "edgetunnel-free.pages.dev"
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "edgetunnel-free.pages.dev"
+          },
+          "path": "/"
+        }
+      },
+      "tag": "🇨🇳五妹_8443"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "edgetunnel-free.pages.dev",
+            "port": 2053,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "edgetunnel-free.pages.dev"
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "edgetunnel-free.pages.dev"
+          },
+          "path": "/?ed=2048"
+        }
+      },
+      "tag": "🇨🇳五妹_2053"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "edgetunnel-free.pages.dev",
+            "port": 2083,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "edgetunnel-free.pages.dev"
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "edgetunnel-free.pages.dev"
+          },
+          "path": "/?ed=2048"
+        }
+      },
+      "tag": "🇨🇳五妹_2083"
+      },
+      {
 			"protocol": "freedom",
 			"tag": "direct"
-		},
-		{
-			"protocol": "freedom",
-			"settings":{
-				"fragment": {
-					"packets": "tlshello",
-					"length": "40-60",
-					"interval": "30-50"
-				}
-			},
-			"tag": "directfragment"
 		}
-	]
-	,
+	],
 	"inbounds":[ 
 		{
 			"listen": "0.0.0.0",
@@ -475,7 +704,7 @@
 				"udp": true,
 				"auth": "noauth"
 			},
-			"tag":"proxy",
+			"tag":"shadowsocks-in1",
 			"sniffing": {
 				"destOverride": [
 					"http",
@@ -487,13 +716,166 @@
 			}
 		},
 		{
-			"port": 2001,
+      "port": 2001,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "vmess-in1"
+    },
+		{
+      "port": 2002,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "shadowsocks-in2"
+    },
+    {
+      "port": 2003,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "shadowsocks-in3"
+    },
+    {
+      "port": 2004,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "shadowsocks-in4"
+    },
+    {
+      "port": 2005,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "shadowsocks-in5"
+    },
+    {
+      "port": 2006,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "shadowsocks-in6"
+    },
+    {
+      "port": 2007,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "shadowsocks-in7"
+    },
+    {
+      "port": 2008,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "shadowsocks-in8"
+    },
+    {
+      "port": 2009,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "shadowsocks-in9"
+    },
+    {
+			"port": 2010,
 			"protocol": "socks",
 			"settings": {
 				"udp": true,
 				"auth": "noauth"
 			},
-			"tag":"vmess",
+			"tag":"vless-in1",
 			"sniffing": {
 				"destOverride": [
 					"http",
@@ -505,13 +887,13 @@
 			}
 		},
 		{
-			"port": 10075,
+			"port": 2011,
 			"protocol": "socks",
 			"settings": {
 				"udp": true,
 				"auth": "noauth"
 			},
-			"tag":"2087",
+			"tag":"vless-in2",
 			"sniffing": {
 				"destOverride": [
 					"http",
@@ -523,13 +905,13 @@
 			}
 		},
 		{
-			"port": 10076,
+			"port": 2012,
 			"protocol": "socks",
 			"settings": {
 				"udp": true,
 				"auth": "noauth"
 			},
-			"tag":"2096",
+			"tag":"vless-in3",
 			"sniffing": {
 				"destOverride": [
 					"http",
@@ -541,13 +923,13 @@
 			}
 		},
 		{
-			"port": 10077,
+			"port": 2013,
 			"protocol": "socks",
 			"settings": {
 				"udp": true,
 				"auth": "noauth"
 			},
-			"tag":"443",
+			"tag":"vless-in4",
 			"sniffing": {
 				"destOverride": [
 					"http",
@@ -559,13 +941,31 @@
 			}
 		},
 		{
-			"port": 10078,
+			"port": 2014,
 			"protocol": "socks",
 			"settings": {
 				"udp": true,
 				"auth": "noauth"
 			},
-			"tag":"2053",
+			"tag":"vless-in5",
+			"sniffing": {
+				"destOverride": [
+					"http",
+					"tls",
+					"quic"
+				],
+				"enabled": true,
+				"routeOnly": true
+			}
+		},
+		{
+			"port": 2015,
+			"protocol": "socks",
+			"settings": {
+				"udp": true,
+				"auth": "noauth"
+			},
+			"tag":"vless-in6",
 			"sniffing": {
 				"destOverride": [
 					"http",
@@ -625,44 +1025,114 @@
 			{
 				"type": "field",
 				"inboundTag": [
-					"proxy"
+					"shadowsocks-in1"
 				],
-				"outboundTag": "proxy"
+				"outboundTag": "🇭🇰香港"
 			},
 			{
 				"type": "field",
 				"inboundTag": [
-					"vmess"
+					"vmess-in1"
 				],
-				"outboundTag": "vmess"
+				"outboundTag": "🇯🇵JP"
 			},
 			{
 				"type": "field",
 				"inboundTag": [
-					"socks5"
+					"shadowsocks-in2"
 				],
-				"outboundTag": "2087"
+				"outboundTag": "🇨🇦 Vancouver 2"
 			},
 			{
 				"type": "field",
 				"inboundTag": [
-					"socks5"
+					"shadowsocks-in3"
 				],
-				"outboundTag": "2096"
+				"outboundTag": "🇨🇦 Vancouver 3"
 			},
 			{
 				"type": "field",
 				"inboundTag": [
-					"socks5"
+					"shadowsocks-in4"
 				],
-				"outboundTag": "443"
+				"outboundTag": "Phoenix 2"
 			},
 			{
 				"type": "field",
 				"inboundTag": [
-					"socks5"
+					"shadowsocks-in5"
 				],
-				"outboundTag": "2053"
+				"outboundTag": "Frankfurt 2"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"shadowsocks-in6"
+				],
+				"outboundTag": "Frankfurt 3"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"shadowsocks-in7"
+				],
+				"outboundTag": "🇬🇧 London 3"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"shadowsocks-in8"
+				],
+				"outboundTag": "🇬🇧 London 4"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"shadowsocks-in9"
+				],
+				"outboundTag": "🇨🇭 Zurich"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"vless-in1"
+				],
+				"outboundTag": "🇨🇳五妹_2087"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"vless-in2"
+				],
+				"outboundTag": "🇨🇳五妹_2096"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"vless-in3"
+				],
+				"outboundTag": "🇨🇳五妹_443"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"vless-in4"
+				],
+				"outboundTag": "🇨🇳五妹_8443"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"vless-in5"
+				],
+				"outboundTag": "🇨🇳五妹_2053"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"vless-in6"
+				],
+				"outboundTag": "🇨🇳五妹_2083"
 			}
 		]
 	}
