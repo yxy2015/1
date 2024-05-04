@@ -396,13 +396,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "edgetunnel-free.pages.dev",
+            "address": "3k.337898581.xyz",
             "port": 2087,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "id": "68ed1e8d-af98-4898-9713-eb57b474f0d5",
                 "level": 8,
                 "security": "auto"
               }
@@ -415,11 +415,11 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "edgetunnel-free.pages.dev"
+          "serverName": "3k.337898581.xyz"
         },
         "wsSettings": {
           "headers": {
-            "Host": "edgetunnel-free.pages.dev"
+            "Host": "3k.337898581.xyz"
           },
           "path": "/?ed=2048"
         }
@@ -431,13 +431,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "edgetunnel-free.pages.dev",
+            "address": "3k.337898581.xyz",
             "port": 2096,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "id": "68ed1e8d-af98-4898-9713-eb57b474f0d5",
                 "level": 8,
                 "security": "auto"
               }
@@ -450,11 +450,11 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "edgetunnel-free.pages.dev"
+          "serverName": "3k.337898581.xyz"
         },
         "wsSettings": {
           "headers": {
-            "Host": "edgetunnel-free.pages.dev"
+            "Host": "3k.337898581.xyz"
           },
           "path": "/"
         }
@@ -466,13 +466,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "edgetunnel-free.pages.dev",
+            "address": "3k.337898581.xyz",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "id": "68ed1e8d-af98-4898-9713-eb57b474f0d5",
                 "level": 8,
                 "security": "auto"
               }
@@ -485,11 +485,11 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "edgetunnel-free.pages.dev"
+          "serverName": "3k.337898581.xyz"
         },
         "wsSettings": {
           "headers": {
-            "Host": "edgetunnel-free.pages.dev"
+            "Host": "3k.337898581.xyz"
           },
           "path": "/?ed=2048"
         }
@@ -501,13 +501,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "edgetunnel-free.pages.dev",
+            "address": "3k.337898581.xyz",
             "port": 8443,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "id": "68ed1e8d-af98-4898-9713-eb57b474f0d5",
                 "level": 8,
                 "security": "auto"
               }
@@ -520,11 +520,11 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "edgetunnel-free.pages.dev"
+          "serverName": "3k.337898581.xyz"
         },
         "wsSettings": {
           "headers": {
-            "Host": "edgetunnel-free.pages.dev"
+            "Host": "3k.337898581.xyz"
           },
           "path": "/"
         }
@@ -536,13 +536,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "edgetunnel-free.pages.dev",
+            "address": "3k.337898581.xyz",
             "port": 2053,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "id": "68ed1e8d-af98-4898-9713-eb57b474f0d5",
                 "level": 8,
                 "security": "auto"
               }
@@ -555,11 +555,11 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "edgetunnel-free.pages.dev"
+          "serverName": "3k.337898581.xyz"
         },
         "wsSettings": {
           "headers": {
-            "Host": "edgetunnel-free.pages.dev"
+            "Host": "3k.337898581.xyz"
           },
           "path": "/?ed=2048"
         }
@@ -571,13 +571,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "edgetunnel-free.pages.dev",
+            "address": "3k.337898581.xyz",
             "port": 2083,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "de44b044-8f90-4e18-b742-16591667ff96",
+                "id": "68ed1e8d-af98-4898-9713-eb57b474f0d5",
                 "level": 8,
                 "security": "auto"
               }
@@ -590,11 +590,11 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "edgetunnel-free.pages.dev"
+          "serverName": "3k.337898581.xyz"
         },
         "wsSettings": {
           "headers": {
-            "Host": "edgetunnel-free.pages.dev"
+            "Host": "3k.337898581.xyz"
           },
           "path": "/?ed=2048"
         }
