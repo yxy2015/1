@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV13新闻
+video://https://www.yangshipin.cn/#/tv/home?pid=600001811
 #EXTINF:-1 group-title="央视频道",CCTV1综合
 video://https://www.yangshipin.cn/#/tv/home?pid=600001859
 #EXTINF:-1 group-title="央视频道",CCTV2财经
@@ -19,8 +21,6 @@ video://https://www.yangshipin.cn/#/tv/home?pid=600001805
 video://https://www.yangshipin.cn/#/tv/home?pid=600001806
 #EXTINF:-1 group-title="央视频道",CCTV12社会
 video://https://www.yangshipin.cn/#/tv/home?pid=600001807
-#EXTINF:-1 group-title="央视频道",CCTV13新闻
-video://https://www.yangshipin.cn/#/tv/home?pid=600001811
 #EXTINF:-1 group-title="央视频道",CCTV14少儿
 video://https://www.yangshipin.cn/#/tv/home?pid=600001809
 #EXTINF:-1 group-title="央视频道",CCTV15音乐
