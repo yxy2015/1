@@ -143,7 +143,9 @@
 {"key":"采集_虎牙","name":"☁️┃老虎┃云播","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"categories":["短剧","内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","伦理片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
 {"key":"采集_新浪","name":"☁️┃新浪┃云播","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"categories":["短剧","大陆剧","动作片","动漫","综艺"]},
 {"key":"采集_乐视","name":"☁️┃乐视┃云播","type":1,"api":"https://leshiapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"采集_资源","name":"☁️┃资源┃云播","type":"1","api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
+  
 {"key":"采集_影探","name":"🕵️‍♂️┃影探┃云播","type":3,"api":"csp_AppYsV2","indexs":1,"quickSearch":1,"changeable":1,"searchable":1,"filterable":1,"ext":"http://cms-vip.lyyytv.cn/api.php/app/"},
 {"key":"采集_泰泰","name":"🌳┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"采集_鑫鑫","name":"🐱┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
