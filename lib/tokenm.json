@@ -1,7 +1,7 @@
 {
 "use_internal_storage":true,
-"token":"d08959f7bee24d54a809551c120c8b30",
-"open_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI5NzMxN2M4NjQ3MDA0ODgzYjA3N2VkYWJiOTczODA1ZCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzIyNzQxNjU0LCJpYXQiOjE3MTQ5NjU2NTQsImp0aSI6IjRkNzI5MWEzNGJmMTQ5NmViOWU0NDcyMjc0NWNkOWI1In0.gg83De-VQ0fk_TWdvB0bAygkSPhw8TQX-5XHsPdTx-VniS4SaGzTdGHZgp0GZALNOH9IGrrOGFrDu1IKgn03lQ",
+"token":"",
+"open_token":"",
 "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
 "oauth_client_id":"",
 "oauth_client_secret":"",
@@ -21,7 +21,7 @@
 "uc_is_vip":false,
 "uc_vip_thread_limit":0,
 "uc_flags":"4kz|auto",
-"uc_cookie":"ctoken=390s0lbKU23JRhAyzt_Bn4DF; UDRIVE_TRANSFER_SESS=JNfAmv1HDy0mL6oWMVCZP0HaloVpgx_ZXLs67kRsbi6Sou4push0cpU3KYt9AvhmvaWefimZ4Lb9cKpEW-rNT285hxubpRV8HH-khe76eqNau-LPG4FCfC1qcG_CqrPeWzCKP2Ty9FU9TR3dXy1WRXlspFWYUEV2X1qWKTKLItfGwbFJhG58N41KKslH44t5; b-user-id=ac821c1c-a639-bf8a-42d4-af9a95a91c84; __itrace_wid=6ae52645-666b-458a-8afe-29b64b883d3a; __pus=c013f23f4bbc21ef795861753f464da0AASt2WhbFC1xKAAox0KzaimUCvpxyoMXJfiyGBXUCTBaZ1j6+Egvpl60HUJ/WzvSi7hYKHDsUQY3ToknPOkHJoM6; __kp=94ceeae0-0b5c-11ef-97a7-437396451db9; __kps=AARaPsy19sE3hhs3YqPg7HCa; __ktd=DLqnFPYlfx+M0VDP+KMRtQ==; __uid=AARaPsy19sE3hhs3YqPg7HCa; __puus=84e50ce2b84a27328b38a843e64483b0AATCov9Z78OJHuGuNarL9J5TCFSTialx30vMKUd3eD2BQ77GZgdWprcLArWG9R56ma/yTkFTi7u+56DOkQ5dNUT/O84BcDO25CSnRX+wyU3Yqa0q0f7GoGMy1m94C5wbB8pch5q6AT1KNxQXSzVln8WKJzRLgQoeRzmyHVrdtt9FMw7ECRC+R8bjoGyBNkNtS/w=",
+"uc_cookie":"",
  
 "thunder_thread_limit":2,
 "thunder_is_vip":false,
@@ -36,18 +36,18 @@
 
   
 "quark_danmu":true,
-"quark_cookie":"b-user-id=6d0ad854-8a3c-ea00-947e-9c764eddcfde; _UP_A4A_11_=wb964144452644e29c2eb2b84df8d68a; _UP_D_=pc; _UP_30C_6A_=st964620199a6zrnoubb4gf5hr7aqv1z; _UP_TS_=sg1fe83b27ffc489d24d83fd1dd73c5db3e; _UP_E37_B7_=sg1fe83b27ffc489d24d83fd1dd73c5db3e; _UP_TG_=st964620199a6zrnoubb4gf5hr7aqv1z; _UP_335_2B_=1; __wpkreporterwid_=23eb546c-5710-4f31-198a-51fa9a825e4a; __itrace_wid=b6d38128-6dbb-4db5-99d1-e5335bb9ee12; ctoken=L0eF8V0hX3hVJ2oAU9BVeTke; grey-id=84fb3021-aea1-2f8f-5d12-dbb5f686003c; grey-id.sig=n8wci7PCsSXmeNnJ_mfreH6ibJEj6-4iYiMix84qpVI; isQuark=false; isQuark.sig=DWPHMZYiiwQ-v58AbcP-rBdSIpzO8ZnrD67BdJuPatU; _UP_F7E_8D_=d6l%2Bog%2FFn2OZgGJPuNuoa%2FihvEFwqiQKrtOFmrP%2F5Q50XQzuJBCvaVLDDVA7JqQdKWRvQZKRMx2pcUe9jZI%2Bxpr1WkQL6QwPm1P4sD4fnHqwPMpd0%2B7BZarlx5I0Wl5nDsG05Cf8pRZwZDzB3oYCMkTjmYnxJ0u06RoHEkf8wVft05k05ngkGyHsIakZbjBMQlwW1OikDv766ZyYrnTnMqzVeBmmQC6SXaIUn%2F6T3U12tmivsxPHUl8IaiP9jBN5rPsU17bDenKj%2Bhm3mVYTBSQI4DlGUbtPZ%2FGA1kMkAh0jtD9ufGqk79Uxi0xHOqsZoAg3J36dS9adhc5VTnv%2BjWSpj%2B0v9aqQoAg3J36dS9ZU25CTU1P0WsIDEnp%2BzT9l6QFa%2Funqf%2BpNktF%2FskRKCJPGNxq9uNZW; __pus=01b617618351590f5c93dac97b153c32AASMPhpNYmrXsXcNNS5kHpIrESuF8lcHao9gb/FCfcvJoLm85j/i0B7wpNIx1EmrgkS4LwFpojoAQimH78rQrCK8; __kp=be89a740-0b56-11ef-b82f-6339bb23839e; __kps=AAQZfs5+wRlJlLir54BxO3Lh; __ktd=RTC+8TzPCDyAjlMk00bRSg==; __uid=AAQZfs5+wRlJlLir54BxO3Lh; __puus=f7d17e4456a865a762ba5c82e9cb9f5bAAT9nAUibHbA0bY3AvuxFbbp61AAwnNhZEZTGDyZQnuio5G8b9b0idn2dfXeLTmKDH6sZkM+lAPAzwCKjMk8t6M3WEUs+oEZlXAR0EKXsVUC+mL+IF5Y87KkYR4sFDphyrRJXJIrATlXJYtA3LQkUjVtbL/mJ44GWzh++ArsqX3kUDQ1wXBn+uqq7b06wdz+IrK1CMewKKeDl2OEFPXi3ECf"
-
-  
+"quark_cookie":""
 
 "thunder_username":"+86 18052000426",
 "thunder_password":"z57115160",
 "thunder_captchatoken":"",
 
-"yd_auth":"CcDqWFmZ|1|RCS|1717563017756|YpMwzNMmjAL3bTIdREqiIAQ001ls11pRHGnL1NN2m2veXIqinxkHnMN2282XxxCZyvjNYPWxOVUbgEgQchOFNlV2FGN8YCZg_c5lRiPJUgnH4T.BVDaeowiECRqa0WSo.Amo3xyxVlsi5V6HQjBa4PquJt_4Gk6LFpLXrTO6apw-",
+  
+"yd_auth":"",
 "yd_thread_limit":4,
 "yd_flags":"auto|4kz",
 "yd_danmu":true,
+
   
 "pikpak_username":"yxy20150427@gmail.com",
 "pikpak_password":"Zz123456789",
@@ -57,6 +57,7 @@
 "pikpak_proxy":"",
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
+
   
 "wgcf_key":"3/M40UkRH68rI72LF/vFXZNPEXqpQEj8EB9cxgn8pjM=",
 "wgcf_key2":"bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
