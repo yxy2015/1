@@ -51,7 +51,7 @@
 
 
 
-{"key":"饭佬_饭偶","name":"🎅┃饭偶┃阿里4K（有缘人可以打开！）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":{"quarkCookie":"tvfan/cookie.txt","aliToken":"tvfan/token.txt","from":"auto|4k|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0506.jar;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
+{"key":"饭佬_饭偶","name":"🎅┃饭偶┃阿里4K（有缘人可以打开！）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":{"quarkCookie":"https://wp2.337898581.xyz/f/eMiQ/cookie.txt","aliToken":"https://wp2.337898581.xyz/f/QxFY/token.txt","from":"auto|4k|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0506.jar;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
 {"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar":"./jar/fan0506.jar;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
 {"key":"屁股_文才","name":"💯┃文才┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XYQHiker/文才.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":""},
