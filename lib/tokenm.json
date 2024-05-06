@@ -1,7 +1,7 @@
 {
 "use_internal_storage":true,
-"token":"",
-"open_token":"",
+"token":"http://wp2.337898581.xyz/f/QxFY/token.txt",
+"open_token":"http://wp2.337898581.xyz/f/7qsq/open_token.txt",
 "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
 "oauth_client_id":"",
 "oauth_client_secret":"",
@@ -32,7 +32,7 @@
   
 "danmu":true,
 "quark_danmu":true,
-"quark_cookie":""
+"quark_cookie":"http://wp2.337898581.xyz/f/eMiQ/cookie.txt"
 
   
 "uc_cookie":"",
