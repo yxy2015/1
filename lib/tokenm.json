@@ -21,27 +21,30 @@
 "uc_is_vip":false,
 "uc_vip_thread_limit":0,
 "uc_flags":"4kz|auto",
-  
+"uc_cookie":"https://wp2.337898581.xyz/f/a1H9/uc_cookie.txt",
+ 
 "thunder_thread_limit":2,
 "thunder_is_vip":false,
 "thunder_vip_thread_limit":2,
 "thunder_flags":"auto|4k|4kz",
-"aliproxy":"",
-"aliproxy_url":"https://y.337898581.xyz/https://raw.githubusercontent.com/yxy2015/1/main/lib/aliproxy.gz",
-"proxy":"",
+
   
+"aliproxy":"",
+"aliproxy_url":"",
+"proxy":"",
 "danmu":true,
+
+  
 "quark_danmu":true,
 "quark_cookie":"http://wp2.337898581.xyz/f/eMiQ/cookie.txt"
 
   
-"uc_cookie":"https://wp2.337898581.xyz/f/a1H9/uc_cookie.txt",
 
 "thunder_username":"+86 18052000426",
-"thunder_password":"Zz57115160",
+"thunder_password":"z57115160",
 "thunder_captchatoken":"",
 
-"yd_auth":"",
+"yd_auth":"https://wp2.337898581.xyz/f/2qfN/yd_auth.txt",
 "yd_thread_limit":4,
 "yd_flags":"auto|4kz",
 "yd_danmu":true,
@@ -55,9 +58,9 @@
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
   
-"wgcf_key":"MDx0SyYkQRpshraiKYdP6SjeWqVYjG83LHrjjxFrKFw=",
-"wgcf_key2":"mEO42XlrAWoK6PO4CLgpNPmOElmmEvRB5KuCEOlrxGE=",
-"wgcf_ipport":"162.159.195.167:1387",
+"wgcf_key":"3/M40UkRH68rI72LF/vFXZNPEXqpQEj8EB9cxgn8pjM=",
+"wgcf_key2":"bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+"wgcf_ipport":"162.159.195.28:934",
 "wgcf_xray_url":"https://y.337898581.xyz/https://raw.githubusercontent.com/yxy2015/1/main/lib/xray.gz",
 "wgcf_geoip_url":"https://y.337898581.xyz/https://raw.githubusercontent.com/yxy2015/1/main/lib/geoip.dat.gz",
 "wgcf_json_url":"https://y.337898581.xyz/https://raw.githubusercontent.com/yxy2015/1/main/lib/wgcf.json",
