@@ -148,41 +148,80 @@
 {"key":"屁股_迅雷","name":"⚡┃迅雷┃磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":30},
 {"key":"屁股_剧迷","name":"⛲┃美剧┃磁力","type":3,"api":"csp_Meijumi","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1","timeout":60},
 
-  
-{"key":"屁股_立播","name":"🍓┃立播┃夸克4K","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null","timeout":60},
 {"key":"采集_范丝","name":"🎉┃范丝┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 {"key":"采集_高清","name":"📹┃高清┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/高清.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"采集_布谷","name":"🐦┃布谷┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/布谷.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
+{"key":"屁股_高清","name":"📺┃高清┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_Gaoqing","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1","timeout":60},
 
-{"key":"屁股_玩偶","name":"🎅┃玩偶┃网盘4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$1$$$./lib/wogg.json","timeout":60},
-{"key":"屁股_土豆","name":"🎅┃土豆┃网盘4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$1$$$./lib/wogg.json","timeout":60},
-{"key":"屁股_老哥","name":"🎅┃玩你┃网盘4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","timeout":60},
-{"key":"屁股_弟弟","name":"🎅┃玩我┃网盘4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://www.ttkx.live:3328/$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_玩偶","name":"🎅┃玩偶┃网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_表哥","name":"🎅┃表哥┃网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_老哥","name":"🎅┃玩你┃网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_土豆","name":"🎅┃土豆┃网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$1$$$./lib/wogg.json","timeout":60},
+
+{"key":"屁股_土豆","name":"🎅┃土豆┃网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_弟弟","name":"🎅┃玩我┃网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://m.kxys.site:3328/$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_低端","name":"⏮️┃低端┃网盘","type":3,"api":"csp_Ddys","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$","timeout":60},
+{"key":"屁股_校长","name":"🎓┃校长┃网盘","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1","timeout":60},
+
+{"key":"屁股_影巢","name":"🎥┃影巢┃网盘","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
+{"key":"屁股_立播","name":"🍓┃立播┃网盘","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null","timeout":60},
+{"key":"屁股_皮皮","name":"🦐┃皮皮┃网盘","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$null$$$1","timeout":60},
+{"key":"屁股_团长","name":"👺┃团长┃网盘","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
 
 {"key":"屁股_磁搜","name":"🧲┃磁搜┃磁力","type":3,"api":"csp_BtSow","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"屁股_磁嗨","name":"🧲┃磁嗨┃磁力","type":3,"api":"csp_BtSearch","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"屁股_磁狗","name":"🧲┃磁狗┃磁力","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"屁股_偶偶","name":"🧲┃玩偶┃磁力","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json"},
 
-{"key":"屁股_表哥","name":"🐢┃表哥┃网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json","timeout":60},
-{"key":"屁股_校长","name":"🎓┃校长┃网盘","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1","timeout":60},
-{"key":"屁股_皮皮","name":"🦐┃皮皮┃网盘","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$null$$$1","timeout":60},
-{"key":"屁股_影巢","name":"🎥┃影巢┃网盘","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
 
+
+{"key":"屁股_趣盘","name":"🥇┃趣盘┃网盘","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json","timeout":60},
+{"key":"屁股_盘搜","name":"🥇┃盘搜┃网盘","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_小盘","name":"🥇┃小盘┃阿里","type":3,"api":"csp_Xpanpan","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_小云","name":"🥇┃小云┃阿里","type":3,"api":"csp_YunSo","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_盘友","name":"🥇┃盘友┃阿里","type":3,"api":"csp_Panyq","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$site$$$proxy","style":{"type":"list","ratio":1.1},"timeout":60},
+
+{"key":"屁股_混合","name":"🥈┃混合┃网盘","type":3,"api":"csp_HunHePan","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_八八","name":"🥈┃八八┃网盘","type":3,"api":"csp_EightEight","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://662688.xyz","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_秒搜","name":"🥈┃秒搜┃网盘","type":3,"api":"csp_MiaoSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_云盘","name":"🥈┃云盘┃网盘","type":3,"api":"csp_YunPan","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$proxy$$$1","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_千帆","name":"🥈┃千帆┃阿里","type":3,"api":"csp_Qianfan","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./TV/qianfan.txt","timeout":60},
+{"key":"屁股_皮卡","name":"🥈┃皮卡┃阿里","type":3,"api":"csp_PikaSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_云搜","name":"🥈┃云搜┃阿里","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_分分","name":"🥈┃分分┃阿里","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"timeout":60},
+
+  
+{"key":"屁股_影搜","name":"🥉┃影搜┃阿里","type":3,"api":"csp_YingSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","timeout":60},
+{"key":"屁股_易搜","name":"🥉┃易搜┃阿里","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://yiso.work/$$$./TV/yiso.txt","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_大盘","name":"🥉┃大盘┃阿里","type":3,"api":"csp_DaPanSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://dapanso.com$$$null","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股盘搜1","name":"🥉┃盘搜1┃阿里","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
+{"key":"屁股_皮卡","name":"🥉┃皮卡┃阿里","type":3,"api":"csp_PikaSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_享享","name":"🥉┃享享┃阿里","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股_云盘","name":"🥉┃云盘┃资源","type":3,"api":"csp_YunPanOne","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","timeout":60},
+{"key":"屁股_七夜","name":"🥉┃七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","timeout":60},
+{"key":"屁股_盘九","name":"🥉┃盘九┃阿里","type":3,"api":"csp_Pan99","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1","timeout":60},
+{"key":"屁股_夸克","name":"🥉┃夸克┃网盘","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json","timeout":60},
+{"key":"屁股_4K影","name":"🥉┃4K影┃夸克","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$./TV/4khdr.txt$$$1","timeout":60},
+{"key":"屁股_盘Ta","name":"🥉┃盘Ta┃移动","type":3,"api":"csp_Panta","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","timeout":60},
+
+
+
+
+  
 {"key":"饭佬_七七","name":"👒┃七七┃秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0507.jar;md5;5c80b7ff2b016f49144335e5c48883c5","timeout":15},
 {"key":"饭佬_厂长","name":"🏭┃厂长┃秒播","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.top/","jar":"./jar/fan0507.jar;md5;5c80b7ff2b016f49144335e5c48883c5","timeout":15},
 {"key":"饭老_巴士","name":"🚌┃动漫┃秒播","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0507.jar;md5;5c80b7ff2b016f49144335e5c48883c5","timeout":15},
 {"key":"屁股_哔嘀","name":"🚔┃哔嘀┃超清","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys.me/$$$null$$$1"},
 
-{"key":"屁股_高清","name":"📺┃高清┃网盘","type":3,"api":"csp_Gaoqing","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1","timeout":60},
-{"key":"屁股_低端","name":"⏮️┃低端┃网盘","type":3,"api":"csp_Ddys","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$","timeout":60},
 {"key":"屁股_视觉","name":"👓┃视觉┃网盘","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.6080yy4.com/$$$proxy$$$1$$$./lib/wogg.json","timeout":60},
 {"key":"屁股_帽子","name":"👒┃帽子┃网盘","type":3,"api":"csp_Moli","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json","timeout":60},
+{"key":"屁股_Just","name":"JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0},
+{"key":"屁股_蚂蚁","name":"🐜┃蚂蚁┃秒播","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 
 
-
-
-
+{"key":"道长_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./哔哩哔哩/哔哩影视.js"},
+{"key":"道长_新6V","name":"💫┃新6V┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/6V（磁）.js"},
+{"key":"道长_xb6v","name":"💫┃新6V┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/XB6V（磁）.js"},
 
 
 
@@ -201,8 +240,6 @@
 
 
 
-
-
 {"key":"屁股_美剧","name":"🧲┃美剧┃磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
 {"key":"屁股_BLSG","name":"🧲┃BLSG┃磁力","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
 {"key":"屁股_Seed","name":"🧲┃Seed┃磁力","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
@@ -210,41 +247,8 @@
 {"key":"屁股_看球","name":"🌋┃看球┃秒播","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
 
 
-{"key":"屁股_影搜","name":"🥇┃影搜┃阿里","type":3,"api":"csp_YingSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","timeout":60},
-{"key":"屁股_易搜","name":"🥇┃易搜┃阿里","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://yiso.work/$$$./TV/yiso.txt","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_小盘","name":"🥇┃小盘┃阿里","type":3,"api":"csp_Xpanpan","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_大盘","name":"🥇┃大盘┃阿里","type":3,"api":"csp_DaPanSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://dapanso.com$$$null","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_混合","name":"🥇┃混合┃阿里","type":3,"api":"csp_HunHePan","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_盘搜","name":"🥇┃盘搜┃阿里","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股盘搜1","name":"🥇┃盘搜1┃阿里","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
-{"key":"屁股_盘友","name":"🥇┃盘友┃阿里","type":3,"api":"csp_Panyq","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_八八","name":"🥇┃八八┃阿里","type":3,"api":"csp_EightEight","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://662688.xyz","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_秒搜","name":"🥇┃秒搜┃阿里","type":3,"api":"csp_MiaoSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_皮卡","name":"🥇┃皮卡┃阿里","type":3,"api":"csp_PikaSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_小云","name":"🥇┃小云┃阿里","type":3,"api":"csp_YunSo","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_云搜","name":"🥇┃云搜┃阿里","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_分分","name":"🥇┃分分┃阿里","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/alishare.txt","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_享享","name":"🥇┃享享┃阿里","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_云盘","name":"🥇┃云盘┃网盘","type":3,"api":"csp_YunPan","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$proxy$$$1","style":{"type":"list","ratio":1.1},"timeout":60},
-{"key":"屁股_云盘","name":"🥇┃云盘┃资源","type":3,"api":"csp_YunPanOne","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","timeout":60},
-{"key":"屁股_七夜","name":"🥇┃七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","timeout":60},
-{"key":"屁股_千帆","name":"🥇┃千帆┃阿里","type":3,"api":"csp_Qianfan","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./TV/qianfan.txt","timeout":60},
-{"key":"屁股_盘九","name":"🥇┃盘九┃阿里","type":3,"api":"csp_Pan99","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1","timeout":60},
-{"key":"屁股_团长","name":"🥈┃团长┃夸克","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
-{"key":"屁股_夸克","name":"🥈┃夸克┃网盘","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json","timeout":60},
-{"key":"屁股_趣盘","name":"🥈┃趣盘┃夸克","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json","timeout":60},
-{"key":"屁股_4K影","name":"🥈┃4K影┃夸克","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$./TV/4khdr.txt$$$1","timeout":60},
-{"key":"屁股_盘Ta","name":"🥉┃盘Ta┃移动","type":3,"api":"csp_Panta","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","timeout":60},
 
-{"key":"屁股_Just","name":"JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0},
-{"key":"屁股_蚂蚁","name":"🐜┃蚂蚁┃秒播","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
-
-
-{"key":"道长_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./哔哩哔哩/哔哩影视.js"},
-{"key":"道长_新6V","name":"💫┃新6V┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/6V（磁）.js"},
-{"key":"道长_xb6v","name":"💫┃新6V┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/XB6V（磁）.js"},
-
-
+  
 
 
 {"key":"饭佬_南南","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0507.jar;md5;5c80b7ff2b016f49144335e5c48883c5"},
