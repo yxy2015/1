@@ -1,7 +1,7 @@
 {
 "spider":"./jar/pg0507.jar;md5;ed2f0b854a6e642812ee5d25c5c80524",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
-"logo": "./lib/1.png",
+"logo":"./lib/1.png",
 "lives":[
 {"name":"视频直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"./央视频.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"小二直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -15,8 +15,8 @@
 {"key":"悟空_悟空搜索","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：5/07😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
 {"key":"饭佬_饭佬搜索","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：5/07😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0506.jar;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
 {"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：5/07😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.json"},
-{"key":"屁股_电影配置","name":"ㅤㅤ电影配置ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tokenm.json"},
-
+{"key":"网盘配置","name":"网盘及彈幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json"},
+  
 {"key":"饭佬_讲堂","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔哩合集-学习.json","jar":"./jar/fan0506.jar;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
 {"key":"饭佬_游戏","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0506.jar;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
 {"key":"饭佬_广场","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/广场舞.json","jar":"./jar/fan0506.jar;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
@@ -147,7 +147,7 @@
 {"key":"采集_乐视","name":"☁️┃乐视┃云播","type":1,"api":"https://leshiapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"采集_资源","name":"☁️┃资源┃云播","type":"1","api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
-  
+
 {"key":"采集_影探","name":"🕵️‍♂️┃影探┃云播","type":3,"api":"csp_AppYsV2","indexs":1,"quickSearch":1,"changeable":1,"searchable":1,"filterable":1,"ext":"http://cms-vip.lyyytv.cn/api.php/app/"},
 {"key":"采集_泰泰","name":"🌳┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"采集_鑫鑫","name":"🐱┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
