@@ -1,13 +1,8 @@
 {
-"主页url": "https://www.xbw20.com/",
-"编码": "gb2312",
-"图片": "data-src=\"&&\"",
-"标题": "alt=\"&&\"",
-"副标题":"class=\"time\">&&</label",
-"分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
-"分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
-"起始页": 2,
-"倒序": 1,
-"播放数组": "迅雷下载</div>&&</div>",
-"播放列表": "<a&&</a >"
-}
+        "播放数组": "downurl&&</ul>",
+        "播放列表": "<a&&</a >",
+        "副标题":"小白",
+        "简介": "jq-list&&</ul>",
+        "分类": "国产剧$mainland#港剧$tvb#台剧$taiju#英剧$yingju#美剧$oumeiju#韩剧$korea#日剧$riju#泰剧$Asia#印度剧$yinduju#新加坡剧$xinjiapo#其他剧$qitaju#科幻片$Science#动作片$action#恐怖片$scary#爱情片$romance#喜剧片$comedy#战争片$war#纪录片$record#BL电影$bl#剧情片$plot#其他片$other#资料库$laopian#微电影$V#新片库$xinpian#经典片$jingdian#动画片$cartoon#动漫$dongman",
+        "分类url": "https://www.xbw20.com/vod/new{cateId}{catePg}.html[https://www.xbw20.com/vod/new{cateId}.html];;gdm"
+      }
