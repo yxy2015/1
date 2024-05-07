@@ -72,5 +72,5 @@
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":true,
-"libxl_url":"./lib/libxl_thunder_sdk.so"
+"libxl_url":"./libxl_thunder_sdk.so"
 }
