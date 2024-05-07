@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0506.jar;md5;3d5bcc3d3cdcad93c7530e8760ee494d",
+"spider":"./jar/pg0507.jar;md5;6ef1080b3c8e85b0523f32ecde3e2ae3",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "lives":[
 {"name":"视频直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"./央视频.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -11,9 +11,9 @@
 {"name":"本地直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites":[
-{"key":"悟空_悟空搜索","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：5/06😃ㅤㅤㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
-{"key":"饭佬_饭佬搜索","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：5/06😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0506.jar;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
-{"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：5/06😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.json"},
+{"key":"悟空_悟空搜索","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：5/07😃ㅤㅤㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
+{"key":"饭佬_饭佬搜索","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：5/07😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0506.jar;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
+{"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：5/07😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.json"},
 {"key":"屁股_电影配置","name":"ㅤㅤ4K电影配置页ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tokenm.json"},
 
 {"key":"饭佬_讲堂","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔哩合集-学习.json","jar":"./jar/fan0506.jar;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
