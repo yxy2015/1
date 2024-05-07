@@ -38,8 +38,8 @@
 "quark_danmu":true,
 "quark_cookie":""
 
-"thunder_username":"+86 18052000426",
-"thunder_password":"z57115160",
+"thunder_username":"",
+"thunder_password":"",
 "thunder_captchatoken":"",
 
   
@@ -72,5 +72,7 @@
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":true,
-"libxl_url":"./lib/libxl_thunder_sdk.so"
+"libxl_url":"https://pan.shangui.cc/f/5zzmUA/libffmpeg0.so.armeabi-v7a",
+"libxl_url":"https://pan.shangui.cc/f/N11pcj/libmagicmagnetsdk.so.armeabi-v7a",
+"libxl_url":"https://pan.shangui.cc/f/VYYYf8/libxl_thunder_sdk.so.armeabi-v7a"
 }
