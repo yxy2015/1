@@ -59,14 +59,14 @@
 "pikpak_danmu":true,
 
   
-"wgcf_key":"3/M40UkRH68rI72LF/vFXZNPEXqpQEj8EB9cxgn8pjM=",
-"wgcf_key2":"ykCwpFUomDrWrFkvTV2POLxiR7WWOUuuh57afDpo8wA=",
+"wgcf_key":"ykCwpFUomDrWrFkvTV2POLxiR7WWOUuuh57afDpo8wA=",
+"wgcf_key2":"3/M40UkRH68rI72LF/vFXZNPEXqpQEj8EB9cxgn8pjM=",
 "wgcf_ipport":"162.159.195.57:1014",
 "wgcf_xray_url":"./xray.gz",
 "wgcf_geoip_url":"./geoip.dat.gz",
 "wgcf_json_url":"./wgcf.json",
 "wgcf_vless_id":"68ed1e8d-af98-4898-9713-eb57b474f0d5",
-"wgcf_vless_optname":"3k.337898581.xyz:443",
+"wgcf_vless_optname":"104.19.60.247:443",
 "wgcf_vless_worker":"3k.337898581.xyz",
 "wgcf_vless_path":"/?ed=2048",
 "wgcf_vless_protocol":"vless",
