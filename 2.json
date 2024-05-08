@@ -90,7 +90,11 @@
 {"key":"屁股_秒搜","name":"🥈┃秒搜┃网盘","type":3,"api":"csp_MiaoSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"屁股_皮卡","name":"🥈┃皮卡┃阿里","type":3,"api":"csp_PikaSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"屁股_高清","name":"📹┃高清┃网盘","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/高清.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
+{"key":"屁股_变态","name":"🧲┃变态┃磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","ext":{"跳转数组":"<a&&</a[包含:tdown]","跳转链接":"href=\"&&\"","跳转链接前缀":"https://www.btbtl.com","跳转链接后缀":"","播放数组":"class=\"video-info-footer&&</div[不包含:文件]","播放链接":"href=\"&&\"[包含:magnet]","分类":"电影$movies#电视剧$tv","分类url":"https://www.btbtl.com/type/{cateId}/{catePg}/"}},
 
+
+
+ 
 {"key":"屁股_帽子","name":"👒┃帽子┃网盘","type":3,"api":"csp_Moli","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json","timeout":60},
 {"key":"屁股_剧迷","name":"⛲┃美剧┃磁力","type":3,"api":"csp_Meijumi","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1","timeout":60},
 {"key":"屁股_视觉","name":"👓┃视觉┃网盘","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.6080yy4.com/$$$proxy$$$1$$$./lib/wogg.json","timeout":60},
@@ -123,8 +127,6 @@
 
 
 
-
- 
 
 
 
