@@ -231,8 +231,13 @@
 
 
 
+{"key":"泥巴0","name":"泥巴0|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10071"},
+{"key":"星星0","name":"星星0|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10071"},
+{"key":"Wogg0","name":"玩偶哥哥0|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
 
-
+{"key":"泥巴1","name":"泥巴1|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$192.168.68.170:10071"},
+{"key":"星星1","name":"星星1|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"192.168.68.170:10071"},
+{"key":"Wogg1","name":"玩偶哥哥1|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
 
 
 
