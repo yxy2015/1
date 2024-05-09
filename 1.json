@@ -44,9 +44,9 @@
 
 
 {"key":"屁股_太灵","name":"🐶┃太灵┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":60},
-{"key":"屁股_偶偶","name":"🧲┃玩偶┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json","timeout":60},
-{"key":"屁股_范丝","name":"🎉┃范丝┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 {"key":"屁股_布谷","name":"🐦┃布谷┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/布谷.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
+{"key":"屁股_范丝","name":"🎉┃范丝┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
+{"key":"屁股_4K影","name":"🎥┃影院┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$./TV/4khdr.txt$$$1","timeout":60},
 
 {"key":"饭佬_饭偶","name":"🎅┃饭偶┃阿里4K（有缘人可以打开！）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":{"quarkCookie":"tvfan/cookie.txt","aliToken":"tvfan/token.txt","from":"4k|auto|fhd","siteUrl":"https://wogg.link/","danMu":"弹"},"jar":"./jar/fan0508.jar;md5;ccc15f8c3df51befa578c1ce8632359f"},
 {"key":"屁股_文才","name":"💯┃文才┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XYQHiker/文才.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
@@ -132,6 +132,7 @@
 {"key":"屁股_磁搜","name":"🧲┃磁搜┃磁力","type":3,"api":"csp_BtSow","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"屁股_磁嗨","name":"🧲┃磁嗨┃磁力","type":3,"api":"csp_BtSearch","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"屁股_磁狗","name":"🧲┃磁狗┃磁力","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
+{"key":"屁股_偶偶","name":"🧲┃玩偶┃磁力","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json","timeout":60},
 
 {"key":"香佬_酷吧","name":"🧲┃酷吧┃磁力","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0508.jar;md5;0578e48b03db152d0f0bbb03704d4ab5"},
 {"key":"香佬_美剧","name":"🧲┃美剧┃磁力","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0508.jar;md5;0578e48b03db152d0f0bbb03704d4ab5"},
@@ -211,7 +212,6 @@
 {"key":"屁股_七夜","name":"🥉┃七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","timeout":60},
 {"key":"屁股_盘九","name":"🥉┃盘九┃阿里","type":3,"api":"csp_Pan99","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1","timeout":60},
 {"key":"屁股_夸克","name":"🥉┃夸克┃网盘","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json","timeout":60},
-{"key":"屁股_4K影","name":"🥉┃4K影┃夸克","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$./TV/4khdr.txt$$$1","timeout":60},
 {"key":"屁股_盘Ta","name":"🥉┃盘Ta┃移动","type":3,"api":"csp_Panta","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","timeout":60},
 
 
