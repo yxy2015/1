@@ -1,5 +1,5 @@
 {
-	"spider":"./jar/pg0508.jar;md5;ec9f6c0f6a6964ce42db2b139b74f99a",
+	"spider":"./jar/pg0509.jar;md5;70eccfda102dba72ee254132b77309a0",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -20,12 +20,31 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
-				{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
+		
+{"key":"泥巴1","name":"泥巴1|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10071"},
+{"key":"泥巴2","name":"泥巴2|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10072"},
+{"key":"泥巴3","name":"泥巴3|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10073"},
+{"key":"泥巴4","name":"泥巴4|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10074"},
+
+
+{"key":"星星1","name":"星星1|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10071"},
+{"key":"星星2","name":"星星2|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10072"},
+{"key":"星星3","name":"星星3|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10073"},
+{"key":"星星4","name":"星星4|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10074"},
+
+{"key":"獨播1","name":"獨播1|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10071"},
+{"key":"獨播2","name":"獨播2|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10072"},
+{"key":"獨播3","name":"獨播3|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10073"},
+{"key":"獨播4","name":"獨播4|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10074"},
+{"key":"獨播5","name":"獨播5|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10075"},
+
+{"key":"Wogg0","name":"玩偶哥哥0|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"},
+{"key":"Wogg1","name":"玩偶哥哥1|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
+{"key":"Wogg2","name":"玩偶哥哥2|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json"},
+{"key":"Wogg3","name":"玩偶哥哥3|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10073$$$1$$$./lib/wogg.json"},
+{"key":"Wogg4","name":"玩偶哥哥4|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10074$$$1$$$./lib/wogg.json"},
+{"key":"Wogg5","name":"玩偶哥哥5|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10075$$$1$$$./lib/wogg.json"},
+
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
@@ -88,22 +107,15 @@
 		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1,
 			"indexs":1
 		},
-		{
-			"key":"bili",
-			"name":"B站 | Bili[jar]",
-			"type":3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext":{
-				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":""
-			}
-		},
+
 		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
 		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null"},
-
+		{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
 		{"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$proxy$$$1",
 			"style": {
 				"type": "list",
