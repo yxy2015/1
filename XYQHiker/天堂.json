@@ -1,13 +1,20 @@
-{
-                "数组": "class=\"col-md-6\">&&</li>",
-                "副标题": "span>更新时间：&&<a",
-                "简介": "<p>◎简*介&&<p>◎影片截图</p >",
-                "起始页": 0,
-                "线路标题": "磁力",
+ {
+                "主页url": "https://www.bttt11.com/",
                 "搜索请求头参数": "User-Agent$PC_UA",
-                "搜索url": "https://www.bttt11.com/e/search/;post",
+                "搜索链接": "https://www.bttt11.com/e/search/;post",
                 "POST请求数据": "show=title,newstext&keyboard={wd}&searchtype=影视搜索",
-                "分类url": "https://www.bttt11.com/html/page-{cateId}-{catePg}.html",
-                "分类": "畅影大陆电影&畅影港台电影&畅影欧美电影&畅影欧美剧&畅影日韩剧&畅影日韩电影&畅影动漫&畅影亚太剧&畅影亚太电影&畅影综艺&畅影纪录片",
-                "分类值": "4&3&1&6&7&2&11&10&5&12&13"
-            }
+                "搜索截取模式": "1",
+                "搜索列表数组规则": ".ul-imgtxt2&&li",
+                "搜索片单是否Jsoup写法": "1",
+                "搜索片单图片": "img&&src",
+                "搜索片单标题": "h3&&Text",
+                "搜索片单链接": "a&&href",
+                "搜索片单副标题": "span,-1--a&&Text!更新时间：",
+                "搜索片单链接加前缀": "https://www.bttt11.com",
+                "搜索结果": "<font>&&</font>",
+                "线路数组": "<strong>&&</strong>",
+                "线路标题": "<span>&&</span>",
+                "选集链接": "a&&href",
+                "分类": "欧美电影$1#日韩电影$2#港台电影$3#大陆电影$4#亚太电影$5#欧美剧$6#日韩剧$7#港台剧$8#国产剧$9#亚太剧$10#动漫$11#综艺$12#纪录片$13",
+                "分类url": "https://www.bttt11.com/html/page-{cateId}-0.html"
+        }
