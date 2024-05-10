@@ -42,6 +42,7 @@
 //{"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json","jar":"./jar/fan0508.jar;md5;ccc15f8c3df51befa578c1ce8632359f"},
 //{"key":"影视_白嫖","name":"👻┃白嫖┃秒播","type":3,"api":"csp_Web996","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://baipiaoys.com:9092#公众号:影视资源站#https://www.baipiao-ys.cc:6062","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 //{"key":"采集_高清","name":"📹┃高清┃磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/高清.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
+{"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar":"./jar/fan0508.jar;md5;ccc15f8c3df51befa578c1ce8632359f"},
 
 
 
@@ -57,7 +58,7 @@
 
 {"key":"屁股_文才","name":"💯┃文才┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XYQHiker/文才.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":""},
-{"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar":"./jar/fan0508.jar;md5;ccc15f8c3df51befa578c1ce8632359f"},
+{"key":"饭佬_低端","name":"⏮️┃低端┃秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","jar":"./jar/fan0508.jar;md5;ccc15f8c3df51befa578c1ce8632359f","timeout":15},
 {"key":"影视_云播","name":"🐔┃云播┃秒播","type":3,"api":"csp_WebTVB","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.tvyb03.com","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 
 {"key":"小二_文才","name":"💯┃文才┃秒秒","type":3,"api":"csp_Wexwencai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0509.jar;md5;ad24d79dcf824cc86c1e367311b87334"},
@@ -183,7 +184,6 @@
 
 {"key":"饭佬_七七","name":"👒┃七七┃秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0508.jar;md5;ccc15f8c3df51befa578c1ce8632359f","timeout":15},
 {"key":"饭老_巴士","name":"🚌┃动漫┃秒播","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0508.jar;md5;ccc15f8c3df51befa578c1ce8632359f","timeout":15},
-{"key":"饭佬_低端","name":"⏮️┃低端┃秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","jar":"./jar/fan0508.jar;md5;ccc15f8c3df51befa578c1ce8632359f","timeout":15},
 {"key":"饭佬_厂长","name":"🏭┃厂长┃秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.top/","jar":"./jar/fan0508.jar;md5;ccc15f8c3df51befa578c1ce8632359f","timeout":15},
 {"key":"屁股_哔嘀","name":"🚔┃哔嘀┃超清","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys.me/$$$null$$$1"},
 
