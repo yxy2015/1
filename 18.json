@@ -12,7 +12,7 @@
 
 
 "sites":[
-{"key":"合集","name":"合ㅤ集ㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ点击主页切换站源","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"合集","name":"点  击ㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ切换“主页”更精彩","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"屁股_网盘配置","name":"ㅤㅤ网盘及彈幕配置ㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
 
 
