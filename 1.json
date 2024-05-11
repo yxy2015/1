@@ -62,7 +62,7 @@
 
 {"key":"小二_文才","name":"💯文才┃秒播","type":3,"api":"csp_Wexwencai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0511.jar;md5;70af44508b12e770f67d9ad6cd5eefbc"},
 {"key":"小二_闪电","name":"⚡️闪电┊秒播","type":3,"api":"csp_Wexshandian","searchable":1,"changeable":1,"jar":"./jar/wex0511.jar;md5;70af44508b12e770f67d9ad6cd5eefbc"},
-{"key":"小二_明日","name":"🌞明日","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./jar/wex0511.jar;md5;70af44508b12e770f67d9ad6cd5eefbc"},
+{"key":"小二_明日","name":"🌞明日秒播","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./jar/wex0511.jar;md5;70af44508b12e770f67d9ad6cd5eefbc"},
 {"key":"小二_纯享","name":"🦑纯享","type":3,"api":"csp_WexF4kvm","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0511.jar;md5;70af44508b12e770f67d9ad6cd5eefbc"},
 
 {"key":"饭佬_小柚","name":"🍊小柚","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==","jar":"./jar/fan0511.jar;md5;2a085160a4140e1697c5d6393901ec7e","timeout":15},
