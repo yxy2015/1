@@ -12,7 +12,7 @@
 ],
 "sites":[
 {"key":"悟空_悟空搜索","name":"ㅤㅤ悟空搜索ㅤㅤ😃更新：5/11😃ㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
-{"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤ😃更新：5/11😃ㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.json"},
+{"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤ😃更新：5/11😃ㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"ext":"./lib/douban.json"},
 {"key":"饭佬_饭佬搜索","name":"ㅤㅤ饭佬搜索ㅤㅤ😃更新：5/11😃ㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0511.jar;md5;2a085160a4140e1697c5d6393901ec7e"},
 {"key":"屁股_网盘配置","name":"ㅤㅤ网盘及彈幕配置ㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
 
@@ -166,7 +166,7 @@
 {"key":"采集_乐视","name":"☁️乐视丨采集","type":1,"api":"https://leshiapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"采集_资源","name":"☁️资源丨采集","type":"1","api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
-{"key":"采集_影探","name":"🕵️‍♂️影探丨采集","type":3,"api":"csp_AppYsV2","indexs":1,"quickSearch":1,"changeable":1,"searchable":1,"filterable":1,"ext":"http://cms-ytmh.lyyytv.cn/api.php/app/"},
+{"key":"采集_影探","name":"🕵️‍♂️影探丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"http://cms-ytmh.lyyytv.cn/api.php/app/"},
 {"key":"采集_泰泰","name":"🌳泰泰丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"采集_鑫鑫","name":"🐱鑫鑫丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"采集_六九","name":"🤳六九丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
