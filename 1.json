@@ -106,42 +106,7 @@
 {"key":"屁股_港口","name":"🚢港口丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
 {"key":"屁股_磁熊","name":"🐻磁熊丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./js/磁力熊.js","playerType":"1","indexs":1},
 {"key":"屁股_迅雷","name":"⚡迅雷丨磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":30},
-    {
-      "key": "T4-zmp4",
-      "name": "磁力-MP4(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/zmp4.php"
-    },
-      {
-      "key": "T4-哔嘀",
-      "name": "磁力-哔嘀(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bdys.php"
-    },
-      {
-      "key": "T4-caiji",
-      "name": "影视-采集(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/caiji.php"
-    },
-      {
-      "key": "T4-wencai",
-      "name": "影视-文才(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/wencai.php"
-    },
-    {
-      "key": "T4-xinshijue",
-      "name": "影视-新视觉(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/xinshijue.php"
-    },
-      {
-      "key": "T4-xiongdi",
-      "name": "影视-兄弟(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/xiongdi.php"
-    },
+ 
 {"key":"屁股_玩偶","name":"🤶PgWogg丨网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$1$$$./lib/wogg.json","timeout":60},
 {"key":"屁股_皮皮","name":"🤬PikPak丨网盘","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"屁股_立播","name":"🍓Libvio丨网盘","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null","timeout":60},
