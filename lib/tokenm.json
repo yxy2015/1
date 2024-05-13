@@ -56,7 +56,7 @@
   
 "wgcf_key":"WFUEo5mjfMEunjT0i9TL2zzYK8b81alg9kE0MG5gAEQ=",
 "wgcf_key2":"eLPYOt5B+H9sQQrg6tbx13pPt3I5B/lo/LfP/NcU83s=",
-"wgcf_ipport":"162.159.195.99:1070",
+"wgcf_ipport":"162.159.195.4:2371",
 "wgcf_xray_url":"./xray.gz",
 "wgcf_geoip_url":"./geoip.dat.gz",
 "wgcf_json_url":"./wgcf.json",
