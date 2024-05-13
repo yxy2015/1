@@ -1,5 +1,5 @@
 {
-	"spider":"./jar/pg0511.jar;md5;043fc84cbb5bafd26191d4d5293d67ec",
+	"spider":"./jar/pg0513.jar;md5;5d0a61abe5d41bc054eb9f38aaf3559b",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -20,29 +20,6 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
-		{"key":"泥巴1","name":"泥巴1|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10071"},
-{"key":"泥巴2","name":"泥巴2|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10072"},
-{"key":"泥巴3","name":"泥巴3|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10073"},
-{"key":"泥巴4","name":"泥巴4|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10074"},
-
-
-{"key":"星星1","name":"星星1|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10071"},
-{"key":"星星2","name":"星星2|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10072"},
-{"key":"星星3","name":"星星3|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10073"},
-{"key":"星星4","name":"星星4|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10074"},
-
-{"key":"獨播1","name":"獨播1|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10071"},
-{"key":"獨播2","name":"獨播2|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10072"},
-{"key":"獨播3","name":"獨播3|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10073"},
-{"key":"獨播4","name":"獨播4|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10074"},
-{"key":"獨播5","name":"獨播5|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10075"},
-
-{"key":"Wogg0","name":"玩偶哥哥0|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"},
-{"key":"Wogg1","name":"玩偶哥哥1|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
-{"key":"Wogg2","name":"玩偶哥哥2|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json"},
-{"key":"Wogg3","name":"玩偶哥哥3|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10073$$$1$$$./lib/wogg.json"},
-{"key":"Wogg4","name":"玩偶哥哥4|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10074$$$1$$$./lib/wogg.json"},
-{"key":"Wogg5","name":"玩偶哥哥5|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10075$$$1$$$./lib/wogg.json"},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
@@ -56,6 +33,29 @@
 				"ratio": 1.1
 			}
 		},
+
+		{"key":"泥巴1","name":"泥巴1|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10071"},
+{"key":"星星1","name":"星星1|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10071"},
+{"key":"獨播1","name":"獨播1|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10071"},
+{"key":"Wogg1","name":"玩偶哥哥1|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
+
+{"key":"泥巴2","name":"泥巴2|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10072"},
+{"key":"星星1","name":"星星1|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10071"},
+{"key":"獨播1","name":"獨播1|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10071"},
+{"key":"Wogg2","name":"玩偶哥哥2|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json"},
+
+
+{"key":"泥巴3","name":"泥巴3|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10073"},
+{"key":"星星3","name":"星星3|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10073"},
+{"key":"獨播3","name":"獨播3|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10073"},
+{"key":"Wogg3","name":"玩偶哥哥3|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10073$$$1$$$./lib/wogg.json"},
+
+{"key":"泥巴4","name":"泥巴4|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10074"},
+{"key":"星星4","name":"星星4|海外","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"127.0.0.1:10074"},
+{"key":"獨播4","name":"獨播4|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./lib/duboku.json$$$127.0.0.1:10074"},
+{"key":"Wogg4","name":"玩偶哥哥4|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10074$$$1$$$./lib/wogg.json"},
+
+
 		{"key":"AliShareEBook","name":"阿里云盘书籍分享","type":3,"api":"csp_AliShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1",
 			"style": {
 				"type": "list",
@@ -250,14 +250,6 @@
 				"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
 				"免嗅": "0",
 				"页面代理":"proxy"
-			}
-		},
-		{"key":"XBPQ_BaiPiao","name":"白嫖影视|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
-			"ext": {
-				"地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
-				"分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-				"分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-				"页面代理": "proxy"
 			}
 		},
 		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
