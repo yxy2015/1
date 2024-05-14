@@ -30,12 +30,13 @@
 //{"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0"},
 //{"key":"采集_高清","name":"📹高清丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/高清.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 //{"key":"屁股_文才","name":"💯文才丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XYQHiker/文才.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
+//{"key":"屁股_范丝","name":"🎉范丝丨秒播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 
 
   
 {"key":"屁股_皮皮","name":"🤬PikPak丨网盘（海外资源观看！）","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"屁股_布谷","name":"🐦布谷丨4K（很吃网速和硬件）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/布谷.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
-{"key":"屁股_范丝","name":"🎉范丝丨4K（很吃网速和硬件）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
+{"key":"屁股_范丝","name":"🎉范丝丨4K（很吃网速和硬件）","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"},
 {"key":"屁股_偶偶","name":"🧲玩偶丨4K（很吃网速和硬件）","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wo4k.net/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":60},
 
 {"key":"屁股_太灵","name":"🐶太灵丨磁力（很吃网速和硬件）","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":60},
@@ -163,16 +164,17 @@
 {"key":"采集_虎牙","name":"☁️老虎丨采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"categories":["短剧","内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","伦理片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
 {"key":"采集_新浪","name":"☁️新浪丨采集","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"categories":["短剧","大陆剧","动作片","动漫","综艺"]},
 {"key":"采集_乐视","name":"☁️乐视丨采集","type":1,"api":"https://leshiapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
-{"key":"采集_资源","name":"☁️资源丨采集","type":"1","api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"采集_资源","name":"☁️资源丨采集","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
 {"key":"采集_影探","name":"🕵️‍♂️影探丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"http://cms-ytmh.lyyytv.cn/api.php/app/"},
 {"key":"采集_泰泰","name":"🌳泰泰丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"采集_鑫鑫","name":"🐱鑫鑫丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"采集_六九","name":"🤳六九丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
+
 {"key":"饭佬_七七","name":"👒七七丨秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
 {"key":"饭老_巴士","name":"🚌动漫丨秒播","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
-{"key":"屁股_泥泥","name":"✈️泥巴丨海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10072"},
+{"key":"屁股_泥泥","name":"✈️泥巴丨海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"127.0.0.1:10072"},
 
 
 
