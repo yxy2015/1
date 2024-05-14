@@ -16,6 +16,11 @@
 {"key":"屁股_网盘配置","name":"ㅤㅤ网盘及彈幕配置ㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
 
 
+{"key":"PikPak0","name":"💔PikPak0(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.db.gz","style":{"type":"list","ratio":1.1}},
+{"key":"PikPak1","name":"💔PikPak1(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.a1.json$$$./lib/pikpakclass.a1.json.db.gz","style":{"type":"list","ratio":1.1}},
+{"key":"PikPak2","name":"💔PikPak2(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass18.json$$$./lib/pikpakclass.a.json.db.gz","style":{"type":"list","ratio":1.1}},
+{"key":"玩偶哥哥","name":"💔玩偶哥哥(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10072$$$null$$$1"},
+
 {"key":"溏心","name":"💋溏心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"数组":"<li&&</li>","搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html","副标题":"添加时间:&&</span>","主页url":"https://www.txcyeat.buzz/index.php/label/sort.html","分类二次截取":"<body>&&</body>[替换:/span>>/p#span>>classfont\"]","分类数组":"<li&&</li>","分类标题":"classfont\">&&</p>","分类ID":"index.php/vodtype/&&.html","分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"},"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","style":{"ratio":1.7}},
 {"key":"天美","name":"💋天美","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","数组":"\"box-item\"&&</em>","副标题":"<strong>&&</strong>","分类数组":"<li>&&</li>","分类标题":"\">&&</a","分类ID":"id/&&.","分类链接":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"},"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","style":{"ratio":1.7}},
 {"key":"狼群","name":"💋狼群","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类":"无码$1#中文av$6#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#有码$4#日韩$9#自拍$10","站名":"2028P","主页url":"http://www.2028p.com","直接播放":"1","页面代理":"proxy","搜索url":"http://2028p.com/vodsearch/-------------/?wd={wd}","分类url":"http://2028p.com/vodshow/{cateId}--{by}------{catePg}---/"},"playerType":0,"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
@@ -91,25 +96,15 @@
 {"key":"有酒","name":"💋有酒","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}","数组":"<tr&&</tr>","简介":"Date:</div>&&</","图片":"","播放二次截取":"panel-footerclearfix&&</div>","播放数组":"<a&&</a>[不包含:Torrent#filecove]","分类":"DHT网络$1","分类url":"https://u9a9b.cc/?type={cateId}&p={catePg};;m"},"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","style":{"type":"list"}},
 {"key":"u9a9","name":"💋u9a9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","style":{"ratio":1.7},"ext":{"搜索url":"https://u9a9b.cc/?type=2&search={wd}&p={pg}","数组":"<tr&&</tr>","首页":"0","副标题":"GB</td>*\">&&","简介":"Date:</div>&&</","图片":"http+://欧阳.oyxx-1.eu.org/u9a9.php?u=+https+://u9a9b.cc+href=\"&&\"","播放二次截取":"panel-footerclearfix&&</div>","播放数组":"<a&&</a>[不包含:Torrent#filecove]","分类":"U9A9$2#DHT网络(无图)$1","分类url":"https://u9a9b.cc/?type={cateId}&p={catePg};;m"}},
 
-{"key":"玩偶1","name":"💔玩偶1(翻)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10071$$$null$$$1"},
-{"key":"玩偶2","name":"💔玩偶2(翻)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10072$$$null$$$1"},
-{"key":"MissAV","name":"💔MissAV(翻)","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"style":{"type":"rect","ratio":1.78},"timeout":60,"ext":"127.0.0.1:10072$$$null$$$1"},
-{"key":"Jable","name":"💔Jable(翻)","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"style":{"type":"rect","ratio":1.77},"timeout":60,"ext":"127.0.0.1:10072$$$null$$$1"},
-{"key":"Cable","name":"💔CableAV(翻)","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"127.0.0.1:10072$$$null$$$1"},
-{"key":"Hanime","name":"💔Hanime(翻)","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68},"ext":"$$$127.0.0.1:10072$$$null$$$1"},
-{"key":"BtSearch","name":"💔BtSearch磁力(翻)","type":3,"api":"csp_BtSearch","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$127.0.0.1:10072$$$null$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
 
-
-
-
-{"key":"PikPakShare","name":"PikPak","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz","style":{"type":"list","ratio":1.1}},
-{"key":"PikPakShare0","name":"PikPak0","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.db.gz","style":{"type":"list","ratio":1.1}},
-{"key":"PikPakShare1","name":"PikPak1","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.a1.json$$$./lib/pikpakclass.a1.json.db.gz","style":{"type":"list","ratio":1.1}},
-{"key":"PikPakShare18","name":"PikPak18","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass18.json$$$./lib/pikpakclass.a.json.db.gz","style":{"type":"list","ratio":1.1}},
-
-{"key":"八八八","name":"💔八八八(翻)","type":3,"api":"csp_Top888","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"timeout":60,"ext":"127.0.0.1:10072$$$null$$$1"},
-{"key":"色花堂","name":"💔色花堂(翻)","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$127.0.0.1:10072","style":{"type":"rect","ratio":1.5}},
-{"key":"Xojav","name":"💔XOJav(翻)","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$127.0.0.1:10072","style":{"type":"rect","ratio":1.5}},
+{"key":"MissAV","name":"💔MissAV(海外)","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"style":{"type":"rect","ratio":1.78},"timeout":60,"ext":"127.0.0.1:10072$$$null$$$1"},
+{"key":"Jable","name":"💔Jable(海外)","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"style":{"type":"rect","ratio":1.77},"timeout":60,"ext":"127.0.0.1:10072$$$null$$$1"},
+{"key":"Cable","name":"💔CableAV(海外)","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"127.0.0.1:10072$$$null$$$1"},
+{"key":"Hanime","name":"💔Hanime(海外)","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68},"ext":"$$$127.0.0.1:10072$$$null$$$1"},
+{"key":"BtSearch","name":"💔BtSearch磁力(海外)","type":3,"api":"csp_BtSearch","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$127.0.0.1:10072$$$null$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
+{"key":"八八八","name":"💔八八八(海外)","type":3,"api":"csp_Top888","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"timeout":60,"ext":"127.0.0.1:10072$$$null$$$1"},
+{"key":"色花堂","name":"💔色花堂(海外)","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$127.0.0.1:10072","style":{"type":"rect","ratio":1.5}},
+{"key":"Xojav","name":"💔XOJav(海外)","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$127.0.0.1:10072","style":{"type":"rect","ratio":1.5}},
 {"key":"推送","name":"🔞🔞🔞🔞🔞🔞🔞🔞🔞🔞","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":1,"changeable":0}
 ],
 
