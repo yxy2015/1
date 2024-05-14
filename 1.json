@@ -53,10 +53,7 @@
 {"key":"屁股_立播","name":"🍓立播丨网盘（夸克扫码观看！）","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null","timeout":60},
 {"key":"屁股_高清","name":"📺高清丨网盘（迅雷扫码观看！）","type":3,"api":"csp_Gaoqing","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$127.0.0.1:10072$$$1","timeout":60},
 
-{"key":"屁股_校长","name":"🎓校长丨网盘（夸克扫码观看！）","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1","timeout":60},
-{"key":"屁股_团长","name":"👺团长丨网盘（夸克扫码观看！）","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
-{"key":"屁股_影巢","name":"🎥影巢丨网盘（夸克扫码观看！）","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
-{"key":"屁股_皮虾","name":"🦐皮虾丨网盘（夸克扫码观看！）","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$127.0.0.1:10072$$$https://ppxzy.ink/$$$null$$$1","timeout":60},
+
 
 
 {"key":"饭佬_比特","name":"🍒比特丨秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
@@ -98,6 +95,11 @@
 {"key":"屁股_南瓜","name":"🎃南瓜丨秒播","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"ext":"null$$$1","timeout":60},
 {"key":"屁股_快看","name":"👀快看丨秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"屁股_天天","name":"☀️天天丨秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn$$$null$$$1"},
+
+{"key":"屁股_校长","name":"🎓校长丨网盘（夸克扫码观看！）","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1","timeout":60},
+{"key":"屁股_团长","name":"👺团长丨网盘（夸克扫码观看！）","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
+{"key":"屁股_影巢","name":"🎥影巢丨网盘（夸克扫码观看！）","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
+{"key":"屁股_皮虾","name":"🦐皮虾丨网盘（夸克扫码观看！）","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$127.0.0.1:10072$$$https://ppxzy.ink/$$$null$$$1","timeout":60},
 
 {"key":"屁股_荐片","name":"📀荐片丨磁力","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./lib/jianpian.json$$$1","timeout":60},
 {"key":"屁股_新6V","name":"📈新6V丨磁力","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":0,"filterable":0,"changeable":1,"ext":"./lib/tokenm.json$$$https://www.66ss.org$$$1","timeout":60},
