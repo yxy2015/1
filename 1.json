@@ -56,26 +56,26 @@
 
 
 
-{"key":"饭佬_比特","name":"🍒比特丨秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
-{"key":"饭佬_苹果","name":"🍎苹果丨秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
-{"key":"饭佬_酷看","name":"💎酷看丨秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
-{"key":"饭佬_热播","name":"📺热播丨秒播","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
-
 {"key":"小二_文才","name":"💯文才丨秒播","type":3,"api":"csp_Wexwencai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0514.jar;md5;1d8a6792c4de97620de236430e8fee31"},
 {"key":"小二_闪电","name":"⚡️闪电丨秒播","type":3,"api":"csp_Wexshandian","searchable":1,"changeable":1,"jar":"./jar/wex0514.jar;md5;1d8a6792c4de97620de236430e8fee31"},
 {"key":"小二_明日","name":"🌞明日丨秒播","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./jar/wex0514.jar;md5;1d8a6792c4de97620de236430e8fee31"},
 {"key":"小二_纯享","name":"🦑纯享丨秒播","type":3,"api":"csp_WexF4kvm","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0514.jar;md5;1d8a6792c4de97620de236430e8fee31"},
 
+{"key":"饭佬_比特","name":"🍒比特丨秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
+{"key":"饭佬_苹果","name":"🍎苹果丨秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
+{"key":"饭佬_酷看","name":"💎酷看丨秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
+{"key":"饭佬_热播","name":"📺热播丨秒播","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
+
 {"key":"饭佬_小柚","name":"🍊小柚丨秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
 {"key":"饭佬_虾米","name":"🦀虾米丨秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w==","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
 {"key":"饭佬_萌米","name":"👀萌米丨秒播","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
 {"key":"饭佬_小点","name":"💥小点丨秒播","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
-{"key":"饭佬_视觉","name":"👓视觉丨秒播","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0"},
 
 {"key":"香佬_耳机","name":"🎧耳机丨磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0511.jar;md5;81544697bc790013fc5bb1d2939bf0b6"},
 {"key":"饭佬_低端","name":"⏮️低端丨秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0","timeout":15},
 {"key":"屁股_影视","name":"🍖影视丨秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":""},
 {"key":"屁股_爱看","name":"👾爱看丨秒播","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.ikanbot.com$$$proxy"},
+{"key":"饭佬_视觉","name":"👓视觉丨秒播","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/","jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0"},
 
 {"key":"开心_圣城","name":"🔔圣城丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/圣城.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"开心_可可","name":"🔔可可丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可可.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
