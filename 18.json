@@ -16,8 +16,10 @@
 {"key":"屁股_网盘配置","name":"ㅤㅤ网盘及彈幕配置ㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
 
 
-{"key":"玩偶哥哥","name":"💔玩偶哥哥(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10072$$$null$$$1"},
 {"key":"玩偶哥哥1","name":"💔玩偶哥哥1(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10071$$$null$$$1"},
+{"key":"玩偶哥哥2","name":"💔玩偶哥哥2(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10072$$$null$$$1"},
+{"key":"玩偶哥哥3","name":"💔玩偶哥哥3(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10073$$$null$$$1"},
+{"key":"玩偶哥哥4","name":"💔玩偶哥哥4(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10074$$$null$$$1"},
 {"key":"PikPak0","name":"💔PikPak0(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.db.gz","style":{"type":"list","ratio":1.1}},
 {"key":"PikPak1","name":"💔PikPak1(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.a1.json$$$./lib/pikpakclass.a1.json.db.gz","style":{"type":"list","ratio":1.1}},
 {"key":"PikPak2","name":"💔PikPak2(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass18.json$$$./lib/pikpakclass.a.json.db.gz","style":{"type":"list","ratio":1.1}},
