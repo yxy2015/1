@@ -43,7 +43,7 @@
 //{"key":"屁股_范丝","name":"🎉范丝丨秒播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 
 
-{"key":"饭佬_饭偶","name":"🎅饭偶丨网盘（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":{"quarkCookie":"tvfan/cookie.txt","aliToken":"tvfan/token.txt","from":"4k|auto|fhd","siteUrl":"https://v6.wogg.xyz/","danMu":"弹"},"jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0"},
+{"key":"饭佬_饭偶","name":"🎅饭偶丨网盘（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":{"quarkCookie":"tvfan/cookie.txt","aliToken":"tvfan/token.txt","from":"4k|auto|fhd","siteUrl":"https://cdn.wogg.xyz/","danMu":"弹"},"jar":"./jar/fan0513.jar;md5;e85e180ec8caae0d38c78a021a2494e0"},
 {"key":"屁股_立播","name":"🍓立播丨网盘（夸克扫码观看）","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null","timeout":60},
 {"key":"屁股_校长","name":"🎓校长丨网盘（夸克扫码观看）","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1","timeout":60},
 {"key":"屁股_高清","name":"📺高清丨网盘（迅雷扫码观看）","type":3,"api":"csp_Gaoqing","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$127.0.0.1:10072$$$1","timeout":60},
@@ -97,7 +97,7 @@
 {"key":"屁股_快看","name":"👀快看丨秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"屁股_天天","name":"☀️天天丨秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn$$$null$$$1"},
 
-{"key":"屁股_玩偶","name":"🤶PgWogg丨网盘（夸克扫码观看！）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://v6.wogg.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_玩偶","name":"🤶PgWogg丨网盘（夸克扫码观看！）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://cdn.wogg.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":60},
 {"key":"屁股_团长","name":"👺团长丨网盘（夸克扫码观看！）","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
 {"key":"屁股_影巢","name":"🎥影巢丨网盘（夸克扫码观看！）","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
 {"key":"屁股_皮虾","name":"🦐皮虾丨网盘（夸克扫码观看！）","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$127.0.0.1:10072$$$https://ppxzy.ink/$$$null$$$1","timeout":60},
@@ -153,10 +153,10 @@
 {"key":"屁股_磁熊","name":"🐻磁熊丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./js/磁力熊.js","playerType":"1","indexs":1},
 {"key":"屁股_迅雷","name":"⚡迅雷丨磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":30},
 
-{"key":"屁股_老哥","name":"🍈玩你丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":60},
-{"key":"屁股_土豆","name":"🥔土豆丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":60},
-{"key":"屁股_表哥","name":"🍇表哥丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":60},
-{"key":"屁股_弟弟","name":"🥭玩我丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://m.kxys.site:3328/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_老哥","name":"🍈玩你丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_土豆","name":"🥔土豆丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_表哥","name":"🍇表哥丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_弟弟","name":"🥭玩我丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://m.kxys.site:3328/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":60},
 
 {"key":"屁股_影院","name":"🎥FourHD丨磁力","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$./TV/4khdr.txt$$$1","timeout":60},
 {"key":"屁股_盘搜","name":"🥇PanSea丨网盘","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
