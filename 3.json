@@ -108,6 +108,13 @@
 {"key":"Wogg27","name":"玩偶哥哥27|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$127.0.0.1:10073$$$1$$$./lib/wogg.json"},
 
 
+{"key":"Wogg31","name":"玩偶哥哥31|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$127.0.0.1:10074$$$1$$$./lib/wogg.json"},
+{"key":"Wogg32","name":"玩偶哥哥32|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://v6.wogg.xyz/$$$127.0.0.1:10074$$$1$$$./lib/wogg.json"},
+{"key":"Wogg33","name":"玩偶哥哥33|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://cdn.wogg.xyz/$$$127.0.0.1:10074$$$1$$$./lib/wogg.json"},
+{"key":"Wogg34","name":"玩偶哥哥34|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://api.wogg.xyz/$$$127.0.0.1:10074$$$1$$$./lib/wogg.json"},
+{"key":"Wogg35","name":"玩偶哥哥35|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$127.0.0.1:10074$$$1$$$./lib/wogg.json"},
+{"key":"Wogg36","name":"玩偶哥哥36|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10074$$$1$$$./lib/wogg.json"},
+{"key":"Wogg37","name":"玩偶哥哥37|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$127.0.0.1:10074$$$1$$$./lib/wogg.json"},
 
 
 
