@@ -79,6 +79,14 @@
 				"ratio": 3.8
 			}
 		},
+{"key":"Wogg01","name":"玩偶哥哥01|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
+{"key":"Wogg02","name":"玩偶哥哥02|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://v6.wogg.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
+{"key":"Wogg03","name":"玩偶哥哥03|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://cdn.wogg.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
+{"key":"Wogg04","name":"玩偶哥哥04|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://api.wogg.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
+{"key":"Wogg05","name":"玩偶哥哥05|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
+{"key":"Wogg06","name":"玩偶哥哥06|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
+{"key":"Wogg07","name":"玩偶哥哥07|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
+
 {"key":"Wogg1","name":"玩偶哥哥1|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json"},
 {"key":"Wogg2","name":"玩偶哥哥2|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://v6.wogg.xyz/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json"},
 {"key":"Wogg3","name":"玩偶哥哥3|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://cdn.wogg.xyz/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json"},
