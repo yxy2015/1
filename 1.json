@@ -66,10 +66,15 @@
 {"key":"饭佬_萌米","name":"👀萌米丨秒播","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar":"./jar/fan0517.jar;md5;a4def97541fafa5558b6182c1326c9b0","timeout":15},
 {"key":"饭佬_小点","name":"💥小点丨秒播","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fan0517.jar;md5;a4def97541fafa5558b6182c1326c9b0","timeout":15},
 
-{"key":"小二_文才","name":"💯文才丨秒播","type":3,"api":"csp_Wexwencai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0514.jar;md5;1d8a6792c4de97620de236430e8fee31"},
-{"key":"小二_闪电","name":"⚡️闪电丨秒播","type":3,"api":"csp_Wexshandian","searchable":1,"changeable":1,"jar":"./jar/wex0514.jar;md5;1d8a6792c4de97620de236430e8fee31"},
-{"key":"小二_明日","name":"🌞明日丨秒播","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./jar/wex0514.jar;md5;1d8a6792c4de97620de236430e8fee31"},
-{"key":"小二_纯享","name":"🦑纯享丨秒播","type":3,"api":"csp_WexF4kvm","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0514.jar;md5;1d8a6792c4de97620de236430e8fee31"},
+{"key":"小二_文才","name":"💯文才丨秒播","type":3,"api":"csp_Wexwencai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0517.jar;md5;e4c190fd99e6c53a45e0c2d1bb225f4c"},
+{"key":"小二_闪电","name":"⚡️闪电丨秒播","type":3,"api":"csp_Wexshandian","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0517.jar;md5;e4c190fd99e6c53a45e0c2d1bb225f4c"},
+{"key":"小二_星星","name":"🌟星星丨秒播","type":3,"api":"csp_Wexbaipiao","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0517.jar;md5;e4c190fd99e6c53a45e0c2d1bb225f4c"},
+{"key":"小二_花花","name":"🌺花花丨秒播","type":3,"api":"csp_Wexhuayang","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0517.jar;md5;e4c190fd99e6c53a45e0c2d1bb225f4c"},
+
+{"key":"小二_啾啾","name":"🎉啾啾丨秒播","type":3,"api":"csp_Wexjiohub","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0517.jar;md5;e4c190fd99e6c53a45e0c2d1bb225f4c"},
+{"key":"小二_伯伯","name":"🎅‍伯伯丨秒播","type":3,"api":"csp_WexNmys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0517.jar;md5;e4c190fd99e6c53a45e0c2d1bb225f4c"},
+{"key":"小二_明日","name":"🌞明日丨秒播","type":3,"api":"csp_WexMingriys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0517.jar;md5;e4c190fd99e6c53a45e0c2d1bb225f4c"},
+{"key":"小二_纯享","name":"🦑纯享丨秒播","type":3,"api":"csp_WexF4kvm","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0517.jar;md5;e4c190fd99e6c53a45e0c2d1bb225f4c"},
 
 {"key":"香佬_耳机","name":"🎧耳机丨磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0511.jar;md5;81544697bc790013fc5bb1d2939bf0b6"},
 {"key":"饭佬_低端","name":"⏮️低端丨秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","jar":"./jar/fan0517.jar;md5;a4def97541fafa5558b6182c1326c9b0","timeout":15},
