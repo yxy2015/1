@@ -22,9 +22,9 @@
 {"key":"采集_中央","name":"CCTV","type":3,"api":"csp_CCTV","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/央视大全.json","jar":"./jar/cctv.jar;md5;a4641d44614be4500b314841116b55a4"},
 
 {"key":"屁股_酷狗","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
-{"key":"影视_听书","name":"小说听书","type":3,"api":"csp_BookTing","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"https://m.ting275.com","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
+{"key":"饭佬_热歌","name":"哔站热歌","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"./哔哩哔哩/哔站热歌.json","jar":"./jar/fan0517.jar;md5;a4def97541fafa5558b6182c1326c9b0"},
 {"key":"饭佬_戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json","jar":"./jar/fan0517.jar;md5;a4def97541fafa5558b6182c1326c9b0"},
-{"key":"屁股_音乐","name":"KTV音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
+{"key":"屁股_急救","name":"急救知识","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 
 {"key":"短剧_非凡","name":"📽️非凡丨短剧","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/?","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 {"key":"短剧_量子","name":"📽️量子丨短剧","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8","searchable":0,"changeable":0,"categories":["短剧"]},
@@ -37,6 +37,7 @@
 {"key":"短剧_极速","name":"📽️极速丨短剧","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 
 
+//{"key":"屁股_音乐","name":"KTV音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
 //{"key":"豆瓣_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：4/16😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣搜索.js","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"采集_高清","name":"📹高清丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/高清.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 //{"key":"屁股_文才","name":"💯文才丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XYQHiker/文才.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
