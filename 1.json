@@ -75,23 +75,22 @@
 {"key":"饭佬_低端","name":"⏮️低端丨秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","jar":"./jar/fan0517.jar;md5;a4def97541fafa5558b6182c1326c9b0","timeout":15},
 {"key":"屁股_影视","name":"🍖影视丨秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":""},
 {"key":"屁股_爱看","name":"👾爱看丨秒播","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.ikanbot.com$$$proxy"},
-{"key":"饭佬_视觉","name":"👓视觉丨秒播","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/","jar":"./jar/fan0517.jar;md5;a4def97541fafa5558b6182c1326c9b0"},
 
+{"key":"开心_视觉","name":"🔔视觉丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/视觉.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"开心_圣城","name":"🔔圣城丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/圣城.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"开心_可可","name":"🔔可可丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可可.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"开心_五五","name":"🔔五五丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/五五.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
-{"key":"开心_视觉","name":"🔔视觉丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/视觉.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 
+{"key":"开心_兄弟","name":"🔔兄弟丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/兄弟.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"开心_疯狗","name":"🔔疯狗丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/疯狗.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"开心_盒子","name":"🔔盒子丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/盒子.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"开心_星辰","name":"🔔星辰丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/星辰.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
+
 {"key":"开心_七新","name":"🔔七新丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/七新.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"开心_三八","name":"🔔三八丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/三八.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
-
 {"key":"开心_达龟","name":"🔔达龟丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQHiker/达龟.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"开心_蛋蛋","name":"🔔蛋蛋丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/蛋蛋.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"开心_奇优","name":"🔔奇优丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/奇优.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
-{"key":"开心_兄弟","name":"🔔兄弟丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/兄弟.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 
 {"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.top/","jar":"./jar/fan0517.jar;md5;a4def97541fafa5558b6182c1326c9b0","timeout":15},
 {"key":"屁股_南瓜","name":"🎃南瓜丨秒播","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"ext":"null$$$1","timeout":60},
@@ -173,6 +172,7 @@
 {"key":"饭佬_七七","name":"👒七七丨秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0517.jar;md5;a4def97541fafa5558b6182c1326c9b0","timeout":15},
 {"key":"饭老_巴士","name":"🚌动漫丨秒播","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0517.jar;md5;a4def97541fafa5558b6182c1326c9b0","timeout":15},
 {"key":"屁股_泥泥","name":"✈️泥巴丨海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"127.0.0.1:10072"},
+{"key":"饭佬_视觉","name":"👓视觉丨秒播","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/","jar":"./jar/fan0517.jar;md5;a4def97541fafa5558b6182c1326c9b0"},
 
 
 
