@@ -58,8 +58,8 @@
 
 {"key":"饭佬_比特","name":"🍒比特丨秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0519.jar;md5;f4a9956bae884c4a952da9152c0ed446","timeout":15},
 {"key":"饭佬_苹果","name":"🍎苹果丨秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0519.jar;md5;f4a9956bae884c4a952da9152c0ed446","timeout":15},
-{"key":"饭佬_酷看","name":"💎酷看丨秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0519.jar;md5;f4a9956bae884c4a952da9152c0ed446","timeout":15},
 {"key":"饭佬_热播","name":"📺热播丨秒播","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./jar/fan0519.jar;md5;f4a9956bae884c4a952da9152c0ed446","timeout":15},
+{"key":"饭佬_酷看","name":"💎酷看丨秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0519.jar;md5;f4a9956bae884c4a952da9152c0ed446","timeout":15},
 
 {"key":"小二_文才","name":"💯文才丨秒播","type":3,"api":"csp_Wexwencai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0519.jar;md5;aaed7918b3aae5960726413304c4f6c2"},
 {"key":"小二_闪电","name":"⚡️闪电丨秒播","type":3,"api":"csp_Wexshandian","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0519.jar;md5;aaed7918b3aae5960726413304c4f6c2"},
