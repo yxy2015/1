@@ -12,8 +12,7 @@
 
 
 "sites":[
-{"key":"合集","name":"点击ㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ“主页”更精彩!!!","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"屁股_网盘配置","name":"ㅤㅤ网盘及彈幕配置ㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
+//{"key":"合集","name":"点击ㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ“主页”更精彩!!!","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
 
 
 {"key":"溏心","name":"🔞溏心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"数组":"<li&&</li>","搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html","副标题":"添加时间:&&</span>","主页url":"https://www.txcyeat.buzz/index.php/label/sort.html","分类二次截取":"<body>&&</body>[替换:/span>>/p#span>>classfont\"]","分类数组":"<li&&</li>","分类标题":"classfont\">&&</p>","分类ID":"index.php/vodtype/&&.html","分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"},"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","style":{"ratio":1.7}},
@@ -28,14 +27,7 @@
 {"key":"探探","name":"🔞探探","type":1,"style":{"type":"rect","ratio":1.6},"api":"https://apittzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"老色","name":"🔞老色","type":1,"style":{"type":"rect","ratio":1.6},"api":"https://apilsbzy1.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
-{"key":"玩偶哥哥1","name":"💔玩偶哥哥1(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10071$$$null$$$1"},
-{"key":"玩偶哥哥2","name":"💔玩偶哥哥2(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10072$$$null$$$1"},
-{"key":"玩偶哥哥3","name":"💔玩偶哥哥3(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10073$$$null$$$1"},
-{"key":"玩偶哥哥4","name":"💔玩偶哥哥4(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10074$$$null$$$1"},
-{"key":"PikPak0","name":"💔PikPak0(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.db.gz","style":{"type":"list","ratio":1.1}},
-{"key":"PikPak1","name":"💔PikPak1(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.a1.json$$$./lib/pikpakclass.a1.json.db.gz","style":{"type":"list","ratio":1.1}},
-{"key":"PikPak2","name":"💔PikPak2(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass18.json$$$./lib/pikpakclass.a.json.db.gz","style":{"type":"list","ratio":1.1}},
-
+{"key":"屁股_网盘配置","name":"ㅤㅤ网盘及彈幕配置ㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
 {"key":"Zuise","name":"🔞Zuise","type":3,"api":"csp_Zuise","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":60},
 {"key":"Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60},
 {"key":"Eighteen","name":"🔞Eighteen","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"style":{"type":"rect","ratio":1.485},"timeout":60},
@@ -97,6 +89,14 @@
 //{"key":"仓库","name":"🔞仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类":"日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22","搜索url":"http://oy.oyxx-1.eu.org/hs1.php?u=/vodsearch/{wd}----------{pg}---.html","主页url":"http://oy.oyxx-1.eu.org/hs1.php/","链接前缀":"http+://oy.oyxx-1.eu.org/hs1.php?u=","简介":"时间：&&<","副标题":"❤️+fafa-heart\"></i>&&<+🔥+\"fafa-eye\"></i>&&<","分类url":"http://oy.oyxx-1.eu.org/hs1.php?u=vodtype/{cateId}-{catePg}.html;;zm"},"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","style":{"ratio":1.7}},
 
 
+
+{"key":"玩偶哥哥1","name":"💔玩偶哥哥1(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10071$$$null$$$1"},
+{"key":"玩偶哥哥2","name":"💔玩偶哥哥2(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10072$$$null$$$1"},
+{"key":"玩偶哥哥3","name":"💔玩偶哥哥3(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10073$$$null$$$1"},
+{"key":"玩偶哥哥4","name":"💔玩偶哥哥4(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10074$$$null$$$1"},
+{"key":"PikPak0","name":"💔PikPak0(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.db.gz","style":{"type":"list","ratio":1.1}},
+{"key":"PikPak1","name":"💔PikPak1(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.a1.json$$$./lib/pikpakclass.a1.json.db.gz","style":{"type":"list","ratio":1.1}},
+{"key":"PikPak2","name":"💔PikPak2(海外)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass18.json$$$./lib/pikpakclass.a.json.db.gz","style":{"type":"list","ratio":1.1}},
 
 {"key":"Taohuazu","name":"🔞Taohuazu","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"http://thze.cc/","timeout":60},
 {"key":"JavBus","name":"🔞JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://www.buscdn.art","style":{"type":"rect","ratio":1.77},"timeout":60},
