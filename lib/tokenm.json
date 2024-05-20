@@ -27,7 +27,7 @@
 "thunder_vip_thread_limit":2,
 "thunder_flags":"4k|4kz|auto",
   
-"aliproxy":"127.0.0.1:10071",
+"aliproxy":"",
 "aliproxy_url":"",
 "proxy":"127.0.0.1:10071",
 "danmu":true,
@@ -54,8 +54,8 @@
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
   
-"wgcf_key":"WFUEo5mjfMEunjT0i9TL2zzYK8b81alg9kE0MG5gAEQ=",
-"wgcf_key2":"eLPYOt5B+H9sQQrg6tbx13pPt3I5B/lo/LfP/NcU83s=",
+"wgcf_key":"eLPYOt5B+H9sQQrg6tbx13pPt3I5B/lo/LfP/NcU83s=",
+"wgcf_key2":"WFUEo5mjfMEunjT0i9TL2zzYK8b81alg9kE0MG5gAEQ=",
 "wgcf_ipport":"162.159.195.123:890",
 "wgcf_xray_url":"./xray.gz",
 "wgcf_geoip_url":"./geoip.dat.gz",
