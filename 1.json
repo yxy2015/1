@@ -146,7 +146,10 @@
 {"key":"采集_虎牙","name":"☁️老虎丨采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"categories":["短剧","内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","伦理片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
 {"key":"采集_新浪","name":"☁️新浪丨采集","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"categories":["短剧","大陆剧","动作片","动漫","综艺"]},
 {"key":"采集_乐视","name":"☁️乐视丨采集","type":1,"api":"https://leshiapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+
 {"key":"采集_资源","name":"☁️资源丨采集","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"采集_黑木","name":"☁️黑木|采集","type":1,"api":"https://www.heimuer.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"categories":["国产剧","港剧","台剧","韩剧","日剧","泰剧","欧美剧","短剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","电影","电视剧","动漫","综艺","剧情","动作","冒险","同性","喜剧","奇幻","恐怖","悬疑","惊悚","灾难","爱情","犯罪","科幻","动画电影","新马剧","其他剧","歌舞","战争","经典","网络电影","其它","古装","虐恋","逆袭","悬疑","神豪","重生","复仇","穿越","甜宠","强者","萌宝","其它","欧美","日本","韩国","国产","港台","新马泰","其它"]},
+{"key":"drpy_js_次元城动漫","name":"动漫|次元城动漫[js]","type":3,"api":"http://serv.cloudns.be/drpy_libs/drpy2.js","ext":"http://serv.cloudns.be/js/次元城动漫.js"},
 
 {"key":"采集_影探","name":"🕵️‍♂️影探丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"http://cms-ytmh.lyyytv.cn/api.php/app/"},
 {"key":"采集_泰泰","name":"🌳泰泰丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
