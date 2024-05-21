@@ -2,6 +2,7 @@
 "wallpaper":"https://picsum.photos/1280/720",
 "spider":"./jar/pg0521.jar;md5;6a352a4e45dabfaf805c7c91d856aa34",
 "lives":[
+{"name":"直播福利","url":"http://oy.oyxx-1.eu.org/hhbb.php"},
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
 {"name":"糖意","type":0,"url":"https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 {"name":"YanG","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/Adult.m3u"},
@@ -14,7 +15,6 @@
 "sites":[
 //{"key":"合集","name":"点击ㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ“主页”更精彩!!!","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"狼群","name":"🔞狼群","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类":"无码$1#中文av$6#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#有码$4#日韩$9#自拍$10","站名":"2028P","主页url":"http://www.2028p.com","直接播放":"1","页面代理":"proxy","搜索url":"http://2028p.com/vodsearch/-------------/?wd={wd}","分类url":"http://2028p.com/vodshow/{cateId}--{by}------{catePg}---/"},"playerType":0,"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
-{"name":"🔞直播福利","url":"http://oy.oyxx-1.eu.org/hhbb.php"},
 
 {"key":"溏心","name":"🔞溏心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"数组":"<li&&</li>","搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html","副标题":"添加时间:&&</span>","主页url":"https://www.txcyeat.buzz/index.php/label/sort.html","分类二次截取":"<body>&&</body>[替换:/span>>/p#span>>classfont\"]","分类数组":"<li&&</li>","分类标题":"classfont\">&&</p>","分类ID":"index.php/vodtype/&&.html","分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"},"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","style":{"ratio":1.7}},
 {"key":"天美","name":"🔞天美","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","数组":"\"box-item\"&&</em>","副标题":"<strong>&&</strong>","分类数组":"<li>&&</li>","分类标题":"\">&&</a","分类ID":"id/&&.","分类链接":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"},"jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","style":{"ratio":1.7}},
