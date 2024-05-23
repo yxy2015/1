@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0523.jar;md5;87d7275c737386fcc3fcbb4b08d62dc1",
+"spider":"./jar/pg0523.jar;md5;4b479cf62e7ae2f3a5e0487dbf1ed9e5",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "logo":"./lib/1.png",
 "lives":[
@@ -97,7 +97,7 @@
 {"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.top/","jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2","timeout":15},
 {"key":"饭佬_低端","name":"⏮️低端丨秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2","timeout":15},
 {"key":"屁股_影视","name":"🍖影视丨秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":""},
-{"key":"屁股_爱看","name":"👾爱看丨秒播","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.ikanbot.com$$$proxy"},
+{"key":"屁股_爱看","name":"👾爱看丨秒播","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.aikanbot.com$$$proxy"},
 
 {"key":"开心_视觉","name":"🔔视觉丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/视觉.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
 {"key":"开心_圣城","name":"🔔圣城丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/圣城.json","jar":"./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
