@@ -92,7 +92,9 @@
 {"key":"屁股_影视","name":"🍖影视丨秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":""},
 {"key":"屁股_爱看","name":"👾爱看丨多线","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.aikanbot.com$$$proxy"},
 {"key":"道长_爱看","name":"🅰爱看丨多线","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/ikanbot.js"},
+{"key":"采集_采集","name":"📺采集丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://vipcj.timizy.com/api.php/provide/vod/?ac=detail"},
 
+  
 {"key":"屁股_立播","name":"🍓立播丨网盘（夸克扫码观看）","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null","timeout":60},
 {"key":"屁股_校长","name":"🎓校长丨网盘（夸克扫码观看）","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1","timeout":60},
 {"key":"屁股_高清","name":"📺高清丨网盘（迅雷扫码观看）","type":3,"api":"csp_Gaoqing","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1","timeout":60},
