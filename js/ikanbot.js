@@ -42,7 +42,7 @@ var rule = {
 	double:true,
 	tab_remove:[],//移除某个线路及相关的选集
 	tab_order:['hym3u8','gsm3u8','kuaikan','lzm3u8','ffm3u8','snm3u8','jsm3u8','xlm3u8','kcm3u8','hhm3u8','zuidam3u8','jinyingm3u8','fsm3u8'],//线路顺序,按里面的顺序优先，没写的依次排后面
-	tab_rename:{'hym3u8':'虎牙','bfzym3u8':'暴风','gsm3u8':'光速','kuaikan':'快看','xlm3u8':'新浪','snm3u8':'索尼','1080zyk':'优质','wolong':'卧龙','tkm3u8':'天空','fsm3u8':'飞速','jinyingm3u8':'金鹰','zuidam3u8':'最大','lzm3u8':'量子','ffm3u8':'非凡','qhm3u8':'奇虎','haiwaikan':'海外看','bjm3u8':'八戒','yhm3u8':'樱花','jsm3u8':'极速','wjm3u8':'无尽','sdm3u8':'闪电','kcm3u8':'快车','tpm3u8':'淘片','lem3u8':'鱼乐','dbm3u8':'百度','tomm3u8':'番茄','ukm3u8':'U酷','ikm3u8':'爱坤','hnzym3u8':'红牛资源','hnm3u8':'红牛','68zy_m3u8':'68','kdm3u8':'酷点','bdxm3u8':'北斗星','hhm3u8':'豪华','kbm3u8':'快播'},//线路名替换如:lzm3u8替换为量子资源
+	tab_rename:{'hym3u8':'虎牙','gsm3u8':'光速','kuaikan':'快看',lzm3u8':'量子','ffm3u8':'非凡','snm3u8':'索尼','jsm3u8':'极速','xlm3u8':'新浪','kcm3u8':'快车','hhm3u8':'豪华','zuidam3u8':'最大','jinyingm3u8':'金鹰','fsm3u8':'飞速','wolong':'卧龙','bfzym3u8':'暴风','1080zyk':'优质','tkm3u8':'天空',''qhm3u8':'奇虎','haiwaikan':'海外看','bjm3u8':'八戒','yhm3u8':'樱花','wjm3u8':'无尽','sdm3u8':'闪电','tpm3u8':'淘片','lem3u8':'鱼乐','dbm3u8':'百度','tomm3u8':'番茄','ukm3u8':'U酷','ikm3u8':'爱坤','hnzym3u8':'红牛资源','hnm3u8':'红牛','68zy_m3u8':'68','kdm3u8':'酷点','bdxm3u8':'北斗星','kbm3u8':'快播'},//线路名替换如:lzm3u8替换为量子资源
     推荐:'.v-list;div.item;*;*;*;*', //这里可以为空，这样点播不会有内容
     // 一级:'.v-list&&div.item;p&&Text;img&&src;;a&&href', //一级的内容是推荐或者点播时候的一级匹配
 	一级:'.v-list&&div.item;p&&Text;img&&data-src;;a&&href', //一级的内容是推荐或者点播时候的一级匹配
