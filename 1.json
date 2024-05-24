@@ -13,7 +13,7 @@
 "sites":[
 {"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：5/24😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1},
 {"key":"饭佬_饭佬搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：5/24😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
-{"key":"饭佬_饭偶搜索","name":"饭偶搜索ㅤㅤㅤ😃更新：5/24😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_WoGG","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":1,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
+{"key":"饭佬_饭偶搜索","name":"饭偶搜索ㅤㅤㅤ😃更新：5/24😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_WoGG","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":1,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://woggapi.333232.xyz/","danMu":"弹"},"jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
 {"key":"屁股_网盘配置","name":"4K网盘配置页","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":15},
 
 {"key":"小二_广场","name":"广场丨舞蹈","type":3,"api":"csp_Wextangdou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":2},"jar":"./jar/wex0519.jar;md5;aaed7918b3aae5960726413304c4f6c2"},
@@ -48,7 +48,7 @@
 //{"key":"屁股_范丝","name":"🎉范丝丨秒播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 
 
-{"key":"饭佬_饭偶","name":"🎅饭偶丨网盘（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":{"quarkCookie":"http://7124.kstore.space/cookie.txt","aliToken":"http://7124.kstore.space/token.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
+{"key":"饭佬_饭偶","name":"🎅饭偶丨网盘（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":{"quarkCookie":"http://7124.kstore.space/cookie.txt","aliToken":"http://7124.kstore.space/token.txt","from":"4k|auto|fhd","siteUrl":"https://woggapi.333232.xyz/","danMu":"弹"},"jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
 {"key":"屁股_太灵","name":"🐶太灵丨4K（很吃网速和硬件）","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":15},
 {"key":"屁股_布谷","name":"🐦布谷丨4K（很吃网速和硬件）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/布谷.json","jar":"./lib/XBPQ.jar;md5;2959d861ecc2f9e1aa21cbdfc0691f12"},
 {"key":"屁股_范丝","name":"🎉范丝丨4K（很吃网速和硬件）","type":3,"api":"csp_Gaoqing","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1","timeout":15},
@@ -115,7 +115,7 @@
 
 
 
-{"key":"屁股_玩偶","name":"🤶玩偶丨网盘（夸克扫码观看！）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wogg.link/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_玩偶","name":"🤶玩偶丨网盘（夸克扫码观看！）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":15},
 {"key":"屁股_影巢","name":"🎥影巢丨网盘（夸克扫码观看！）","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":15},
 {"key":"屁股_皮虾","name":"🦐皮虾丨网盘（夸克扫码观看！）","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$127.0.0.1:10071$$$https://ppxzy.ink/$$$null$$$1","timeout":15},
 {"key":"屁股_八八","name":"🥇八八丨网盘（夸克扫码观看！）","type":3,"api":"csp_EightEight","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://662688.xyz","style":{"type":"list","ratio":1.1},"timeout":15},
