@@ -49,9 +49,9 @@
 
 
 {"key":"饭佬_饭偶","name":"🎅饭偶丨网盘（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":{"quarkCookie":"http://7124.kstore.space/cookie.txt","aliToken":"http://7124.kstore.space/token.txt","from":"4k|auto|fhd","siteUrl":"https://woggapi.333232.xyz/","danMu":"弹"},"jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
-{"key":"屁股_太灵","name":"🐶太灵丨4K（很吃网速和硬件）","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":15},
 {"key":"屁股_布谷","name":"🐦布谷丨4K（很吃网速和硬件）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/布谷.json","jar":"./lib/XBPQ.jar;md5;2959d861ecc2f9e1aa21cbdfc0691f12"},
 {"key":"屁股_范丝","name":"🎉范丝丨4K（很吃网速和硬件）","type":3,"api":"csp_Gaoqing","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1","timeout":15},
+{"key":"屁股_太灵","name":"🐶太灵丨4K（很吃网速和硬件）","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":15},
 
 {"key":"饭佬_比特","name":"🍒比特丨秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2","timeout":5},
 {"key":"饭佬_苹果","name":"🍎苹果丨秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2","timeout":5},
@@ -95,7 +95,7 @@
 
 {"key":"屁股_立播","name":"🍓立播丨网盘（夸克扫码观看）","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null","timeout":15},
 {"key":"屁股_校长","name":"🎓校长丨网盘（夸克扫码观看）","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1","timeout":15},
-{"key":"屁股_团长","name":"👺团长丨网盘（夸克扫码观看！）","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":15},
+{"key":"屁股_团长","name":"👺团长丨网盘（夸克扫码观看）","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":15},
 {"key":"屁股_皮皮","name":"🤬PikPak丨网盘（海外资源）","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz","style":{"type":"list","ratio":1.1},"timeout":15},
 
 {"key":"开心_视觉","name":"🔔视觉丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/视觉.json","jar":"./lib/XBPQ.jar;md5;2959d861ecc2f9e1aa21cbdfc0691f12"},
@@ -115,10 +115,10 @@
 
 
 
-{"key":"屁股_玩偶","name":"🤶玩偶丨网盘（夸克扫码观看！）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":15},
-{"key":"屁股_影巢","name":"🎥影巢丨网盘（夸克扫码观看！）","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":15},
-{"key":"屁股_皮虾","name":"🦐皮虾丨网盘（夸克扫码观看！）","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$127.0.0.1:10071$$$https://ppxzy.ink/$$$null$$$1","timeout":15},
-{"key":"屁股_八八","name":"🥇八八丨网盘（夸克扫码观看！）","type":3,"api":"csp_EightEight","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://662688.xyz","style":{"type":"list","ratio":1.1},"timeout":15},
+{"key":"屁股_玩偶","name":"🤶玩偶丨网盘（夸克扫码观看）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_影巢","name":"🎥影巢丨网盘（夸克扫码观看）","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":15},
+{"key":"屁股_皮虾","name":"🦐皮虾丨网盘（夸克扫码观看）","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$127.0.0.1:10071$$$https://ppxzy.ink/$$$null$$$1","timeout":15},
+{"key":"屁股_八八","name":"🥇八八丨网盘（夸克扫码观看）","type":3,"api":"csp_EightEight","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://662688.xyz","style":{"type":"list","ratio":1.1},"timeout":15},
 
 {"key":"屁股_耳机","name":"🎧耳机丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/耳机.json","jar":"./lib/XBPQ.jar;md5;2959d861ecc2f9e1aa21cbdfc0691f12"},
 {"key":"屁股_恐怖","name":"👿恐怖丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/恐怖.json","jar":"./lib/XBPQ.jar;md5;2959d861ecc2f9e1aa21cbdfc0691f12"},
