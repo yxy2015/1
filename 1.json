@@ -118,6 +118,7 @@
 {"key":"屁股_玩偶","name":"🤶玩偶丨网盘（夸克扫码观看！）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wogg.link/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":60},
 {"key":"屁股_影巢","name":"🎥影巢丨网盘（夸克扫码观看！）","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
 {"key":"屁股_皮虾","name":"🦐皮虾丨网盘（夸克扫码观看！）","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$127.0.0.1:10071$$$https://ppxzy.ink/$$$null$$$1","timeout":60},
+{"key":"屁股_八八","name":"🥇八八丨网盘（夸克扫码观看！）","type":3,"api":"csp_EightEight","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://662688.xyz","style":{"type":"list","ratio":1.1},"timeout":60},
 
 {"key":"屁股_耳机","name":"🎧耳机丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/耳机.json","jar":"./lib/XBPQ.jar;md5;2959d861ecc2f9e1aa21cbdfc0691f12"},
 {"key":"屁股_恐怖","name":"👿恐怖丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/恐怖.json","jar":"./lib/XBPQ.jar;md5;2959d861ecc2f9e1aa21cbdfc0691f12"},
@@ -197,7 +198,6 @@
 
 
 
-{"key":"屁股_八八","name":"🥇八八丨网盘","type":3,"api":"csp_EightEight","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://662688.xyz","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"屁股_趣盘","name":"🥇趣盘丨网盘","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json","timeout":60},
 {"key":"屁股_小盘","name":"🥇小盘丨网盘","type":3,"api":"csp_Xpanpan","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"屁股_小云","name":"🥇小云丨网盘","type":3,"api":"csp_YunSo","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1","style":{"type":"list","ratio":1.1},"timeout":60},
