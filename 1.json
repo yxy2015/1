@@ -16,15 +16,15 @@
 {"key":"饭佬_饭佬搜索","name":"饭佬搜索ㅤㅤㅤ😃更新：5/24😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
 {"key":"屁股_网盘配置","name":"4K网盘配置页","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
 
-{"key":"小二_广场","name":"广场丨舞蹈","type":3,"api":"csp_Wextangdou","searchable":0,"changeable":0,"style":{"type":"rect","ratio":2},"jar":"./jar/wex0519.jar;md5;aaed7918b3aae5960726413304c4f6c2"},
+{"key":"小二_广场","name":"广场丨舞蹈","type":3,"api":"csp_Wextangdou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":2},"jar":"./jar/wex0519.jar;md5;aaed7918b3aae5960726413304c4f6c2"},
 {"key":"饭佬_游戏","name":"游戏丨直播","type":3,"api":"csp_Yj1211","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
-{"key":"小二_看球","name":"体育丨直播","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"./jar/wex0519.jar;md5;aaed7918b3aae5960726413304c4f6c2"},
+{"key":"小二_看球","name":"体育丨直播","type":3,"api":"csp_Kanqiu","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"list"},"jar":"./jar/wex0519.jar;md5;aaed7918b3aae5960726413304c4f6c2"},
 {"key":"采集_中央","name":"央视丨直播","type":3,"api":"csp_CCTV","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/央视大全.json","jar":"./jar/cctv.jar;md5;a4641d44614be4500b314841116b55a4"},
 
 {"key":"饭佬_讲堂","name":"学习丨讲堂","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔哩合集-学习.json","jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
 {"key":"屁股_酷狗","name":"酷狗丨音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
-{"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"./哔哩哔哩/哔站热歌.json","jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
-{"key":"小二_相声","name":"随身丨相声","type":3,"api":"csp_Wexxsmp3","searchable":1,"changeable":0,"jar":"./jar/wex0519.jar;md5;aaed7918b3aae5960726413304c4f6c2"},
+{"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔站热歌.json","jar":"./jar/fan0522.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
+{"key":"小二_相声","name":"随身丨相声","type":3,"api":"csp_Wexxsmp3","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0519.jar;md5;aaed7918b3aae5960726413304c4f6c2"},
 
 {"key":"短剧_火狐","name":"火狐丨短剧","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 {"key":"短剧_卧龙","name":"卧龙丨短剧","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
