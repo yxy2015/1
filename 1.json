@@ -177,7 +177,10 @@
 {"key":"屁股_磁嗨","name":"🧲磁嗨丨磁力","type":3,"api":"csp_BtSearch","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","style":{"type":"rect","ratio":1.5},"timeout":15},
 
 {"key":"饭佬_视觉","name":"👓视觉丨秒播","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/","jar":"./jar/fan0526.jar;md5;31e6192040d63714d063d5a5aba287a9","timeout":5},
-{"key":"屁股_哔嘀","name":"🚔哔嘀丨磁力","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys.me/$$$null$$$1","timeout":15},
+{"key":"屁股_哔嘀1","name":"🚔哔嘀1丨磁力","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yjys.me/$$$proxy$$$1","timeout":15},
+  {"key":"屁股_哔嘀2","name":"🚔哔嘀2丨磁力","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yjys.me/$$$127.0.0.10072$$$1","timeout":15},
+  {"key":"屁股_哔嘀3","name":"🚔哔嘀3丨磁力","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yjys.me/$$$127.0.0.10073$$$1","timeout":15},
+
 {"key":"采集_影探","name":"🕵️‍♂️影探丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"http://cms-ytmh.lyyytv.cn/api.php/app/"},
 
 
