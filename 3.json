@@ -1,5 +1,5 @@
 {
-	"spider":"./jar/pg0524.jar;md5;aeae314539fcd05f1d152e0c9f9c53e5",
+	"spider":"./jar/pg0526.jar;md5;bb5671ce319f04ffeedd518ee22b0c9b",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -66,19 +66,7 @@
 			"api": "./lib/live2vod.js",
 			"ext": "./lib/feimaolive.json"
 		},
-		{
-			"key": "FirstAid",
-			"name": "🚑 急救知识 ",
-			"type": 3,
-			"api": "csp_FirstAid",
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 3.8
-			}
-		},{"key":"泥巴1","name":"泥巴1|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10071$$$1"},
+		{"key":"泥巴1","name":"泥巴1|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10071$$$1"},
 {"key":"泥巴2","name":"泥巴2|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10072$$$1"},
 {"key":"泥巴3","name":"泥巴3|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10073$$$1"},
 {"key":"泥巴4","name":"泥巴4|海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"0$$$127.0.0.1:10074$$$1"},
@@ -135,6 +123,19 @@
 {"key":"Xinshijue1","name":"新视觉1|网盘","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
 {"key":"Xinshijue2","name":"新视觉2|网盘","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json"},
 		
+		{
+			"key": "FirstAid",
+			"name": "🚑 急救知识 ",
+			"type": 3,
+			"api": "csp_FirstAid",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 3.8
+			}
+		},
 		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1,
 			"indexs":1
 		},
@@ -184,10 +185,11 @@
 			"api": "csp_Bdys01",
 			"type": 3,
 			"filterable": 1,
-			"searchable":0,
+			"searchable":1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"ext": "https://www.yjys.me/$$$null$$$1"
+			"timeout":60,
+			"ext": "./lib/tokenm.json$$$https://www.yjys.me/$$$proxy$$$1"
 		},
 		{"key":"YunPan","name":"云盘资源|网盘","type":3,"api":"csp_YunPan","timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 		{"key":"YingSo","name":"影搜|网盘搜索","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/tokenm.json"},
@@ -343,6 +345,20 @@
 		},
 		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
+		},
+		{
+			"key": "迅雷8",
+			"name": "迅雷吧|XBPQ|磁力",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/XBPQ.jar",
+			"ext": {
+				"播放数组": "copylink&&</a>",
+				"播放链接": "alt=\"&&\"",
+				"简介": "b1f40f7888\"&&</p>",
+				"分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
+				"分类": "电视剧$tv#电影$list"
+			}
 		},
 		{
 			"key": "小白",
@@ -551,7 +567,7 @@
 			"changeable": 0,
 			"filterable": 1
 		},
-		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
+		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
 		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
 		{ 
 			"key": "泥巴", 
