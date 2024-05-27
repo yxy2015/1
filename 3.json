@@ -80,10 +80,10 @@
 {"key":"Wogg07","name":"玩偶哥哥07|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://api.wogg.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
 {"key":"Wogg08","name":"玩偶哥哥08|网盘","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
 
-{"key":"屁股_老哥","name":"🍈玩你丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":15},
-{"key":"屁股_土豆","name":"🥔土豆丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":15},
-{"key":"屁股_表哥","name":"🍇表哥丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":15},
-{"key":"屁股_弟弟","name":"🥭玩我丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://m.ttkx.live:7728/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_老哥","name":"🍈玩你丨网盘","type":3,"api":"csp_Wobg","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_土豆","name":"🥔土豆丨网盘","type":3,"api":"csp_Wobg","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_表哥","name":"🍇表哥丨网盘","type":3,"api":"csp_Wobg","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_弟弟","name":"🥭玩我丨网盘","type":3,"api":"csp_Wobg","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://m.ttkx.live:7728/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json","timeout":15},
 
 
 
