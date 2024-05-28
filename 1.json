@@ -156,15 +156,15 @@
 {"key":"屁股_磁熊","name":"🐻磁熊丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./js/磁力熊.js","playerType":"1","indexs":1},
 {"key":"屁股_迅迅","name":"⚡迅迅丨磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":15},
 
-{"key":"屁股_玩偶","name":"🤶玩偶丨网盘（夸克扫码观看）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":15},
-{"key":"屁股_影巢","name":"🎥影巢丨网盘（夸克扫码观看）","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":15},
-{"key":"屁股_皮虾","name":"🦐皮虾丨网盘（夸克扫码观看）","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$127.0.0.1:10071$$$https://ppxzy.ink/$$$null$$$1","timeout":15},
-{"key":"屁股_八八","name":"🥇八八丨网盘（夸克扫码观看）","type":3,"api":"csp_EightEight","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://662688.xyz","style":{"type":"list","ratio":1.1},"timeout":15},
+{"key":"屁股_玩偶","name":"🤶玩偶丨网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_老哥","name":"🍈玩你丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$127.0.0.10072$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_表哥","name":"🍇表哥丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$127.0.0.10072$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_影巢","name":"🎥影巢丨网盘","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":15},
 
-{"key":"屁股_老哥","name":"🍈玩你丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$127.0.0.10072$$$1$$$./lib/wogg.json","timeout":15},
-{"key":"屁股_土豆","name":"🥔土豆丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$127.0.0.10072$$$1$$$./lib/wogg.json","timeout":15},
-{"key":"屁股_表哥","name":"🍇表哥丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$127.0.0.10072$$$1$$$./lib/wogg.json","timeout":15},
-{"key":"屁股_弟弟","name":"🥭玩我丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://m.ttkx.live:7728/$$$127.0.0.10072$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_土豆","name":"🥔土豆丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$127.0.0.10072$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_弟弟","name":"🥭玩我丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$http://m.ttkx.live:7728/$$$127.0.0.10072$$$1$$$./lib/wogg.json","timeout":15},
+{"key":"屁股_皮虾","name":"🦐皮虾丨网盘","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$127.0.0.1:10071$$$https://ppxzy.ink/$$$null$$$1","timeout":15},
+{"key":"屁股_八八","name":"🥇八八丨网盘","type":3,"api":"csp_EightEight","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://662688.xyz","style":{"type":"list","ratio":1.1},"timeout":15},
 
 {"key":"屁股_影院","name":"🎥FourHD丨磁力","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$./TV/4khdr.txt$$$1","timeout":15},
 {"key":"屁股_盘搜","name":"🥇PanSea丨网盘","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":15},
