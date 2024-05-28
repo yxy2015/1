@@ -113,7 +113,6 @@
 {"key":"JavBus","name":"❤️JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://www.buscdn.art","style":{"type":"rect","ratio":1.77},"timeout":60},
 {"key":"JavDb","name":"❤️JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://javdb365.com","style":{"type":"rect","ratio":1.77},"timeout":60},
 
-{"key":"玩偶哥哥1","name":"💔玩偶哥哥1(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10071$$$null$$$1"},
 {"key":"玩偶哥哥2","name":"💔玩偶哥哥2(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10072$$$null$$$1"},
 {"key":"玩偶哥哥3","name":"💔玩偶哥哥3(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10073$$$null$$$1"},
 {"key":"玩偶哥哥4","name":"💔玩偶哥哥4(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10074$$$null$$$1"},
