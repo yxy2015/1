@@ -106,12 +106,12 @@
 
   
 
+{"key":"Jable","name":"💔Jable(海外)","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"style":{"type":"rect","ratio":1.77},"timeout":60,"ext":"127.0.0.1:10072$$$null$$$1"},
 {"key":"玩偶哥哥2","name":"💔玩偶哥哥2(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10072$$$null$$$1"},
 {"key":"玩偶哥哥3","name":"💔玩偶哥哥3(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10073$$$null$$$1"},
 {"key":"玩偶哥哥4","name":"💔玩偶哥哥4(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"127.0.0.1:10074$$$null$$$1"},
 {"key":"Taohuazu","name":"❤️Taohuazu(海外)","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"http://thza.cc/$$$127.0.0.1:10072","timeout":60},
 {"key":"MissAV","name":"💔MissAV(海外)","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"style":{"type":"rect","ratio":1.78},"timeout":60,"ext":"127.0.0.1:10072$$$null$$$1"},
-{"key":"Jable","name":"💔Jable(海外)","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"style":{"type":"rect","ratio":1.77},"timeout":60,"ext":"127.0.0.1:10072$$$null$$$1"},
 {"key":"Hanime","name":"💔Hanime(海外)","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68},"ext":"$$$127.0.0.1:10072$$$null$$$1"},
 {"key":"Xojav","name":"💔XOJav(海外)","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$127.0.0.1:10072","style":{"type":"rect","ratio":1.5}},
 {"key":"SeHuaTangpg","name":"💔SeHuaTangpg(海外)","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$null$$$127.0.0.1:10072","style":{"type":"rect","ratio":1.5}},
