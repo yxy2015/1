@@ -62,10 +62,15 @@
 {"key":"小二_星星","name":"🌟星星丨秒播","type":3,"api":"csp_Wexbaipiao","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0529.jar;md5;65dfd0d70088b6d29c176bbbea831efc"},
 {"key":"小二_闪电","name":"⚡️闪电丨秒播","type":3,"api":"csp_Wexshandian","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0529.jar;md5;65dfd0d70088b6d29c176bbbea831efc"},
 
-{"key":"开心_可可","name":"🔔可可丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可可.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-{"key":"开心_兄弟","name":"🔔兄弟丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/兄弟.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-{"key":"开心_疯狗","name":"🔔疯狗丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/疯狗.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-{"key":"开心_五五","name":"🔔五五丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/五五.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_五五","name":"🔔五五丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/五五.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_疯狗","name":"🔔疯狗丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/疯狗.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_盒子","name":"🔔盒子丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/盒子.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_看客","name":"🔔看客丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看客.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+
+{"key":"开心_量子","name":"🔔量子丨秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/量子.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_非凡","name":"🔔非凡丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/非凡.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_可可","name":"🔔可可丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可可.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_兄弟","name":"🔔兄弟丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/兄弟.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 
 {"key":"香佬_耳机","name":"🎧耳机丨磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0511.jar;md5;81544697bc790013fc5bb1d2939bf0b6"},
 {"key":"屁股_耳机","name":"🎧耳机丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/耳机.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
@@ -97,20 +102,25 @@
 {"key":"屁股_团长","name":"👺团长丨网盘","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":15},
 {"key":"屁股_立播","name":"🍓立播丨网盘","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null","timeout":15},
 
-{"key":"开心_视觉","name":"🔔视觉丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/视觉.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-{"key":"开心_圣城","name":"🔔圣城丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/圣城.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-{"key":"开心_盒子","name":"🔔盒子丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/盒子.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_茶狐","name":"🔔茶狐丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/茶狐.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key":"开心_星辰","name":"🔔星辰丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/星辰.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-
 {"key":"开心_七新","name":"🔔七新丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/七新.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-{"key":"开心_三八","name":"🔔三八丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/三八.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-{"key":"开心_达龟","name":"🔔达龟丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQHiker/达龟.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-{"key":"开心_蛋蛋","name":"🔔蛋蛋丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/蛋蛋.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_九八","name":"🔔九八丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/九八.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 
-{"key":"开心_奇优","name":"🔔奇优丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/奇优.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-{"key":"屁股_天天","name":"☀️天天丨秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn$$$null$$$1","timeout":15},
-{"key":"屁股_南瓜","name":"🎃南瓜丨秒播","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"ext":"null$$$1","timeout":15},
+{"key":"开心_视觉","name":"🔔视觉丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/视觉.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_圣城","name":"🔔圣城丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/圣城.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_剧圈","name":"🔔剧圈丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/剧圈.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_奇优","name":"🔔奇优丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/奇优.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+
+{"key":"开心_三八","name":"🔔三八丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/三八.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_达龟","name":"🔔达龟丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQHiker/达龟.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_蛋蛋","name":"🔔蛋蛋丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/蛋蛋.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"开心_子子","name":"🔔子子丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/子子.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+
+{"key":"屁股_天天","name":"☀️天天丨多线","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn$$$null$$$1","timeout":15},
+{"key":"屁股_南瓜","name":"🎃南瓜丨多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"ext":"null$$$1","timeout":15},
 {"key":"屁股_快看","name":"👀快看丨秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":15},
+{"key":"屁股_泥泥","name":"✈️泥巴丨海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"127.0.0.1:10072","timeout":15},
 
 {"key":"屁股_天堂","name":"🌈天堂丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./XYQHiker/天堂.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key":"屁股_恐怖","name":"👿恐怖丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/恐怖.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
@@ -184,7 +194,6 @@
 {"key":"饭佬_七七","name":"👒七七丨秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0529.jar;md5;5f175a726a471e7f88f5feb299640587","timeout":15},
 {"key":"饭老_巴士","name":"🚌动漫丨秒播","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0529.jar;md5;5f175a726a471e7f88f5feb299640587","timeout":15},
 {"key":"饭佬_利播","name":"🌟利播丨秒播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/","jar":"./jar/fan0529.jar;md5;5f175a726a471e7f88f5feb299640587","timeout":15},
-{"key":"屁股_泥泥","name":"✈️泥巴丨海外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":0,"ext":"127.0.0.1:10072","timeout":15},
 {"key":"屁股_高清","name":"📺高清丨磁力","type":3,"api":"csp_Gaoqing","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1","timeout":15},
 
 
