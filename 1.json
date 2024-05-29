@@ -46,32 +46,6 @@
 //{"key":"屁股_文才","name":"💯文才丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XYQHiker/文才.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 //{"key":"屁股_范丝","name":"🎉范丝丨秒播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 
-{
-      "key": "玩偶哥哥",
-      "name": "五毛🎀玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://1.wumao.xyz:4567/ali/token/75605a7b574a47579dc5866f8598634a+4k|auto|fhd$$$https://www.wogg.net/$$$弹",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707552573492/fan.txt;md5;4eec8bf0a642330662224a01636e0df6"
-    },
-{
-      "ext": "eyJhcGkiOiJodHRwOi8vc3VubGl1LnZpcDo0NTY3IiwidG9rZW4iOiJuOGJpQk94ViJ9",
-      "filterable": 1,
-      "quickSearch": 1,
-      "name": "五毛🎀VIP",
-      "changeable": 1,
-      "jar": "http://1.wumao.xyz:4567/spring.jar",
-      "style": {
-        "type": "rect"
-      },
-      "api": "csp_XiaoYa",
-      "type": 3,
-      "key": "csp_XiaoYa",
-      "searchable": 1
-    },
 
 {"key":"饭佬_饭偶","name":"🎅饭偶丨网盘（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":{"quarkCookie":"http://7124.kstore.space/cookie.txt","aliToken":"http://7124.kstore.space/token.txt","from":"4k|auto|fhd","siteUrl":"https://woggapi.333232.xyz/","danMu":"弹"},"jar":"./jar/fan0529.jar;md5;5f175a726a471e7f88f5feb299640587"},
 {"key":"屁股_太灵","name":"🐶太灵丨4K（很吃网速和硬件）","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":15},
