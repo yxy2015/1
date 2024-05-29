@@ -10,7 +10,7 @@
 "thread_limit":5,
 "is_vip":false,
 "vip_thread_limit":5,
-"vod_flags":"4k|auto|4kz",
+"vod_flags":"4kz|auto",
   
 "quark_thread_limit":8,
 "quark_is_vip":true,
@@ -27,9 +27,9 @@
 "thunder_vip_thread_limit":2,
 "thunder_flags":"4k|4kz|auto",
   
-"aliproxy":"127.0.0.1:10071",
+"aliproxy":"",
 "aliproxy_url":"",
-"proxy":"127.0.0.1:10071",
+"proxy":"",
 "danmu":true,
   
 "quark_danmu":true,
