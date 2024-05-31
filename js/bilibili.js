@@ -30,7 +30,7 @@ var rule = {
     headers:{
         'User-Agent':'PC_UA',
         "Referer": "https://www.bilibili.com",
-        "Cookie":"$bili_cookie"
+        "Cookie":"buvid3=5AA02489-F7CC-E96A-E823-12F6F1F8D61D08081infoc; b_nut=1713150108; _uuid=421E1864-FD38-2DFF-5B68-832AE9E5367561869infoc; buvid4=BB62D0CA-32A2-0B21-F0E3-995434E22DC074302-023051511-omnIDiwYNDwuaYjJY7YbHg%3D%3D; enable_web_push=DISABLE; header_theme_version=CLOSE; CURRENT_FNVAL=4048; rpdid=|(J|kYYum~k|0J'u~uJJRluu|; fingerprint=516043d0a1baf774fe8058aeebf5d092; buvid_fp_plain=undefined; SESSDATA=3258fa7a%2C1728897167%2Cca626%2A42CjBb_WqefK8Mvbcu1He4JVPSvZtUqbTt68uWqscnUIafEnWcymkx1k5t7GYSy2M9AO8SVmVWRGo0djZRbDV3eS0zWjNHM2hkcDFueXBicTJ6WVROTjFwS0ZjV2hCZHhMdkZtSC1ORzV1aXRDSTQtWV9XSE8xOFczNmhNNjJpZE5FNWtXR1BNUUtBIIEC; bili_jct=334198739d0420ba2b0b9500156cf52d; DedeUserID=354759427; DedeUserID__ckMd5=f5e8c385a7d2d7ba; buvid_fp=3459742e3c932ff2b035f82e6f1692df; FEED_LIVE_VERSION=V_WATCHLATER_PIP_WINDOW; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTcxNDIyMTEsImlhdCI6MTcxNjg4Mjk1MSwicGx0IjotMX0.yllQbiqxYki1ObsLnRMwxvfjjW6BInwhTgfNRnBcY7E; bili_ticket_expires=1717142151; b_lsid=1019812A10_18FCD7766E5; bsource=search_baidu; bmg_af_switch=1; bmg_src_def_domain=i0.hdslb.com; home_feed_column=4; browser_resolution=637-760"
     },
     timeout:3000,
     class_name:'全部&番剧&国创&电影&电视剧&纪录片&综艺&追番&追剧&时间表',
