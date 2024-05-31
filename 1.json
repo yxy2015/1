@@ -79,6 +79,8 @@
 {"key":"开心_盒子","name":"🔔盒子丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/盒子.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key":"开心_看客","name":"🔔看客丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看客.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 
+{"key":"开心_皮皮","name":"🔔皮皮丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/皮皮.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+
 {"key":"开心_量子","name":"🔔量子丨秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/量子.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key":"开心_非凡","name":"🔔非凡丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/非凡.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key":"开心_可可","name":"🔔可可丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可可.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
