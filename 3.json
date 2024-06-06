@@ -91,7 +91,7 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext":{
-				"type":"新闻#音乐#体育#剧集#电影#课程#8K#4K#HDR#movie#music#documentary",
+				"type":"推荐#首页#电影#电视剧#直播#游戏#新闻#音乐#体育#课程#8K#4K#HDR#movie#music#documentary",
 				"proxy":"127.0.0.1:10072"
 			},
 			"style": {
