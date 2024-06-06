@@ -1,5 +1,4 @@
 {
-"use_internal_storage":true,
 "token":"2eb8a433cda54e79800246ad8d286abe",
 "open_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI5NzMxN2M4NjQ3MDA0ODgzYjA3N2VkYWJiOTczODA1ZCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzI0NzQ4NDYzLCJpYXQiOjE3MTY5NzI0NjMsImp0aSI6ImRhZDQ1YzYzNzU3NjQ1NTZhN2JiNTBhYzBhZWI3NDI0In0.QOgGWR-Q9g9WZ3xGaIQeRsVOvlJaiFbbEVOV3F-FlPcr7vPmguU6va5S1SE3FoJ_zYzcrIfKmNEGJN3WRSwx5A",
 "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
