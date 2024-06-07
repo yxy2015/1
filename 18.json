@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720",
-"spider":"./jar/pg0606.jar;md5;8478514f69ff59d1b265eaec248b7dd6",
+"spider":"./jar/pg0606.jar;md5;c700706d9238b5a2dc10f16b2407f001",
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
 {"name":"直播福利","url":"http://oy.oyxx-1.eu.org/hhbb.php"},
