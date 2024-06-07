@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0606.jar;md5;8478514f69ff59d1b265eaec248b7dd6",
+"spider":"./jar/pg0606.jar;md5;c700706d9238b5a2dc10f16b2407f001",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "logo":"./lib/1.gif",
 "lives":[
@@ -90,7 +90,6 @@
 {"key":"开心_非凡","name":"🔔非凡丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/非凡.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key":"开心_可可","name":"🔔可可丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可可.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 //{"key":"开心_兄弟","name":"🔔兄弟丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/兄弟.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-
 {"key":"道长_哔哩","name":"🅱️哔哩丨哔哩","type":3,"api":"https://y.337898581.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/bilibili.js"},
 
 {"key":"香佬_耳机","name":"🎧耳机丨磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0511.jar;md5;81544697bc790013fc5bb1d2939bf0b6"},
@@ -218,7 +217,7 @@
 {"key":"饭佬_热播","name":"📺热播丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./jar/fan0605.jar;md5;aa164c88dfaf62b98b44fc6086a77fef","timeout":15},
 {"key":"饭佬_萌米","name":"👀萌米丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar":"./jar/fan0605.jar;md5;aa164c88dfaf62b98b44fc6086a77fef","timeout":15},
 {"key":"饭佬_在线","name":"🚴‍♂️在线丨秒播","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar":"./jar/fan0605.jar;md5;aa164c88dfaf62b98b44fc6086a77fef","timeout":15},
-
+{"key":"Youtube","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":1,"ext":{"type":"推荐#电影#电视剧#新闻#直播#游戏#音乐#体育#课程#8K#4K#HDR#movie#music#documentary","proxy":"127.0.0.1:10072"},"style":{"type":"rect","ratio":1.5}},
 
 
 
