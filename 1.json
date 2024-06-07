@@ -217,7 +217,7 @@
 {"key":"饭佬_热播","name":"📺热播丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./jar/fan0605.jar;md5;aa164c88dfaf62b98b44fc6086a77fef","timeout":15},
 {"key":"饭佬_萌米","name":"👀萌米丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar":"./jar/fan0605.jar;md5;aa164c88dfaf62b98b44fc6086a77fef","timeout":15},
 {"key":"饭佬_在线","name":"🚴‍♂️在线丨秒播","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar":"./jar/fan0605.jar;md5;aa164c88dfaf62b98b44fc6086a77fef","timeout":15},
-{"key":"Youtube","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":1,"ext":{"type":"推荐#电影#电视剧#新闻#直播#游戏#音乐#体育#课程#4K#HDR","proxy":"127.0.0.1:10072"},"style":{"type":"rect","ratio":1.5}},
+{"key":"Youtube","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":1,"ext":{"type":"推荐#电影#电视剧#新闻#直播#游戏#音乐#体育#课程#4K#HDR#时尚和美容#国际","proxy":"127.0.0.1:10072"},"style":{"type":"rect","ratio":1.5}},
 
 
 
