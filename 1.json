@@ -11,6 +11,7 @@
 {"key":"饭佬_饭佬搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：6/11😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
 {"key":"饭佬_饭偶搜索","name":"饭偶搜索ㅤㅤㅤ😃更新：6/11😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_WoGG","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":1,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://woggapi.333232.xyz/","danMu":"弹"},"jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
 {"key":"屁股_网盘配置","name":"4K网盘配置页","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":15},
+{"key":"屁股_1玩偶","name":"玩偶丨4K（阿里夸克扫码）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"indexs":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$1$$$./lib/wogg.json","timeout":15},
 
 {"key":"小二_广场","name":"广场丨舞蹈","type":3,"api":"csp_Wextangdou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":2},"jar":"./jar/wex0610.jar;md5;eb76763ef4ebfbf038b9e0c2c008a06b"},
 {"key":"饭佬_游戏","name":"游戏丨直播","type":3,"api":"csp_Yj1211","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
@@ -39,7 +40,8 @@
 
 
 
-{"key":"饭佬_饭偶","name":"🎅饭偶丨4K（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"https://cloud.lxweb.cn/f/WAKoSB/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
+//{"key":"饭佬_饭偶","name":"🎅饭偶丨4K（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"https://cloud.lxweb.cn/f/WAKoSB/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
+{"key":"屁股_玩偶","name":"🤶玩偶丨4K（阿里夸克扫码观看）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$1$$$./lib/wogg.json","timeout":15},
 {"key":"屁股_太灵","name":"🐶太灵丨4K（很吃网速和硬件）","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":15},
 {"key":"屁股_布谷","name":"🐦布谷丨4K（很吃网速和硬件）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/布谷.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key":"屁股_范丝","name":"🎉范丝丨4K（很吃网速和硬件）","type":3,"api":"csp_Gaoqing","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1","timeout":15},
@@ -155,7 +157,6 @@
 {"key":"屁股_天堂","name":"🌈天堂丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./XYQHiker/天堂.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key":"屁股_小白","name":"👩‍🦳小白丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/小白.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 
-{"key":"屁股_玩偶","name":"🤶玩偶丨网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$1$$$./lib/wogg.json","timeout":15},
 {"key":"屁股_老哥","name":"🍈多多丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","timeout":15},
 {"key":"屁股_土豆","name":"🥔土豆丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$1$$$./lib/wogg.json","timeout":15},
 {"key":"屁股_弟弟","name":"🥭玩我丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"ext":"./lib/tokenm.json$$$http://m.ttkx.live:7728/$$$1$$$./lib/wogg.json","timeout":15},
