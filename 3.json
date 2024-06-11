@@ -1,5 +1,5 @@
 {
-	"spider":"./jar/pg0607.jar;md5;a30bcb9342f8fe53bb10189d7445f52f",
+	"spider":"./jar/pg0611.jar;md5;ccc574a6a8ae0485e540b15ec96f6983",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -91,12 +91,28 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext":{
-				"type":"推荐#首页#电影#电视剧#直播#游戏#新闻#音乐#体育#课程#8K#4K#HDR#movie#music#documentary",
-				"proxy":"127.0.0.1:10072"
+				"json":"./lib/youtube.json",
+				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+				"proxy":"proxy",
+				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+				"codecs":""
 			},
 			"style": {
 				"type": "rect",
 				"ratio": 1.5
+			}
+		},
+		{
+			"key":"bili",
+			"name":"B站 | Bili[jar]",
+			"type":3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
+				"cookie":""
 			}
 		},
 
@@ -132,22 +148,7 @@
 {"key":"Xinshijue1","name":"新视觉1|网盘","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$127.0.0.1:10071$$$1$$$./lib/wogg.json"},
 {"key":"Xinshijue2","name":"新视觉2|网盘","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$127.0.0.1:10072$$$1$$$./lib/wogg.json"},
 
-
-
 		
-		{
-			"key":"bili",
-			"name":"B站 | Bili[jar]",
-			"type":3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext":{
-				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":""
-			}
-		},
 		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
 		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null"},
 		{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1",
