@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0611.jar;md5;e50b61eed32ed86b3ac6844795bca2e4",
+"spider":"./jar/pg0611.jar;md5;ccc574a6a8ae0485e540b15ec96f6983",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "logo":"./lib/1.gif",
 "lives":[
@@ -7,9 +7,9 @@
 {"name":"小二直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites":[
-{"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：6/06😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1},
-{"key":"饭佬_饭佬搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：6/06😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
-{"key":"饭佬_饭偶搜索","name":"饭偶搜索ㅤㅤㅤ😃更新：6/06😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_WoGG","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":1,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://woggapi.333232.xyz/","danMu":"弹"},"jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
+{"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：6/11😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1},
+{"key":"饭佬_饭佬搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：6/11😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
+{"key":"饭佬_饭偶搜索","name":"饭偶搜索ㅤㅤㅤ😃更新：6/11😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_WoGG","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":1,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://woggapi.333232.xyz/","danMu":"弹"},"jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
 {"key":"屁股_网盘配置","name":"4K网盘配置页","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":15},
 
 {"key":"小二_广场","name":"广场丨舞蹈","type":3,"api":"csp_Wextangdou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":2},"jar":"./jar/wex0610.jar;md5;eb76763ef4ebfbf038b9e0c2c008a06b"},
