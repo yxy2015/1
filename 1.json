@@ -14,12 +14,12 @@
 
 {"key":"小二_广场","name":"广场丨舞蹈","type":3,"api":"csp_Wextangdou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":2},"jar":"./jar/wex0612.jar;md5;6622c38b0681db3f6636ed592fbe9b49"},
 {"key":"饭佬_游戏","name":"游戏丨直播","type":3,"api":"csp_Yj1211","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
-{"key":"道长_哔哩","name":"Bili丨Bili","type":3,"api":"https://y.337898581.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/bilibili.js"},
 {"key":"采集_中央","name":"央视丨直播","type":3,"api":"csp_CCTV","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/央视大全.json","jar":"./jar/cctv.jar;md5;a4641d44614be4500b314841116b55a4"},
-
 {"key":"饭佬_讲堂","name":"学习丨讲堂","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔哩合集-学习.json","jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
+
 {"key":"屁股_酷狗","name":"酷狗丨音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
-{"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔站热歌.json","jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
+{"key":"屁股_优土","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","proxy":"127.0.0.1:10072","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5}},
+{"key":"道长_哔哩","name":"BiliBili","type":3,"api":"https://y.337898581.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/bilibili.js"},
 {"key":"小二_相声","name":"随身丨相声","type":3,"api":"csp_Wexxsmp3","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0612.jar;md5;6622c38b0681db3f6636ed592fbe9b49"},
 
 {"key":"小二_短一","name":"秒播丨短劇","type":3,"api":"csp_Wexduanjuvop","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0612.jar;md5;6622c38b0681db3f6636ed592fbe9b49"},
@@ -145,7 +145,6 @@
 {"key":"采集_新浪","name":"☁️新浪丨采集","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"categories":["短剧","大陆剧","动作片","动漫","综艺"]},
 {"key":"屁股_量子","name":"☁️量子丨采集","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8","searchable":1,"changeable":1},
 
-{"key":"Youtube","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","proxy":"127.0.0.1:10072","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5}},
 {"key":"屁股_非凡","name":"☁️非凡丨采集","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/?","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"categories":["短剧","国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 {"key":"屁股_爱坤","name":"☁️爱坤丨采集","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/?","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"开心_量子","name":"🔔量子丨秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/量子.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
@@ -269,14 +268,15 @@
 
 //{"key":"豆瓣_豆瓣搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：5/24😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣搜索.js","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"屁股_豆瓣搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：5/24😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"ext":"./lib/douban.json"},
-//{"key":"饭佬_广场","name":"广场丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/广场舞.json","jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
-//{"key":"饭佬_戏曲","name":"相声丨戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json","jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
-//{"key":"屁股_急救","name":"急救丨知识","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
-//{"key":"屁股_音乐","name":"KTV音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
-//{"key":"采集_高清","name":"📹高清丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/高清.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
-//{"key":"屁股_范丝","name":"🎉范丝丨秒播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
-//{"key":"屁股_文才","name":"💯文才丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XYQHiker/文才.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"饭佬_广场","name":"广场丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/广场舞.json","jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
+{"key":"饭佬_戏曲","name":"相声丨戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json","jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
+{"key":"屁股_急救","name":"急救丨知识","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 {"key":"小二_看球","name":"体育丨直播","type":3,"api":"csp_Kanqiu","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"list"},"jar":"./jar/wex0612.jar;md5;6622c38b0681db3f6636ed592fbe9b49"},
+{"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔站热歌.json","jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
+{"key":"屁股_音乐","name":"KTV丨音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
+{"key":"采集_高清","name":"📹高清丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/高清.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key":"屁股_范丝","name":"🎉范丝丨秒播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
+{"key":"屁股_文才","name":"💯文才丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XYQHiker/文才.json","jar":"./lib/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 
 
 
