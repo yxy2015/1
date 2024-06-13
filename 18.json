@@ -18,11 +18,11 @@
 
 {"key":"最色","name":"❤️最色","type":3,"api":"csp_Zuise","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":60},
 {"key":"文才","name":"💖文才","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/文才.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
+{"key":"仓库","name":"💖仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/仓库.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
 {"key":"瓜瓜","name":"💖瓜瓜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/瓜瓜.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
-{"key":"天美","name":"💖天美","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/天美.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
 
 {"key":"天天","name":"💖天天","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/天天.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
-{"key":"仓库","name":"💖仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/仓库.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
+{"key":"天美","name":"💖天美","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/天美.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
 {"key":"狼群","name":"💖狼群","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/狼群.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
 {"key":"溏心","name":"💖溏心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/溏心.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
 
