@@ -275,7 +275,7 @@
 {"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔站热歌.json","jar":"./jar/fan0610.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
 {"key":"屁股_音乐","name":"KTV丨音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
 {"key":"采集_高清","name":"📹高清丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./XYQHiker/高清.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
-{"key":"屁股_范丝","name":"🎉范丝丨秒播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
+{"key":"屁股_丝丝","name":"🎉范丝丨秒播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 {"key":"屁股_文才","name":"💯文才丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XYQHiker/文才.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
 
 
