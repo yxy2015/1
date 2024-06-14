@@ -1,28 +1,33 @@
 {
+    "recommend":"LIST:最新|推薦,官方頻道",
 	"class":[
+		{
+			"type_id":"LIST:Full YouTube,李子柒 Liziqi @cnliziqi,老高與小茉 @laogao,李永樂老師 @TchLiyongle,滇西小哥 @dianxixiaoge,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,老肉雜談 @老肉雜談,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小穎美食 @XiaoYingFood,野外求生 primitivetechnology9550 @primitivetechnology9550,科普 Mr Beast@MrBeast,航天大學 Airforceproud95 @Airforceproud95,世界大戰 TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常,健康1+1 @user-mr5bh4bk8z",
+			"type_name":"YouTube(頻道)"
+		},
 		{
 			"type_id":"YouTube 新聞 Live",
 			"type_name":"新聞直播"
 		},
 		{
-			"type_id":"LIST:Full YouTube Movie",
-			"type_name":"多媒體中心"
+			"type_id":"LIST:Full YouTube 電影",
+			"type_name":"電影"
+		},
+		{
+			"type_id":"LIST:Full YouTube 劇集",
+			"type_name":"劇集"
 		},
 		{
 			"type_id":"LIST:Full YouTube 綜藝",
 			"type_name":"綜藝"
 		},
 		{
-			"type_id":"LIST:Full YouTube 紀錄片",
-			"type_name":"紀錄片"
-		},
-	        {
-			"type_id":"LIST:Full YouTube,李子柒 Liziqi @cnliziqi,老高與小茉 @laogao,李永樂老師 @TchLiyongle,滇西小哥 @dianxixiaoge,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,老肉雜談 @老肉雜談,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小穎美食 @XiaoYingFood,野外求生 primitivetechnology9550 @primitivetechnology9550,科普 Mr Beast@MrBeast,航天大學 Airforceproud95 @Airforceproud95,世界大戰 TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常,健康1+1 @user-mr5bh4bk8z",
-			"type_name":"YouTube(頻道)"
-		},
-		{
 			"type_id":"LIST:Full YouTube 動畫片",
 			"type_name":"動畫片"
+		},
+		{
+			"type_id":"LIST:Full YouTube 紀錄片",
+			"type_name":"紀錄片"
 		},
 		{
 			"type_id":"LIST:Full YouTube 音樂",
@@ -220,21 +225,6 @@
 					{"n":"西班牙","v":"西班牙 劇集"},
 					{"n":"加拿大","v":"加拿大 劇集"}
 				]
-			},
-			{
-				"key":"time",
-				"name":"中英總類型",
-				"value":[
-				    {"n":"【CCTV纪录】","v":"地理·中國 【CCTV纪录】"},
-					{"n":"動畫片","v":"Full YouTube Animation 動畫片"},
-					{"n":"新聞直播","v":"Full YouTube News Live 新聞直播"},
-					{"n":"體育","v":"Full YouTube Sports 體育"},
-					{"n":"音樂","v":"Full YouTube Music 音樂"},
-					{"n":"綜藝","v":"Full YouTube Variety 綜藝"},
-					{"n":"紀錄片","v":"Full YouTube Documentary 紀錄片"},
-					{"n":"歷史記錄","v":"Full YouTube History 歷史記錄"},
-					{"n":"地理文化","v":"Complete YouTube Geographic Culture 地理文化"}
-				]
 			}
 		],
 	    "LIST:Full YouTube 動畫片":[
@@ -351,9 +341,9 @@
 				"key":"tid",
 				"name":"中文",
 				"value":[
-					{"n":"默认直播","v":"fully YouTube 新聞 Live"},
+					{"n":"默认直播","v":"fully YouTube 新聞 Live 24小時"},
 					{"n":"赛事","v":"直播 赛事"},
-					{"n":"CCTV","v":"直播 CCTV"},
+					{"n":"CCTV","v":"CCTV 24h马拉松直播"},
 					{"n":"港台","v":"直播 港台"},
 					{"n":"印度電視台","v":"@SETIndia"},
 				    {"n":"Live","v":"live news"},
@@ -378,7 +368,7 @@
 				]
 			}
 		],
-		"LIST:Full YouTube Movie":[
+		"LIST:Full YouTube 電影":[
 		    {
 				"key":"time",
 				"name":"時間",
@@ -500,6 +490,113 @@
 				]
 			},
 			{
+				"key":"tid",
+				"name":"三級片",
+				"value":[
+					{"n":"默認YouTube影視","v":"Complete tertiary film Láimheán na tíorthaime leatbhaile Full YouTube Movie"},
+					{"n":"英叔","v":"Full 林正英 英叔"},
+					{"n":"電影大劇院","v":"电影大剧院 1905 Movie Theater"},
+					{"n":"港台三級片","v":"hdr 香港 澳门 台湾 新加坡 马来西亚 泰国 三級片"},
+					{"n":"邵氏经典","v":"hdr 邵氏经典武侠电影"},
+					{"n":"8號電影","v":"@8-hkmovie 8號電影院 - HK Movie"},
+					{"n":"Chinese Dramas","v":"@chinesedramas3560 Chinese Dramas"},
+					{"n":"追劇雜貨舖","v":"@DramaGrocery 追剧杂货铺"},
+					{"n":"中国热门高清电视","v":"@chinahdtv8788 中国热门高清电视 China HDTV"},
+					{"n":"影視劇匯蹤","v":"影視劇匯蹤"},
+					{"n":"Movies china","v":"Movies china"},
+					{"n":"影視頻道","v":"影視頻道"},
+					{"n":"小君影視總","v":"小君影視匯"},
+					{"n":"老電影","v":"老電影"},
+					{"n":"Chinese Movie Theater","v":"Chinese Movie Theater"},
+					{"n":"腾讯","v":"腾讯 电影"},
+					{"n":"爱奇艺","v":"爱奇艺 电影"},
+					{"n":"优酷","v":"优酷 电影"},
+					{"n":"芒果","v":"芒果TV 电影"},
+					{"n":"搜狐","v":"搜狐 电影"},
+					{"n":"Netflix","v":"netflix Full movie 电影"},
+					{"n":"Disney","v":"disney Full movie 电影"},
+					{"n":"Apple","v":"apple Full movie 电影"},
+					{"n":"Amazon","v":"amazon Full movie 电影"},
+					{"n":"HBO","v":"hbo Full movie 电影"}
+				]
+			}
+		],
+			"LIST:Full YouTube 劇集":[
+		    {
+				"key":"time",
+				"name":"時間",
+				"value":[	
+					{"n":"時間全選","v":""},
+					{"n":"2024","v":"2024年 year"},
+					{"n":"2023","v":"2023年 year"},
+					{"n":"2022","v":"2022年 year"},
+					{"n":"2021","v":"2021年 year"},
+					{"n":"2020","v":"2020年 year"},
+					{"n":"2019","v":"2019年 year"},
+					{"n":"2018","v":"2018年 year"},
+					{"n":"2017","v":"2017年 year"},
+					{"n":"2016","v":"2016年 year"},
+					{"n":"2015","v":"2015年 year"},
+					{"n":"2014","v":"2014年 year"},
+					{"n":"2013","v":"2013年 year"},
+					{"n":"2012","v":"2012年 year"},
+					{"n":"2011","v":"2011年 year"},
+					{"n":"2010","v":"2010年 year"},
+					{"n":"2009","v":"2009年 year"},
+					{"n":"2008","v":"2008年 year"},
+					{"n":"2007","v":"2007年 year"},
+					{"n":"2006","v":"2006年 year"},
+					{"n":"2005","v":"2005年 year"},
+					{"n":"2004","v":"2004年 year"},
+					{"n":"2003","v":"2003年 year"},
+					{"n":"2002","v":"2002年 year"},
+					{"n":"2001","v":"2001年 year"},
+					{"n":"2000","v":"2000年 year"},
+					{"n":"1999","v":"1999年 year"},
+					{"n":"1998","v":"1998年 year"},
+					{"n":"1997","v":"1997年 year"},
+					{"n":"1996","v":"1996年 year"},
+					{"n":"1995","v":"1995年 year"},
+					{"n":"1994","v":"1994年 year"},
+					{"n":"1993","v":"1993年 year"},
+					{"n":"1992","v":"1992年 year"},
+					{"n":"1991","v":"1991年 year"},
+					{"n":"1990","v":"1990年 year"},
+					{"n":"1989","v":"1989年 year"},
+					{"n":"1988","v":"1988年 year"},
+					{"n":"1987","v":"1987年 year"},
+					{"n":"1986","v":"1986年 year"},
+					{"n":"1985","v":"1985年 year"},
+					{"n":"1984","v":"1984年 year"},
+					{"n":"1983","v":"1983年 year"},
+					{"n":"1982","v":"1982年 year"},
+					{"n":"1981","v":"1981年 year"},
+					{"n":"1980","v":"1980年 year"},
+					{"n":"1979","v":"1979年 year"},
+					{"n":"1978","v":"1978年 year"},
+					{"n":"1977","v":"1977年 year"},
+					{"n":"1976","v":"1976年 year"},
+					{"n":"1975","v":"1975年 year"},
+					{"n":"1974","v":"1974年 year"},
+					{"n":"1973","v":"1973年 year"},
+					{"n":"1972","v":"1972年 year"},
+					{"n":"1971","v":"1971年 year"},
+					{"n":"1970","v":"1970年 year"},
+					{"n":"1969","v":"1969年 year"},
+					{"n":"1968","v":"1968年 year"},
+					{"n":"1967","v":"1967年 year"},
+					{"n":"1966","v":"1966年 year"},
+					{"n":"1965","v":"1965年 year"},
+					{"n":"1964","v":"1964年 year"},
+					{"n":"1963","v":"1963年 year"},
+					{"n":"1962","v":"1962年 year"},
+					{"n":"1961","v":"1961年 year"},
+					{"n":"1960","v":"1960年 year"},
+					{"n":"1959","v":"1959年 year"},
+					{"n":"1958","v":"1958年 year"}
+				]
+			},
+			{
 				"key":"time",
 				"name":"劇情總類型",
 				"value":[
@@ -543,36 +640,6 @@
 					{"n":"意大利","v":"意大利 劇集"},
 					{"n":"西班牙","v":"西班牙 劇集"},
 					{"n":"加拿大","v":"加拿大 劇集"}
-				]
-			},
-			{
-				"key":"tid",
-				"name":"三級片",
-				"value":[
-					{"n":"默認YouTube影視","v":"Complete tertiary film Láimheán na tíorthaime leatbhaile Full YouTube Movie"},
-					{"n":"電影大劇院","v":"电影大剧院 1905 Movie Theater"},
-					{"n":"港台三級片","v":"hdr 香港 澳门 台湾 新加坡 马来西亚 泰国 三級片"},
-					{"n":"邵氏经典","v":"hdr 邵氏经典武侠电影"},
-					{"n":"8號電影","v":"@8-hkmovie 8號電影院 - HK Movie"},
-					{"n":"Chinese Dramas","v":"@chinesedramas3560 Chinese Dramas"},
-					{"n":"追劇雜貨舖","v":"@DramaGrocery 追剧杂货铺"},
-					{"n":"中国热门高清电视","v":"@chinahdtv8788 中国热门高清电视 China HDTV"},
-					{"n":"影視劇匯蹤","v":"影視劇匯蹤"},
-					{"n":"Movies china","v":"Movies china"},
-					{"n":"影視頻道","v":"影視頻道"},
-					{"n":"小君影視總","v":"小君影視匯"},
-					{"n":"老電影","v":"老電影"},
-					{"n":"Chinese Movie Theater","v":"Chinese Movie Theater"},
-					{"n":"腾讯","v":"腾讯 电影"},
-					{"n":"爱奇艺","v":"爱奇艺 电影"},
-					{"n":"优酷","v":"优酷 电影"},
-					{"n":"芒果","v":"芒果TV 电影"},
-					{"n":"搜狐","v":"搜狐 电影"},
-					{"n":"Netflix","v":"netflix Full movie 电影"},
-					{"n":"Disney","v":"disney Full movie 电影"},
-					{"n":"Apple","v":"apple Full movie 电影"},
-					{"n":"Amazon","v":"amazon Full movie 电影"},
-					{"n":"HBO","v":"hbo Full movie 电影"}
 				]
 			},
 			{
@@ -830,15 +897,15 @@
 				"key":"tid",
 				"name":"中文",
 				"value":[
-				    {"n":"地區排序","v":"歷史記錄片 地球記錄片 宇宙記錄片 海洋記錄片 戰爭記錄片 大自然生存記錄片"},
-					{"n":"默认","v":"documentary"},
+				    {"n":"【CCTV纪录】","v":"地理·中國 【CCTV纪录】"},
+					{"n":"紀錄片","v":"Full YouTube Documentary 紀錄片"},
+					{"n":"歷史記錄","v":"Full YouTube History 歷史記錄"},
 					{"n":"BBC纪录片","v":"BBC 纪录片"},
 					{"n":"国家地理","v":"国家地理 纪录片"},
 					{"n":"Netflix纪录片","v":"netflix 纪录片"},
 					{"n":"BBC","v":"Full BBC documentary"},
 					{"n":"National Geographic","v":"Full National Geographic documentary"},
 					{"n":"Netflix","v":"Full netflix documentary"},
-					{"n":"历史","v":"历史 纪录片"},
 					{"n":"野性","v":"野性 纪录片"},
 					{"n":"地球","v":"地球 纪录片"},
 					{"n":"宇宙","v":"宇宙 纪录片"},
@@ -861,7 +928,7 @@
 				]
 			}
 		],
-		"LIST:Full YouTube 音樂":[
+		"LIST:Full YouTube 音樂🎶":[
 		    {
 				"key":"time",
 				"name":"時間",
