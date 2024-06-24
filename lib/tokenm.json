@@ -69,6 +69,7 @@
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":false,
 "libxl_url":"./libxl_thunder_sdk.so",
+  
 "youtube_proxy":"proxy",
 "singbox_url":"./sing-box.gz",
 "singbox_subscribe_url":"https://edu.kuaifaka.me/api/v1/client/subscribe?token=81adbd63067ff5ebe04337704b67c504&types=hysteria2",
