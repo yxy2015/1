@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0627.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
+"spider":"./jar/pg0628.jar;md5;c40837deac3981107739e519bc2ac84f",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "logo":"./lib/1.gif",
 "lives":[
@@ -8,9 +8,9 @@
 {"name":"本地直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites":[
-{"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：6/27😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1},
-{"key":"饭佬_饭佬搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：6/27😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"jar":"./jar/fan0625.jar;md5;39536019b1427f62b535f028d161d43a"},
-{"key":"饭佬_饭偶搜索","name":"饭偶搜索ㅤㅤㅤ😃更新：6/27😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_WoGG","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":1,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://woggapi.333232.xyz/","danMu":"弹"},"jar":"./jar/fan0625.jar;md5;39536019b1427f62b535f028d161d43a"},
+{"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：7/01😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1},
+{"key":"饭佬_饭佬搜索","name":"豆瓣搜索ㅤㅤㅤ😃更新：7/01😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"jar":"./jar/fan0625.jar;md5;39536019b1427f62b535f028d161d43a"},
+{"key":"饭佬_饭偶搜索","name":"饭偶搜索ㅤㅤㅤ😃更新：7/01😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_WoGG","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":1,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://woggapi.333232.xyz/","danMu":"弹"},"jar":"./jar/fan0625.jar;md5;39536019b1427f62b535f028d161d43a"},
 {"key":"屁股_网盘配置","name":"4K网盘配置页","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
 
 {"key":"小二_广场","name":"广场丨舞蹈","type":3,"api":"csp_Wextangdou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":2},"jar":"./jar/wex0627.jar;md5;28258ba65a6805c0726c15bba60b7933"},
