@@ -72,8 +72,7 @@
 "youtube_proxy":"proxy",
   
 "singbox_url":"./sing-box.gz",
-"singbox_subscribe_url":"https://edu.nitbook.me/api/v1/client/subscribe?token=81adbd63067ff5ebe04337704b67c504&types=hysteria2",
-//"singbox_subscribe_url":"https://mirror.ghproxy.com/https://github.com/yuanwangokk-1/subscribe/raw/main/singbox/wXfZ.json",
+"singbox_subscribe_url":"https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=0f7a6f88d141891cc0544a46307a868c",
 "singbox_clash2singbox_url":"./clash2singbox.gz",
 "singbox_template_url":"./singbox.json"
 }
