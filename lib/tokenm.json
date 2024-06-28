@@ -69,7 +69,7 @@
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":false,
 "libxl_url":"./libxl_thunder_sdk.so",
-"youtube_proxy":"proxy",
+"youtube_proxy":"",
   
 "singbox_url":"./sing-box.gz",
 "singbox_subscribe_url":"https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=0f7a6f88d141891cc0544a46307a868c",
