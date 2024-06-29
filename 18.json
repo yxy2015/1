@@ -17,8 +17,8 @@
 {"key":"文才","name":"💖文才","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/文才.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
 {"key":"仓库","name":"💖仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/仓库.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
 {"key":"新91","name":"💖新91","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/新91.json","style":{"type":"rect","ratio":1.5},"jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
-
 {"key":"顶级","name":"💖顶级","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/顶级.json","style":{"type":"rect","ratio":1.33},"jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
+
 {"key":"天美","name":"💖天美","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/天美.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
 {"key":"溏心","name":"💖溏心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/溏心.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
 {"key":"瓜瓜","name":"💖瓜瓜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/瓜瓜.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
