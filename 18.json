@@ -14,14 +14,14 @@
 //{"key":"合集","name":"点击ㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ“主页”更精彩!!!","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
 
 
-{"key":"文才","name":"💖文才","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/文才.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
-{"key":"仓库","name":"💖仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/仓库.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
-{"key":"新91","name":"💖新91","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/新91.json","style":{"type":"rect","ratio":1.5},"jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
-{"key":"顶级","name":"💖顶级","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/顶级.json","style":{"type":"rect","ratio":1.33},"jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
+{"key":"文才","name":"💖文才","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/文才.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"仓库","name":"💖仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/仓库.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"新91","name":"💖新91","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/新91.json","style":{"type":"rect","ratio":1.5},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"顶级","name":"💖顶级","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/顶级.json","style":{"type":"rect","ratio":1.33},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 
-{"key":"天美","name":"💖天美","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/天美.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
-{"key":"溏心","name":"💖溏心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/溏心.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
-{"key":"瓜瓜","name":"💖瓜瓜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/瓜瓜.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
+{"key":"天美","name":"💖天美","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/天美.json","jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"溏心","name":"💖溏心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/溏心.json","jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"瓜瓜","name":"💖瓜瓜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/瓜瓜.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"最色","name":"❤️最色","type":3,"api":"csp_Zuise","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":60},
 
 {"key":"Doll","name":"💔玩偶哥哥(海外)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"ext":"127.0.0.1:10072","style":{"type":"rect","ratio":1.309},"timeout":60},
@@ -93,9 +93,9 @@
 {"key":"成二","name":"🔞成二","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"量子","name":"🔞量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["伦理片"]},
 {"key":"乐播","name":"️🔞乐播","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["亚洲情色","国产主播","国产自拍","无码专区","欧美性爱","熟女人妻","强奸乱伦","巨乳美乳","中文字幕","制服诱惑","女同性恋","卡通动画","视频伦理","少女萝莉","重口色情","人兽性交"]},
-{"key":"狼群","name":"💖狼群","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"页面代理":"127.0.0.1:10072","分类":"中文av$6#无码$1#有码$4#日韩$9#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#自拍$10","站名":"2028P","主页url":"https://www.2028p.com","直接播放":"1","搜索url":"https://2028p.com/vodsearch/-------------/?wd={wd}","分类url":"https://2028p.com/vodshow/{cateId}--{by}------{catePg}---/"},"playerType":0,"jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
-{"key":"福利","name":"💖福利","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/福利.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
-{"key":"茶杯","name":"💖茶杯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/茶杯.json","jar":"./lib/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
+{"key":"狼群","name":"💖狼群","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"页面代理":"127.0.0.1:10072","分类":"中文av$6#无码$1#有码$4#日韩$9#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#自拍$10","站名":"2028P","主页url":"https://www.2028p.com","直接播放":"1","搜索url":"https://2028p.com/vodsearch/-------------/?wd={wd}","分类url":"https://2028p.com/vodshow/{cateId}--{by}------{catePg}---/"},"playerType":0,"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"福利","name":"💖福利","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/福利.json","jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
+{"key":"茶杯","name":"💖茶杯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/茶杯.json","jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 
 
 
