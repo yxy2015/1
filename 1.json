@@ -44,9 +44,9 @@
 
 //{"key":"饭佬_饭偶","name":"🎅饭偶丨4K（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"ext":{"aliToken":"https://cloud.lxweb.cn/f/WAKoSB/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0630.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a"},
 {"key":"屁股_玩偶","name":"🎅玩偶丨4K（很吃网速和硬件）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$1$$$./lib/wogg.json","timeout":30},
-{"key":"屁股_太灵","name":"🐶太灵丨4K（很吃网速和硬件）","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":30},
+{"key":"屁股_太灵","name":"🐶太灵丨4K（很吃网速和硬件）","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"https://www.3bt0.com/$$$1","timeout":30},
 {"key":"屁股_布谷","name":"🐦布谷丨4K（很吃网速和硬件）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./XYQHiker/布谷.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-{"key":"屁股_范丝","name":"🎉范丝丨4K（很吃网速和硬件）","type":3,"api":"csp_Gaoqing","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1","timeout":30},
+{"key":"屁股_范丝","name":"🎉范丝丨4K（很吃网速和硬件）","type":3,"api":"csp_Gaoqing","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$127.0.0.1:10072$$$1","timeout":30},
 
 
 {"key":"饭佬_专线","name":"🚝专线丨秒播","type":3,"api":"csp_Zx4k","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0630.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a","timeout":30},
