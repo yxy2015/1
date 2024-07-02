@@ -7,7 +7,6 @@
 {"name":"中央直播","type":0,"pass":true,"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","url":"./央视频嗅探.m3u","boot":false,"timeout":40},
 {"name":"全球直播","url":"http://127.0.0.1:10079/p/0/127.0.0.1:10072/http://oy.oyxx-1.eu.org/p3p.php","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"},
 {"name":"CESHI直播","url":"https://api-ghp.xfjy.in/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/china_all.m3u","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"},
-{"name":"CESHI1直播","type":0,"pass":true,"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","url":"https://api-ghp.xfjy.in/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/china_all.m3u","boot":false,"timeout":40},
 {"name":"本地直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites":[
