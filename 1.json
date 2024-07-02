@@ -83,7 +83,7 @@
 {"key":"香佬_耳机","name":"🎧耳机丨磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0511.jar;md5;81544697bc790013fc5bb1d2939bf0b6"},
 
 
-  
+
 {"key":"开心_三米","name":"🔔三米丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/三米.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"开心_白白","name":"🔔白白丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/白白.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"开心_蛋蛋","name":"🔔蛋蛋丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/蛋蛋.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
@@ -104,7 +104,7 @@
 
 
 
-  
+
 {"key":"小二_花蕊","name":"🌺花蕊丨多线","type":3,"api":"csp_Wexhuaruitv","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
 {"key":"小二_甲子","name":"🥁甲子丨秒播","type":3,"api":"csp_Wexjiazitv","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
 {"key":"小二_明天","name":"🌤️明天丨秒播","type":3,"api":"csp_WexTiantianys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
@@ -248,6 +248,7 @@
 {"key":"屁股_BLSG","name":"🧲BLSGod丨磁力","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":30},
 {"key":"屁股_美剧","name":"🧲MeijuTT丨磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":30},
 {"key":"屁股_Seed","name":"🧲SeedHub丨磁力","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":30},
+{"key":"屁股_欧乐","name":"👓欧乐影院丨海外","type":3,"api":"csp_Olevod","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$null$$$127.0.0.1:10072$$$1"},
 
 
 
