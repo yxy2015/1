@@ -29,15 +29,15 @@
 {"key":"小二_短三","name":"极品丨短劇","type":3,"api":"csp_Wexduanjuvmp","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
 {"key":"小二_短四","name":"精品丨短劇","type":3,"api":"csp_Wexvipduanju","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
 
-{"key":"短剧_火狐","name":"火狐丨短劇","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
-{"key":"短剧_卧龙","name":"卧龙丨短劇","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
-{"key":"短剧_极速","name":"极速丨短劇","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
-{"key":"短剧_非凡","name":"非凡丨短劇","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/?","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
+{"key":"短剧_火狐","name":"火狐丨短劇","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0630.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a","categories":["短剧"]},
+{"key":"短剧_卧龙","name":"卧龙丨短劇","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0630.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a","categories":["短剧"]},
+{"key":"短剧_极速","name":"极速丨短劇","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0630.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a","categories":["短剧"]},
+{"key":"短剧_非凡","name":"非凡丨短劇","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/?","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0630.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a","categories":["短剧"]},
 
-{"key":"短剧_天天","name":"天天丨短劇","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
-{"key":"短剧_空空","name":"空空丨短劇","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
-{"key":"短剧_四九","name":"四九丨短劇","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
-{"key":"短剧_量子","name":"乐视丨短劇","type":1,"api":"https://leshiapi.com/api.php/provide/vod","searchable":0,"changeable":0,"categories":["短剧"]},
+{"key":"短剧_天天","name":"天天丨短劇","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0630.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a","categories":["短剧"]},
+{"key":"短剧_空空","name":"空空丨短劇","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0630.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a","categories":["短剧"]},
+{"key":"短剧_四九","name":"四九丨短劇","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0630.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a","categories":["短剧"]},
+{"key":"短剧_量子","name":"乐视丨短劇","type":1,"api":"https://leshiapi.com/api.php/provide/vod","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0630.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a","categories":["短剧"]},
 
 
 
