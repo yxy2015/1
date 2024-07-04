@@ -24,9 +24,9 @@ var rule = {
     filter_url:'fl={{fl}}',
     vmid获取教程:'登录后访问https://api.bilibili.com/x/web-interface/nav,搜索mid就是,cookie需要 bili_jct,DedeUserID,SESSDATA参数',
     searchUrl:'/x/web-interface/search/type?keyword=**&page=fypage&search_type=',
-    searchable:1,
-    filterable:1,
-    quickSearch:1,
+    searchable:0,
+    filterable:0,
+    quickSearch:0,
     headers:{
         'User-Agent':'PC_UA',
         "Referer": "https://www.bilibili.com",
