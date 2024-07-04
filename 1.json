@@ -156,7 +156,7 @@
 {"key":"屁股_泥泥","name":"✈️泥巴丨海外","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"127.0.0.1:10072","jar":"./jar/pg0702.jar;md5;3815819b82a6029d44e758c91ab13de6","timeout":30},
 
 {"key":"屁股_天天","name":"☀️天天丨多线","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg0702.jar;md5;3815819b82a6029d44e758c91ab13de6","timeout":30},
-{"key":"屁股_影视","name":"🍖影视丨秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"","jar":"./jar/pg0702.jar;md5;3815819b82a6029d44e758c91ab13de6","timeout":30},
+{"key":"屁股_影视","name":"🍖影视丨秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"jar":"./jar/pg0702.jar;md5;3815819b82a6029d44e758c91ab13de6","timeout":30},
 {"key":"屁股_欧乐","name":"👓欧乐丨海外","type":3,"api":"csp_Olevod","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$127.0.0.1:10072$$$1","jar":"./jar/pg0702.jar;md5;3815819b82a6029d44e758c91ab13de6","timeout":30},
 
 {"key":"屁股_磁狗","name":"🧲磁狗丨磁力","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1","style":{"type":"rect","ratio":1.5},"jar":"./jar/pg0702.jar;md5;3815819b82a6029d44e758c91ab13de6","timeout":30},
@@ -175,7 +175,7 @@
 {"key":"开心_圣城","name":"🔔圣城丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/圣城.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 
 
-{"key":"饭佬_利播","name":"🌟立播丨秒播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":{"quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"},"timeout":30}
+{"key":"饭佬_利播","name":"🌟立播丨秒播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":{"quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"},"timeout":30},
 {"key":"饭佬_视觉","name":"👓视觉丨秒播","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/","timeout":30},
 {"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/","timeout":30},
 {"key":"饭佬_在线","name":"🚴‍♂️在线丨秒播","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","timeout":30},
