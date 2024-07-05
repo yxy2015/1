@@ -126,10 +126,8 @@
 
 {"key":"屁股_爱看","name":"👾爱看丨多线","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://v.aikanbot.com$$$proxy","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 {"key":"屁股_快看","name":"👀快看丨秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
-{"key":"屁股_天天","name":"☀️天天丨多线","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 {"key":"屁股_南瓜","name":"🎃南瓜丨多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"null$$$1","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 
-{"key":"屁股_影视","name":"🍖影视丨秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 
 
   
@@ -160,6 +158,8 @@
 {"key":"饭老_日本","name":"🐾日本丨秒播","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
 {"key":"采集_泰泰","name":"🌳泰泰丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
+{"key":"屁股_影视","name":"🍖影视丨秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
+{"key":"屁股_天天","name":"☀️天天丨多线","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 
 
 
