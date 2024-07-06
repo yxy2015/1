@@ -25,7 +25,8 @@
 {"key":"道长_哔哩","name":"BiliBili","type":3,"api":"https://y.337898581.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/bilibili.js"},
 {"key":"小二_相声","name":"随身丨相声","type":3,"api":"csp_Wexxsmp3","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
 
-{"key":"小二_短四","name":"精品丨短劇","type":3,"api":"csp_Wexvipduanju","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},{"key":"小二_短一","name":"秒播丨短劇","type":3,"api":"csp_Wexduanjuvop","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
+{"key":"小二_短四","name":"精品丨短劇","type":3,"api":"csp_Wexvipduanju","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
+{"key":"小二_短一","name":"秒播丨短劇","type":3,"api":"csp_Wexduanjuvop","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
 {"key":"小二_短二","name":"仙品丨短劇","type":3,"api":"csp_Wexduanjuhema","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
 {"key":"小二_短三","name":"极品丨短劇","type":3,"api":"csp_Wexduanjuvmp","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
 
