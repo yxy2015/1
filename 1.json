@@ -17,7 +17,7 @@
 
 {"key":"小二_广场","name":"广场丨舞蹈","type":3,"api":"csp_Wextangdou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":2},"jar":"./jar/wex0630.jar;md5;bddf772185748da4ce3f57fa889e3c96"},
 {"key":"饭佬_游戏","name":"游戏丨直播","type":3,"api":"csp_Yj1211","searchable":0,"changeable":0,"quickSearch":0,"filterable":0},
-{"key":"采集_中央","name":"央视丨直播","type":3,"api":"csp_CCTV","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/央视大全.json","jar":"./jar/cctv.jar;md5;a4641d44614be4500b314841116b55a4"},
+{"key":"采集_中央","name":"央视丨回播","type":3,"api":"csp_CCTV","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/央视大全.json","jar":"./jar/cctv.jar;md5;a4641d44614be4500b314841116b55a4"},
 {"key":"饭佬_讲堂","name":"学习丨讲堂","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
 
 {"key":"屁股_酷狗","name":"酷狗丨音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f"},
