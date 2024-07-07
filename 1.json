@@ -43,7 +43,6 @@
 
 
 
-//{"key":"饭佬_饭偶","name":"🎅饭偶丨4K（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"ext":{"aliToken":"https://cloud.lxweb.cn/f/WAKoSB/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 {"key":"屁股_玩偶","name":"🎅玩偶丨4K（很吃网速和硬件）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$1$$$./lib/wogg.json","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 {"key":"屁股_太灵","name":"🐶太灵丨4K（很吃网速和硬件）","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"https://www.3bt0.com/$$$1","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 {"key":"屁股_布谷","name":"🐦布谷丨4K（很吃网速和硬件）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./XYQHiker/布谷.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
@@ -177,8 +176,9 @@
 
 
 
-{"key":"php_hmezy","name":"黑木耳","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"quickSearch":1,"filterable":0}
+{"key":"php_hmezy","name":"黑木耳","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"屁股_我的","name":"我的资源分享","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
+{"key":"饭佬_饭偶","name":"🎅饭偶丨4K（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 
 
 
