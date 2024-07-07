@@ -178,7 +178,7 @@
 
 {"key":"php_hmezy","name":"黑木耳","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"屁股_我的","name":"我的资源分享","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
-{"key":"饭佬_饭偶","name":"🎅饭偶丨4K（夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+{"key":"饭佬_饭偶","name":"🎅饭偶丨4K（阿里夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 
 
 
