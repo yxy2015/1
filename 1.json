@@ -143,8 +143,8 @@
 
 
 
-  
-  
+
+
 
 {"key":"饭佬_文采","name":"💮文采丨秒播","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
 {"key":"饭佬_视觉","name":"👓视觉丨秒播","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/","timeout":30},
@@ -175,9 +175,9 @@
 
 
 
-  
-  
 
+
+{"key":"php_hmezy","name":"黑木耳","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"quickSearch":1,"filterable":0}
 {"key":"屁股_我的","name":"我的资源分享","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 
 
