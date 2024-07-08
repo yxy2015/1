@@ -21,7 +21,7 @@
 {"key":"饭佬_讲堂","name":"学习丨讲堂","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
 
 {"key":"屁股_酷狗","name":"酷狗丨音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f"},
-{"key":"屁股_优土","name":"Youtube","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K","proxy":"127.0.0.1:10072","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f"},
+{"key":"屁股_优土","name":"Youtube","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K","proxy":"127.0.0.1:10072","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.77},"danmu":true,"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f"},
 {"key":"道长_哔哩","name":"BiliBili","type":3,"api":"https://y.337898581.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/bilibili.js"},
 {"key":"小二_相声","name":"随身丨相声","type":3,"api":"csp_Wexxsmp3","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c"},
 
@@ -137,7 +137,7 @@
 {"key":"采集_少泽","name":"📺少泽丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://yk.shaozeyy.com/api.php/app/"},
 
 {"key":"饭佬_热播","name":"📺热播丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","timeout":30},
-{"key":"饭佬_萌米","name":"👀萌米丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","timeout":30},
+{"key":"饭佬_萌米","name":"👀萌米丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","timeout":30},
 {"key":"饭佬_小柚","name":"🍊小柚丨多线","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==","timeout":30},
 {"key":"饭佬_虾米","name":"🦀虾米丨多线","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w==","timeout":30},
 
