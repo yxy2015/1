@@ -25,7 +25,7 @@
 {"key":"道长_哔哩","name":"BiliBili","type":3,"api":"https://y.337898581.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/bilibili.js"},
 {"key":"小二_相声","name":"随身丨相声","type":3,"api":"csp_Wexxsmp3","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c"},
 
-{"key":"屁股_偶玩","name":"玩偶丨短劇","type":3,"api":"csp_Wogg","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"ext":"./lib/tokenm.json$$$https://www.wogg.link/$$$1$$$./lib/wogg.json","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
+{"key":"屁股_偶玩","name":"玩偶丨短劇","type":3,"api":"csp_Wogg","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$1$$$./lib/wogg.json","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 {"key":"短剧_火狐","name":"火狐丨短劇","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 {"key":"短剧_卧龙","name":"卧龙丨短劇","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 {"key":"短剧_极速","name":"极速丨短劇","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
@@ -40,7 +40,7 @@
 {"key":"小二_短三","name":"精品丨短劇","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c"},
 {"key":"小二_短四","name":"极品丨短劇","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c"},
 
-{"key":"屁股_玩偶","name":"🎅玩偶丨4K网盘（需网速和硬件支持）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wogg.link/$$$1$$$./lib/wogg.json","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
+{"key":"屁股_玩偶","name":"🎅玩偶丨4K网盘（需网速和硬件支持）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$1$$$./lib/wogg.json","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 {"key":"屁股_土豆","name":"🥔土豆丨4K网盘（需网速和硬件支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$1$$$./lib/wogg.json","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 {"key":"屁股_老哥","name":"🍈多多丨4K网盘（需网速和硬件支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 {"key":"屁股_蜡笔","name":"📀蜡笔丨4K网盘（需网速和硬件支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$1$$$./lib/wogg.json","jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
@@ -133,7 +133,7 @@
 {"key":"饭老_巴士","name":"🚌动漫丨秒播","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
 {"key":"饭老_异界","name":"🎀异界丨秒播","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
 {"key":"饭老_日本","name":"🐾日本丨秒播","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
-{"key":"饭佬_饭偶","name":"🎅饭偶丨4K（阿里夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"ext":{"Cloud-drive":"http://cloud.lxweb.cn/f/LOQkUD/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+{"key":"饭佬_饭偶","name":"🎅饭偶丨4K（阿里夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"ext":{"Cloud-drive":"http://cloud.lxweb.cn/f/LOQkUD/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 
 {"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔站热歌.json"},
 {"key":"屁股_急救","name":"急救丨知识","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f"},
