@@ -43,10 +43,10 @@
 {"key":"小二_短三","name":"精品丨短劇","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c","timeout":30},
 {"key":"小二_短四","name":"极品丨短劇","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c","timeout":30},
 
-{"key":"屁股_玩偶","name":"🎅玩偶丨4K网盘（需网速和硬件支持）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$1$$$./lib/wogg.json","timeout":30},
-{"key":"屁股_土豆","name":"🥔土豆丨4K网盘（需网速和硬件支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$1$$$./lib/wogg.json","timeout":30},
-{"key":"屁股_老哥","name":"🍈多多丨4K网盘（需网速和硬件支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","timeout":30},
-{"key":"屁股_蜡笔","name":"📀蜡笔丨4K网盘（需网速和硬件支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$1$$$./lib/wogg.json","timeout":30},
+{"key":"屁股_玩偶","name":"🎅玩偶丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$1$$$./lib/wogg.json","timeout":30},
+{"key":"屁股_土豆","name":"🥔土豆丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$1$$$./lib/wogg.json","timeout":30},
+{"key":"屁股_老哥","name":"🍈多多丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","timeout":30},
+{"key":"屁股_蜡笔","name":"📀蜡笔丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$1$$$./lib/wogg.json","timeout":30},
 
 {"key":"饭佬_文采","name":"💮文才丨秒播","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0709.jar;md5;fc1b4f17aa8de6068500090f33de88b9","timeout":30},
 {"key":"饭佬_苹果","name":"🍎苹果丨秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0709.jar;md5;fc1b4f17aa8de6068500090f33de88b9","timeout":30},
