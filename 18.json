@@ -29,7 +29,18 @@
 {"key":"MissAV","name":"💔MissAV(海外)","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"ext":"127.0.0.1:10072","style":{"type":"rect","ratio":1.777},"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":60},
 {"key":"Top888","name":"💔Top888(海外)","type":3,"api":"csp_Top888","searchable":1,"quickSearch":1,"changeable":1,"ext":"$$$127.0.0.1:10072","style":{"type":"rect","ratio":1.5},"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":60},
 
-
+{
+"key":"csp_mgtva",
+"name":"木瓜影视",
+"type":3,
+"api":"csp_XBPQ",
+	"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"ext":{
+"分类url":"https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+"分类":"电影&电视剧&综艺&动漫",
+"分类值":"dianying&lianxuju&zongyi&dongman"
+}
+},
 {"key":"屁股_我的","name":"我的资源分享","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f","timeout":30},
 {"key":"看看","name":"🔞看看","type":1,"api":"https://kkzy.me/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"资源","name":"🔞资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
