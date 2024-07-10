@@ -134,7 +134,27 @@
 {"key":"饭老_异界","name":"🎀异界丨秒播","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
 {"key":"饭老_日本","name":"🐾日本丨秒播","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
 {"key":"饭佬_饭偶","name":"🎅饭偶丨4K（阿里夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"ext":{"Cloud-drive":"http://cloud.lxweb.cn/f/LOQkUD/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
-
+{
+            "key": "csp_xBPQ_电视直播1",
+            "name": "💎电视直播(不分线路)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+            "filterable": 0,
+            "ext": {
+                "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50",
+                "直接播放": "1",
+                "分类": "CCTV节目官网_央视网$https://tv.cctv.com#",
+                "播放数组":"live-cctv=\"&&\"",
+                "免嗅": "0",
+                "主页url": "https://tv.cctv.com/",
+                "分类url": "https://tv.cctv.com/live/cctv\"&&\"{cateId}",
+                "图片": "data-original=\"&&\"",
+                "不分线路": "1"
+            }
+        },
 {"key":"屁股_酷狗","name":"酷狗丨音乐","type":3,"api":"csp_Kugou","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f"},
 {"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔站热歌.json"},
 {"key":"屁股_急救","name":"急救丨知识","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"jar":"./jar/pg0705.jar;md5;d89d3a77a06f18893a763fdc2224669f"},
