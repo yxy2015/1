@@ -52,8 +52,13 @@
 
 {"key":"小二_闪电","name":"⚡️闪电丨秒播","type":3,"api":"csp_Wexshandian","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c"},
 {"key":"小二_伯伯","name":"👨‍🌾‍农民丨秒播","type":3,"api":"csp_WexNmys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c"},
-{"key":"小二_骚火","name":"🔥火火丨秒播","type":3,"api":"csp_Wexsaohuo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c"},
+{"key":"小二_骚火","name":"🏮火火丨秒播","type":3,"api":"csp_Wexsaohuo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c"},
 {"key":"小二_雨落","name":"💥雨落丨多线","type":3,"api":"csp_Wexyuyueys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c"},
+
+{"key":"熊猫_美剧","name":"🌎美剧丨秒播","type":3,"api":"csp_KmeiJu","playerType":2,"jar":"./jar/Panda0709.jar;md5;11996bd06b6692c6785adb899fc47fe3"},
+{"key":"熊猫_欧克","name":"️️🤏欧克丨秒播","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/Panda0709.jar;md5;11996bd06b6692c6785adb899fc47fe3"},
+{"key":"熊猫_圣城","name":"🏫圣城丨多线","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/Panda0709.jar;md5;11996bd06b6692c6785adb899fc47fe3"},
+{"key":"熊猫_低端","name":"👺低端丨秒播","type":3,"playerType":"2","api":"http://js.xn--z7x900a.com/js/lib/drpy2.min.js","ext":"http://js.xn--z7x900a.com/js/ddys.js","jar":"./jar/Panda0709.jar;md5;11996bd06b6692c6785adb899fc47fe3"},
 
 {"key":"开心_五五","name":"🔔五五丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/五五.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key":"开心_子子","name":"🔔子子丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/子子.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
