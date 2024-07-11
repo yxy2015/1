@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0711.jar;md5;1497298c40bc2af0a4bdefdbf41a9425",
+"spider":"./jar/pg0711.jar;md5;6c10fdaf8b53d213e25b090b55fbb3ca",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "logo":"./lib/1.gif",
 "lives":[
@@ -146,6 +146,9 @@
 {"key":"屁股_蜡笔","name":"📀蜡笔丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_校长","name":"🎓校长丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzyshd.com/$$$1","timeout":30},
 {"key":"屁股_视觉","name":"👓视觉丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://6080z.com/$$$1$$$./lib/wogg.json","timeout":30},
+{"key":"屁股_影巢","name":"🎥影巢丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$1","timeout":30},
+
+{"key":"屁股_影搜","name":"🥉影搜丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_YingSo","ext":"./lib/tokenm.json","timeout":30},
 {"key":"屁股_混合","name":"🥇混合丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_HunHePan","ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":30},
 
 {"key":"屁股_皮卡","name":"🥇皮卡丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_PikaSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null","style":{"type":"list","ratio":1.1},"timeout":30},
