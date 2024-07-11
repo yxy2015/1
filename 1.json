@@ -71,6 +71,7 @@
 {"key":"香佬_耳机","name":"🎧耳机丨磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/XYQ0511.jar;md5;81544697bc790013fc5bb1d2939bf0b6","timeout":30},
 {"key":"屁股_爱看","name":"👾爱看丨多线","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://v.aikanbot.com$$$proxy","timeout":30},
 {"key":"屁股_快看","name":"👀快看丨秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":30},
+{"key":"屁股_南瓜","name":"🎃南瓜丨多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"null$$$1","timeout":30},
 	
 {"key":"采集_三六","name":"☁️三六丨采集","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"changeable":1,"categories":["电影","连续剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧","体育","NBA","足球","篮球"]},
 {"key":"采集_天天","name":"☁️天天丨采集","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"categories":["短剧","国产剧","剧情片","大陆综艺","动作片"]},
