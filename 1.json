@@ -140,11 +140,13 @@
 {"key":"屁股_蜡笔","name":"📀蜡笔丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_影巢","name":"🎥影巢丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$1","timeout":30},
 {"key":"屁股_校长","name":"🎓校长丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzyshd.com/$$$1","timeout":30},
-{"key":"屁股_视觉","name":"👓视觉丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://6080z.com/$$$1$$$./lib/wogg.json","timeout":30},
+{"key":"屁股_高清","name":"📺高清丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Gaoqing","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$1","timeout":30},
 
+{"key":"屁股_视觉","name":"👓视觉丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://6080z.com/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_影搜","name":"🥇影搜丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_YingSo","ext":"./lib/tokenm.json","timeout":30},
 {"key":"屁股_混合","name":"🥇混合丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_HunHePan","ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":30},
 {"key":"屁股_皮卡","name":"🥇皮卡丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_PikaSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null","style":{"type":"list","ratio":1.1},"timeout":30},
+
 {"key":"屁股_趣盘","name":"🥇趣盘丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Funletu","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":30},
 {"key":"屁股_小盘","name":"🥇小盘丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Xpanpan","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xpanpan.site$$$1","style":{"type":"list","ratio":1.1},"timeout":30},
 {"key":"屁股_我的","name":"🥇我的丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"timeout":30},
@@ -156,10 +158,10 @@
 {"key":"推送_推送","name":"手机推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./lib/tokenm.json+4k|auto|fhd"}],
 
 "parses":[
-{"name":"1","type":1,"url":"http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="},
-{"name":"2","type":1,"url":"http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="},
-{"name":"3","type":1,"url":"http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="},
-{"name":"4","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="}],
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"1","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+{"name":"2","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}}],
 
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
