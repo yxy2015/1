@@ -198,7 +198,7 @@
 {"key":"屁股_文才","name":"💯文才丨秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XYQHiker/文才.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
 {"key":"屁股_快看","name":"👀快看丨秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":30},
  
-{"key":"屁股_玩偶","name":"🎅玩偶丨网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$1$$$./lib/wogg.json","timeout":30},
+{"key":"屁股_玩偶","name":"🎅玩偶丨网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_表哥","name":"🍇表哥丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_蜡笔","name":"📀蜡笔丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_土豆","name":"🥔土豆丨网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$1$$$./lib/wogg.json","timeout":30},
@@ -239,7 +239,6 @@
 {"key":"屁股_Seed","name":"🧲Seed丨磁力","type":3,"api":"csp_SeedHub","timeout":30},
 
 
-{"key":"屁股_八八","name":"🥇八八丨网盘","type":3,"api":"csp_EightEight","ext":"./lib/tokenm.json$$$https://662688.xyz$$$","style":{"type":"list","ratio":1.1},"timeout":30},
 {"key":"屁股_混合","name":"🥈混合丨网盘","type":3,"api":"csp_HunHePan","ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":30},
 {"key":"屁股_云盘","name":"🥈云盘丨网盘","type":3,"api":"csp_YunPan","ext":"./lib/tokenm.json$$$null$$$proxy$$$1","timeout":30},
 {"key":"屁股_影搜","name":"🥉影搜丨网盘","type":3,"api":"csp_YingSo","ext":"./lib/tokenm.json","timeout":30},
@@ -259,7 +258,7 @@
 {"key":"屁股_盘他","name":"🥉盘它丨网盘","type":3,"api":"csp_Panta","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","style":{"type":"list","ratio":1.1},"timeout":30},
 {"key":"屁股_大盘","name":"🥉大盘丨网盘","type":3,"api":"csp_DaPanSo","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1","timeout":30},
 {"key":"屁股_小云","name":"🥇小云丨网盘","type":3,"api":"csp_YunSo","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1","style":{"type":"list","ratio":1.1},"timeout":30},
-
+{"key":"屁股_八八","name":"🥇八八丨网盘","type":3,"api":"csp_EightEight","ext":"./lib/tokenm.json$$$https://662688.xyz$$$","style":{"type":"list","ratio":1.1},"timeout":30},
 
 {"key":"屁股_泥泥","name":"✈️泥巴丨海外","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"127.0.0.1:10072","timeout":30},
 {"key":"屁股_欧乐","name":"👓欧乐丨海外","type":3,"api":"csp_Olevod","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$127.0.0.1:10072$$$1","timeout":30},
