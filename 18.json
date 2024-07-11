@@ -13,7 +13,6 @@
 "sites":[
 //{"key":"合集","name":"点击ㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ“主页”更精彩!!!","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"暑假","name":"💖暑假","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","ext":{"分类":"首页$http://aakhsck.cc/#日韩AV$http://aakhsck.cc/vodtype/1.html#国产系列$http://aakhsck.cc/vodtype/2.html#欧美$http://aakhsck.cc/vodtype/3.html#成人动漫$http://aakhsck.cc/vodtype/4.html#","分类url":"http://aakhsck.cc/"}},
 
 {"key":"仓库","name":"💖仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/仓库.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
 {"key":"新91","name":"💖新91","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/新91.json","style":{"type":"rect","ratio":1.5},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
@@ -26,6 +25,7 @@
 {"key":"最色","name":"❤️最色","type":3,"api":"csp_Zuise","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$1","timeout":60},
 
 
+{"key":"暑假","name":"💖暑假","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","ext":{"分类":"首页$http://aakhsck.cc/#日韩AV$http://aakhsck.cc/vodtype/1.html#国产系列$http://aakhsck.cc/vodtype/2.html#欧美$http://aakhsck.cc/vodtype/3.html#成人动漫$http://aakhsck.cc/vodtype/4.html#","分类url":"http://aakhsck.cc/"}},
 
 {"key":"屁股_我的","name":"我的资源分享","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"timeout":30},
 {"key":"看看","name":"🔞看看","type":1,"api":"https://kkzy.me/api.php/provide/vod","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
