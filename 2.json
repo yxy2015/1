@@ -241,7 +241,7 @@
 {"key":"屁股_Seed","name":"🧲Seed丨磁力","type":3,"api":"csp_SeedHub","timeout":30},
 
 
-{"key":"屁股_八八","name":"🥇八八丨网盘","type":3,"api":"csp_EightEight","ext":"./lib/tokenm.json$$$https://662688.xyz/$$$","style":{"type":"list","ratio":1.1},"timeout":30},
+{"key":"屁股_八八","name":"🥇八八丨网盘","type":3,"api":"csp_EightEight","ext":"./lib/tokenm.json$$$https://662688.xyz$$$","style":{"type":"list","ratio":1.1},"timeout":30},
 {"key":"屁股_混合","name":"🥈混合丨网盘","type":3,"api":"csp_HunHePan","ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":30},
 {"key":"屁股_云盘","name":"🥈云盘丨网盘","type":3,"api":"csp_YunPan","ext":"./lib/tokenm.json$$$null$$$proxy$$$1","timeout":30},
 {"key":"屁股_影搜","name":"🥉影搜丨网盘","type":3,"api":"csp_YingSo","ext":"./lib/tokenm.json","timeout":30},
