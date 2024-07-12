@@ -64,7 +64,20 @@
 {"key":"福利","name":"💖福利","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/福利.json","jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
 {"key":"茶杯","name":"💖茶杯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/茶杯.json","jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
 
-
+{"key":"视色","name":"视色","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"ext":{
+"请求头":"手机",
+"免嗅":"",
+"嗅探词":"https://s1.playhls.com/m3u8.php?",
+"数组":"class=\"video-cover&&class=\"tags",
+"图片":"style=\"background-image:url('&&');\"",
+"标题":"href=\"*\">&&</a>",
+"副标题":"duration\">&&</div>",
+"简介":"简介：</div>&&</div>",
+"链接":"https://shise.me/player.html?id=+href=\"video.html?id=&&\"",
+"跳转播放链接":"",
+"分类url":"https://shise.me/series.html?id={cateId}&page={catePg};;z",
+"分类":"情色电影$61c4d9b653b6d#中文AV$63824a975d8ae#日本AV$6206216719462#模特私拍$6030196781d85#业余拍摄$617d3e7acdcc8#糖心Vlog$61014080dbfde#其他影片$60192e83c9e05"}},
 	
 {"key":"看看","name":"🔞看看","type":1,"api":"https://kkzy.me/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"天堂","name":"🔞天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
