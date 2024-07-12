@@ -87,7 +87,31 @@
 {"key":"开心_白嫖","name":"🔔白嫖丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/白嫖.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
 {"key":"开心_蛋蛋","name":"🔔蛋蛋丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/蛋蛋.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
 {"key":"开心_剧圈","name":"🔔剧圈丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/剧圈.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
-
+{
+            "key": "🍑桃子",
+            "name": "🍑桃子",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./XBPQ.jar",
+            "ext": {
+                "主页url": "https://taozi007.com/",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "搜索模式": "1",
+                "搜索url": "https://taozi007.com/search/-------------.html?wd={wd}",
+                "搜索数组": "module-card-item-class\">&&</a >",
+                "搜索标题": "alt=\"&&\"",
+                "搜索副标题": "note\">&&</div>",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+                "分类url": "https://taozi007.com/show/2-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$5"
+            }
+        },
 {"key":"小二_追剧","name":"⛷️追剧丨多线","type":3,"api":"csp_Wexdiguatv","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c","timeout":30},
 {"key":"小二_星星","name":"🎇星星丨秒播","type":3,"api":"csp_Wexbaipiao","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c","timeout":30},
 {"key":"小二_急速","name":"🎇急速丨秒播","type":3,"api":"csp_Wex4Kav","searchable":1,"changeable":1,"jar":"./jar/wex0707.jar;md5;7d529dc73079606268b3885dd814b79c","timeout":30},
