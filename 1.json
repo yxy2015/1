@@ -92,7 +92,7 @@
             "name": "🍑桃子",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./XBPQ.jar",
+            "jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
             "ext": {
                 "主页url": "https://taozi007.com/",
                 "导演": "导演：&&</div>",
