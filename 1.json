@@ -1,10 +1,7 @@
 {
 "spider":"./jar/pg0711.jar;md5;13c8c3c40ca71c7bb917c72767a9c736",
-	
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
-	
 "logo":"./lib/1.gif",
-	
 "lives":[
 {"name":"本地直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://y.337898581.xyz/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":30},
 {"name":"小二直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":30},
