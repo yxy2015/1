@@ -41,7 +41,6 @@
 
 
 
-{"key":"饭佬_偶饭","name":"🎅饭偶丨4K4（阿里夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","Ali-drive":"https://cloud.lxweb.cn/f/WAKoSB/token.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 
 {"key":"饭佬_饭偶","name":"🎅饭偶丨4K（阿里夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"c3c1cb6a0975450e9b42927e6d2f88e4","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 {"key":"饭佬_专线","name":"🚝专线丨秒播","type":3,"api":"csp_Zx4k","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
@@ -73,7 +72,7 @@
 {"key":"饭老_异界","name":"🎀异界丨秒播","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 {"key":"饭老_日本","name":"🐾日本丨秒播","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 
-{"key":"饭佬_米搜","name":"🦋米搜丨搜索","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"c3c1cb6a0975450e9b42927e6d2f88e4","from":"4k|auto"},"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
+{"key":"饭佬_米搜","name":"🦋米搜丨搜索","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"__pus=05f2329d8473602a4295a1245504e1afAASkjGZa9my6bcIkGWZdB74xQjFnkcT2SaAuiWoVIFUuMrGgCg71y6gTbfZALkhPx7aKkWR8n6UextVHLExBmP5x;__puus=a319b5b635e2f859e3a6613d3ff6f691AAT9nAUibHbA0bY3AvuxFbbpGJaX+1p6XgIXHwFJVeojXjiSqKQo0epVCOuCEA6xYDER2b7U1BS8rG5no4LUEvsx6QUGt4/Ld9HTkyX4WIVwit0CQb67+Tu13azgzR9DtBKsNO90h0YdF5nTNPYI+I5HJWfWuG0GiAbhuXYYYgE8Lu2trvXuJEqeK4ystpAqFCavstYAaBaesaxNb3i8Ww5n","from":"4k|auto"},"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 {"key":"饭佬_夸搜","name":"🐌夸搜丨搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"c3c1cb6a0975450e9b42927e6d2f88e4","from":"4k|auto"},"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 {"key":"饭佬_易搜","name":"😹易搜丨搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"c3c1cb6a0975450e9b42927e6d2f88e4","from":"4k|auto"},"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 {"key":"饭佬_盘搜","name":"🦊盘搜丨搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"c3c1cb6a0975450e9b42927e6d2f88e4","from":"4k|auto"},"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
