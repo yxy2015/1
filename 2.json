@@ -58,7 +58,7 @@
 {"key":"饭佬_南瓜","name":"🎃南瓜丨多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 
 {"key":"饭佬_奥特","name":"⛲奥特丨秒播","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/","jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
-{"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/","jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
+{"key":"饭佬_厂长","name":"🏭厂长丨秒播","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.pro/","jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 {"key":"饭佬_在线","name":"🚴‍♂️在线丨秒播","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 {"key":"饭佬_新6V","name":"🧲新6V丨磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/","jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 
