@@ -41,7 +41,7 @@
 
 
 
-{"key":"饭佬_偶饭","name":"🎅饭偶丨4K4（阿里夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"c3c1cb6a0975450e9b42927e6d2f88e4","Ali-drive":"https://./t.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
+{"key":"饭佬_偶饭","name":"🎅饭偶丨4K4（阿里夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","Ali-drive":"https://cloud.lxweb.cn/f/WAKoSB/token.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 
 {"key":"饭佬_饭偶","name":"🎅饭偶丨4K（阿里夸克扫码观看）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"c3c1cb6a0975450e9b42927e6d2f88e4","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 {"key":"饭佬_专线","name":"🚝专线丨秒播","type":3,"api":"csp_Zx4k","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
