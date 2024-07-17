@@ -24,7 +24,31 @@
 {"key":"瓜瓜","name":"💖瓜瓜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/瓜瓜.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
 {"key":"最色","name":"❤️最色","type":3,"api":"csp_Zuise","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$1","timeout":60},
 
-{"key":"11","name":"💖11","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/AVTOP10.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
+{
+  "key": "欧阳影视",
+  "name": "欧阳影视",
+  "type": 3,
+  "api": "csp_OYXX",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "./lib/OYXX.jar;md5;md5;examplemd5hashvalue1234567890",
+  "ext": {
+    "请求头": "手机",
+    "免嗅": "",
+    "嗅探词": "https://example.sniffer.url/m3u8.php?",
+    "数组": "class=\"video-cover&&class=\"tags",
+    "图片": "style=\"background-image:url('&&');\"",
+    "标题": "href=\"*\">&&</a>",
+    "副标题": "duration\">&&</div>",
+    "简介": "简介：</div>&&</div>",
+    "链接": "http://oy.oyxx-1.eu.org/player.html?id=+href=\"video.html?id=&&\"",
+    "跳转播放链接": "",
+    "分类url": "http://oy.oyxx-1.eu.org/series.html?id={cateId}&page={catePg};;z",
+    "分类": "电影$1a2b3c4d5e6f#电视剧$1b2c3d4e5f6g#综艺$2a3b4c5d6e7f#动漫$3a4b5c6d7e8f#纪录片$4a5b6c7d8e9f#其他$5a6b7c8d9e0f"
+  }
+},
 
 
 {"key":"大地","name":"🔞大地","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
