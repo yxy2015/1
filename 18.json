@@ -64,6 +64,32 @@
 }
 },
 
+
+	{"key":"22","name":"22","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"ext":
+    {
+    "作者": "荷城茶秀",
+    "站名": "Damitp影视",
+    "主页url": "https://damitp.com",
+    "简介": "+剧情介绍：&&</p>",
+    "副标题": "class=\"pic-text text-right\"&&</span>",
+    "数组": "module-item-cover\">&&module-item\">",
+    "链接": "href=\"&&\"",
+    "标题": "title=\"&&\"",
+    "图片": "data-src=\"&&\"",
+    "分类url": "https://damitp.com/list/{cateId}---{catePg}---.html",
+    "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+    "搜索url": "/vsearch/{wd}--{pg}.html",
+    "搜索模式": "1",
+    "搜索数组": "<img class=\"lazy lazyload&&</h3>",
+    "搜索图片": "data-src=\"&&\"",
+    "搜索标题": "alt=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "搜索副标题": "title=*>&&</a>",
+    "搜索后缀": "/video/"
+}
+
+},
 {"key":"大地","name":"🔞大地","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"搞起","name":"🔞搞起","type":1,"api":"https://caiji.gqjiexi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"就困","name":"🔞就困","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
