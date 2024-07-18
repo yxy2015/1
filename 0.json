@@ -35,11 +35,6 @@
 {"key":"短剧_乐视","name":"乐视丨短劇","type":1,"api":"https://leshiapi.com/api.php/provide/vod","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 {"key":"短剧_四九","name":"四九丨短劇","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 
-{"key":"小二_短一","name":"秒播丨短劇","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0718.jar;md5;144e4161bd012d809c07a192cf9f3a5e","timeout":30},
-{"key":"小二_短二","name":"仙品丨短劇","type":3,"api":"csp_Wexduanjuhema","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0718.jar;md5;144e4161bd012d809c07a192cf9f3a5e","timeout":30},
-{"key":"小二_短三","name":"精品丨短劇","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0718.jar;md5;144e4161bd012d809c07a192cf9f3a5e","timeout":30},
-{"key":"小二_短四","name":"极品丨短劇","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0718.jar;md5;144e4161bd012d809c07a192cf9f3a5e","timeout":30},
-
 {"key":"屁股_玩偶","name":"🎅玩偶丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_多多","name":"🍈多多丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_蜡笔","name":"📀蜡笔丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$1$$$./lib/wogg.json","timeout":30},
@@ -95,10 +90,9 @@
 {"key":"屁股_迅迅","name":"⚡迅迅丨磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
 {"key":"屁股_港口","name":"🚢港口丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js","timeout":30},
 
-{"key":"屁股_磁熊","name":"🐻磁熊丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/磁力熊.js","timeout":30},
 {"key":"屁股_新6V","name":"📈新6V丨磁力","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/tokenm.json$$$https://www.66ss.org$$$1","timeout":30},
 {"key":"香佬_旧6V","name":"📉旧6V丨磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/6X.json","jar":"./jar/XYQ0511.jar;md5;81544697bc790013fc5bb1d2939bf0b6","timeout":30},
-{"key":"小二_磁力","name":"🧲聚合丨磁力","type":3,"api":"csp_Wexciliso","searchable":1,"quickSearch":1,"jar":"./jar/wex0718.jar;md5;144e4161bd012d809c07a192cf9f3a5e","timeout":30},
+{"key":"屁股_磁熊","name":"🐻磁熊丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/磁力熊.js","timeout":30},
 
 
 
