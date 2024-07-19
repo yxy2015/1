@@ -120,9 +120,16 @@
 {"key":"采集_金金","name":"☁️金金丨采集","type":1,"api":"https://jyzyapi.com/provide/vod?ct=xml","searchable":0,"changeable":0},
 {"key":"采集_红红","name":"☁️红牛丨采集","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
+{"key":"采集_河狸","name":"☁️河狸丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"https://www.heli888.cc/api.php/app/"},
+{"key":"采集_剧兔","name":"☁️追剧丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"https://www.zjtu.one/api.php/app/"},
+{"key":"采集_影馆","name":"☁️影馆丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"https://4kdyg.top/api.php/v1.vod"},
+{"key":"采集_星易","name":"☁️星影丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"https://www.xingyiying.com/api.php/v1.vod"},
+
+{"key":"采集_思古","name":"☁️思古丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"https://siguyy.cn/api.php/app/"},
+{"key":"采集_银河","name":"☁️银河丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"http://134.175.219.46/mogai_api.php/v1.vod"},
+{"key":"采集_酷影","name":"☁️酷影丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"采集_虎牙","name":"☁️老虎丨采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"categories":["短剧","内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","伦理片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
-{"key":"采集_酷影","name":"☁️酷影丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-	
+
 {"key":"屁股_港口","name":"🚢港口丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js","timeout":30},
 {"key":"屁股_磁熊","name":"🐻磁熊丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/磁力熊.js","timeout":30},
 {"key":"屁股_新6V","name":"📈新6V丨磁力","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/tokenm.json$$$https://www.66ss.org$$$1","timeout":30},
@@ -157,24 +164,6 @@
 {"key":"屁股_小盘","name":"🥇小盘丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Xpanpan","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xpanpan.site$$$1","style":{"type":"list","ratio":1.1},"timeout":30},
 {"key":"屁股_我的","name":"🥇我的丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"timeout":30},
 
-{"key": "龙门","name": "龙门影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "http://movie.iqinu.com/api.php/v1.vod"},
-  {"key": "奈飞","name": "鸭飞影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://yanetflix.me/api.php/app/"},
-  {"key": "剧兔","name": "追剧兔子┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://www.zjtu.one/api.php/app/"},
-  {"key": "河狸","name": "河狸影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://www.heli888.cc/api.php/app/"},
-  {"key": "皮虾","name": "皮皮虾仁┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "http://aikun.tv/api.php/app/"},
-  {"key": "神马","name": "神马影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://www.shenmaysk.com/api.php/app/"},
-  {"key": "小马","name": "小马影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://mas.szyyds.cn/api.php/app/"},
-  {"key": "影狗","name": "影狗剧院┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "http://app.88dyg.com/icciu_api.php/v1.vod"},
-  {"key": "老蟹","name": "老蟹影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "http://www.ajj001.top/api.php/app/"},
-  {"key": "柠檬","name": "柠檬影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "http://mf.songshu.cyou/api.php/app/"},
-  {"key": "星易","name": "星影剧场┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://www.xingyiying.com/api.php/v1.vod"},
-  {"key": "迪影","name": "爱迪影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://adys.tv/xgapp.php/v1/"},
-  {"key": "视站","name": "影库剧场┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://xn--p3t583cbin.top/api.php/app/"},
-  {"key": "影馆","name": "影馆剧场┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},
-  {"key": "银河","name": "银河影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "http://134.175.219.46/mogai_api.php/v1.vod"},
-  {"key": "美剧","name": "六九美剧┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://www.69mj.com/xgapp.php/v2/"},
-  {"key": "大米","name": "大米星球┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://damifi.com/api.php/app/"},
-  {"key": "思古","name": "思古影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://siguyy.cn/api.php/app/"},
 
 {"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔站热歌.json","jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 {"key":"屁股_音乐","name":"KTV丨音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"timeout":30},
