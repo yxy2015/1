@@ -50,15 +50,20 @@
 {"key":"饭佬_酷看","name":"💎酷看丨多线","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 {"key":"饭佬_文采","name":"💮文才丨秒播","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6","timeout":30},
 
+{"key":"采集_华为","name":"🔔华为丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/华为.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
+{"key":"采集_黑木","name":"🔔黑木丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/黑木.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
+{"key":"采集_无尽","name":"🔔无尽丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/无尽.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
+{"key":"采集_木木","name":"🔔木木丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","ext":{"分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html","分类":"https://json-api.heimuer.xyz/api/list"}},
+
 {"key":"开心_五五","name":"🔔五五丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/五五.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
 {"key":"开心_子子","name":"🔔子子丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/子子.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
 {"key":"开心_可可","name":"🔔可可丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可可.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
 {"key":"开心_白白","name":"🔔白白丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/白白.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
-	
-{"key":"采集_三六","name":"☁️三六丨采集","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"changeable":1,"categories":["电影","连续剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧","体育","NBA","足球","篮球"]},
+
 {"key":"采集_华为","name":"☁️华为丨采集","type":1,"api":"https://cjhwba.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"采集_三六","name":"☁️三六丨采集","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"changeable":1,"categories":["电影","连续剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧","体育","NBA","足球","篮球"]},
 {"key":"屁股_爱坤","name":"☁️爱坤丨采集","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/?","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"采集_极速","name":"☁️极速丨采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"quickSearch":1,"changeable":1,"categories":["短剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","伦理片","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key":"采集_老张","name":"☁️老张丨采集","type":1,"api":"http://zhangqun66.serv00.net/158.php","searchable":1,"changeable":1,"categories":["电影","连续剧","大陆综艺","国产动漫","日韩动漫","NBA","爽文短剧","年代穿越","成长逆袭"]},
 
 {"key":"小二_闪电","name":"⚡️闪电丨秒播","type":3,"api":"csp_Wexshandian","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0718.jar;md5;144e4161bd012d809c07a192cf9f3a5e","timeout":30},
 {"key":"小二_伯伯","name":"👨‍🌾‍农民丨秒播","type":3,"api":"csp_WexNmys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0718.jar;md5;144e4161bd012d809c07a192cf9f3a5e","timeout":30},
@@ -91,7 +96,7 @@
 {"key":"小二_拜拜","name":"🎇拜拜丨秒播","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0718.jar;md5;144e4161bd012d809c07a192cf9f3a5e","timeout":30},
 
 {"key":"道长_爱看","name":"⭕爱看丨多线","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/ikanbot.js","timeout":30},
-{"key":"采集_金鹰","name":"☁️金鹰丨采集","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"categories":["短剧","欧美剧","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","体育赛事"]},
+{"key":"采集_极速","name":"☁️极速丨采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"quickSearch":1,"changeable":1,"categories":["短剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","伦理片","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"采集_天天","name":"☁️天天丨采集","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"categories":["短剧","国产剧","剧情片","大陆综艺","动作片"]},
 {"key":"采集_卧龙","name":"☁️卧龙丨采集","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"categories":["短剧","国产剧","香港剧","恐怖片","动作片"]},
 
@@ -110,13 +115,11 @@
 {"key":"采集_资源","name":"☁️资源丨采集","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"屁股_暴風","name":"☁️暴風丨采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"changeable":1},
 
+{"key":"采集_金鹰","name":"☁️金鹰丨采集","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"categories":["短剧","欧美剧","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","体育赛事"]},
 {"key":"采集_乐视","name":"☁️乐视丨采集","type":1,"api":"https://leshiapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"采集_黑木","name":"☁️黑木丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","ext":{"分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html","分类":"https://json-api.heimuer.xyz/api/list"}},
-{"key":"采集_木木","name":"☁️木木丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XYQHiker/黑木耳.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-{"key":"采集_老张","name":"☁️老张丨采集","type":1,"api":"http://zhangqun66.serv00.net/158.php","searchable":1,"changeable":1,"categories":["电影","连续剧","大陆综艺","国产动漫","日韩动漫","NBA","爽文短剧","年代穿越","成长逆袭"]},
-
 {"key":"采集_金金","name":"☁️金金丨采集","type":1,"api":"https://jyzyapi.com/provide/vod?ct=xml","searchable":0,"changeable":0},
 {"key":"采集_红红","name":"☁️红牛丨采集","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+
 {"key":"采集_虎牙","name":"☁️老虎丨采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"categories":["短剧","内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","伦理片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
 {"key":"采集_酷影","name":"☁️酷影丨采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 	
