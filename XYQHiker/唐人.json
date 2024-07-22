@@ -1,0 +1,12 @@
+ {
+                "主页url": "https://www.tangrenjie.one/",
+                "数组": "class=\"vodlist_thumb lazyload\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "class=\"content_desc context clearfix\"&&</span>",
+                "线路数组": "class=\"play_source_tab list_scroll clearfix\"&&</div>",
+                "线路标题": ">&nbsp;<b>&&</b>",
+                "分类url": "https://www.tangrenjie.one/index.php/vod/show/area/{area}/id/{cateId}/letter/{letter}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+            }
