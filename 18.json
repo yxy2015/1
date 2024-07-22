@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0716.jar;md5;c687efe41ea48c68e9ddd63d0796d242",
+"spider":"./jar/pg0722.jar;md5;518c57323fa3111ae6b6f0ea26e039e6",
 	
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
@@ -110,7 +110,7 @@
             "key": "KanAV",
             "name": "🔞KanAV",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_XBPQ","jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
             "ext": {
                 "主页url": "https://kanav.info/",
                 "直接播放": "1",
@@ -128,7 +128,7 @@
             "key": "222cuo",
             "name": "🔞222cuo",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_XBPQ","jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
             "ext": {
                 "主页url": "http://224cuo.com/",
                 "直接播放": "1",
