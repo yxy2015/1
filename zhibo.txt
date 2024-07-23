@@ -414,7 +414,6 @@ CCTV15,http://59.62.8.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&aut
 CCTV3,http://59.62.8.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://117.27.190.42:9998/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://113.74.172.186:4000/udp/239.253.43.121:5146?$广东电信主力线
-
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K,https://tv.cry33.com/ys4k.php?id=4k
 CCTV-8K,https://tv.cry33.com/ys4k.php?id=8k
@@ -422,7 +421,8 @@ CCTV-8K,https://tv.cry33.com/ys4k.php?id=8k
 
 
 
- 🇨🇳港·澳·台,#genre#有线新闻台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
+ 🇨🇳港·澳·台,#genre#
+有线新闻台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 无线新闻台,P2p://generationnexxxt.com:19806/132be793de424970abd09ef9fe09db07#P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
 无线新闻备,P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
 Now新闻台,P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
