@@ -137,7 +137,24 @@
 
 {"key":"采集_无尽","name":"🔔无尽丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/无尽.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
 {"key":"采集_黑木","name":"🔔黑木丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/黑木.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
-
+{"key":"采集拼接","name":"采集拼接","type":1,"api":"http://zhangqun66.serv00.net/1581.php","searchable":1,"changeable":1},
+{"key":"php_madou","name":"麻豆","type":4,"api":"https://t4.doube.eu.org/madou.php","searchable":1,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.33}},
+	{
+            "key": "黑木耳",
+            "name": "黑木耳",
+            "type": 1,
+            "api": "http://zhangqun66.serv00.net/158.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+	{
+            "key": "实验金鹰",
+            "name": "实验金鹰",
+            "type": 1,
+            "api": "http://zhangqun66.serv00.net/jy.php",
+            "searchable": 1,
+            "changeable": 1
+        },
 {"key":"屁股_港口","name":"🚢港口丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js","timeout":30},
 {"key":"屁股_磁熊","name":"🐻磁熊丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/磁力熊.js","timeout":30},
 {"key":"屁股_新6V","name":"📈新6V丨磁力","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/tokenm.json$$$https://www.66ss.org$$$1","timeout":30},
