@@ -55,6 +55,11 @@
 {"key":"饭佬_热播","name":"📺热播丨多线","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./jar/fan0722.jar;md5;71d846866f2ceb9666ba114e5963983f","timeout":30},
 {"key":"饭佬_南瓜","name":"🎃南瓜丨多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0722.jar;md5;71d846866f2ceb9666ba114e5963983f","timeout":30},
 
+{"key":"小二_甲子","name":"🌺甲子丨秒播","type":3,"api":"csp_Wexjiazitv","searchable":1,"changeable":1,"playerType":1,"jar":"./jar/wex0724.jar;md5;92199718aab3cd190e06960f560ad985","timeout":30},
+{"key":"小二_文才","name":"🌺文才丨秒播","type":3,"api":"csp_Wexwencai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0724.jar;md5;92199718aab3cd190e06960f560ad985","timeout":30},
+{"key":"小二_闪电","name":"🌺闪电丨秒播","type":3,"api":"csp_Wexshandian","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0724.jar;md5;92199718aab3cd190e06960f560ad985","timeout":30},
+{"key":"小二_骚火","name":"🌺火火丨秒播","type":3,"api":"csp_Wexsaohuo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0724.jar;md5;92199718aab3cd190e06960f560ad985","timeout":30},
+
 {"key":"开心_子子","name":"🔔子子丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/子子.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
 {"key":"开心_五五","name":"🔔五五丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/五五.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
 {"key":"开心_可可","name":"🔔可可丨多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可可.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
