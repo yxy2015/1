@@ -23,7 +23,7 @@
 {"key":"屁股_酷狗","name":"酷狗丨音乐","type":3,"api":"csp_Kugou","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"timeout":30},
 {"key":"道长_哔哩","name":"BiliBili","type":3,"api":"https://y.337898581.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/bilibili.js"},
 {"key":"屁股_优土","name":"Youtube","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K","proxy":"127.0.0.1:10072","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.77},"danmu":true},
-{"key":"小二_相声","name":"随身丨相声","type":3,"api":"csp_Wexxsmp3","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512"},
+{"key":"小二_相声","name":"随身丨相声","type":3,"api":"csp_Wexxsmp3","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"jar":"./jar/wex0724.jar;md5;92199718aab3cd190e06960f560ad985"},
 
 {"key":"短剧_火狐","name":"火狐丨短劇","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 {"key":"短剧_卧龙","name":"卧龙丨短劇","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
@@ -35,10 +35,10 @@
 {"key":"短剧_乐视","name":"乐视丨短劇","type":1,"api":"https://leshiapi.com/api.php/provide/vod","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 {"key":"短剧_四九","name":"四九丨短劇","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 
-{"key":"小二_短一","name":"秒播丨短劇","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
-{"key":"小二_短二","name":"仙品丨短劇","type":3,"api":"csp_Wexduanjuhema","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
-{"key":"小二_短三","name":"精品丨短劇","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
-{"key":"小二_短四","name":"极品丨短劇","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
+{"key":"小二_短一","name":"秒播丨短劇","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0724.jar;md5;92199718aab3cd190e06960f560ad985","timeout":30},
+{"key":"小二_短二","name":"仙品丨短劇","type":3,"api":"csp_Wexduanjuhema","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0724.jar;md5;92199718aab3cd190e06960f560ad985","timeout":30},
+{"key":"小二_短三","name":"精品丨短劇","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0724.jar;md5;92199718aab3cd190e06960f560ad985","timeout":30},
+{"key":"小二_短四","name":"极品丨短劇","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0724.jar;md5;92199718aab3cd190e06960f560ad985","timeout":30},
 
 {"key":"屁股_玩偶","name":"🎅玩偶丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_多多","name":"🍈多多丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","timeout":30},
@@ -75,11 +75,6 @@
 {"key":"屁股_爱坤","name":"☁️爱坤丨采集","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/?","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"采集_老张","name":"☁️老张丨采集","type":1,"api":"http://zhangqun66.serv00.net/158.php","searchable":1,"changeable":1,"categories":["电影","连续剧","大陆综艺","国产动漫","日韩动漫","NBA","爽文短剧","年代穿越","成长逆袭"]},
 
-{"key":"小二_拜拜","name":"🎇拜拜丨秒播","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
-{"key":"小二_明天","name":"🎇明天丨秒播","type":3,"api":"csp_WexTiantianys","searchable":1,"changeable":1,"jar":"./jar/wex0718.jar;md5;144e4161bd012d809c07a192cf9f3a5e","timeout":30},
-{"key":"小二_雨落","name":"🎇雨落丨多线","type":3,"api":"csp_Wexyuyueys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
-{"key":"小二_闪电","name":"🎇闪电丨秒播","type":3,"api":"csp_Wexshandian","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
-
 {"key":"屁股_荐片","name":"📀荐片丨磁力","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./lib/jianpian.json$$$1","timeout":30},
 {"key":"屁股_南瓜","name":"🎃南瓜丨多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"null$$$1","timeout":30},
 {"key":"屁股_爱看","name":"👾爱看丨多线","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://v.aikanbot.com$$$proxy","timeout":30},
@@ -93,12 +88,7 @@
 {"key":"香佬_耳机","name":"🎧耳机丨磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/XYQ0511.jar;md5;81544697bc790013fc5bb1d2939bf0b6","timeout":30},
 {"key":"屁股_耳机","name":"🎧耳机丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XYQHiker/耳机.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
 {"key":"屁股_迅迅","name":"⚡迅迅丨磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
-{"key":"小二_磁力","name":"🧲聚合丨磁力","type":3,"api":"csp_Wexciliso","searchable":1,"quickSearch":1,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
-
-{"key":"小二_急速","name":"🎇急速丨秒播","type":3,"api":"csp_Wex4Kav","searchable":1,"changeable":1,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
-{"key":"小二_伯伯","name":"🎇‍农民丨秒播","type":3,"api":"csp_WexNmys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
-{"key":"小二_追剧","name":"🎇️追剧丨多线","type":3,"api":"csp_Wexdiguatv","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
-{"key":"小二_星星","name":"🎇星星丨秒播","type":3,"api":"csp_Wexbaipiao","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512","timeout":30},
+{"key":"小二_磁力","name":"🧲聚合丨磁力","type":3,"api":"csp_Wexciliso","searchable":1,"quickSearch":1,"jar":"./jar/wex0724.jar;md5;92199718aab3cd190e06960f560ad985","timeout":30},
 
 {"key":"道长_爱看","name":"⭕爱看丨多线","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/ikanbot.js","timeout":30},
 {"key":"采集_极速","name":"☁️极速丨采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"quickSearch":1,"changeable":1,"categories":["短剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","伦理片","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
@@ -173,7 +163,6 @@
 
 {"key":"饭佬_音乐","name":"哔哩丨音乐","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/哔站热歌.json","jar":"./jar/fan0722.jar;md5;71d846866f2ceb9666ba114e5963983f","timeout":30},
 {"key":"屁股_音乐","name":"KTV丨音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"timeout":30},
-{"key":"小二_广场","name":"广场丨舞蹈","type":3,"api":"csp_Wextangdou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":2},"jar":"./jar/wex0722.jar;md5;2ee87a9b696b17c9172bf6e024ea8512"},	
 {"key":"推送_推送","name":"手机推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./lib/tokenm.json+4k|auto|fhd"}],
 
 "parses":[
