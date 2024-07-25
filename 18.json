@@ -16,6 +16,7 @@
 //{"key":"合集","name":"点击ㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ“主页”更精彩!!!","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
 
 
+{"key":"麻豆","name":"💖麻豆","type":4,"api":"https://t4.doube.eu.org/madou.php","searchable":1,"quickSearch":1,"filterable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"仓库","name":"💖仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/仓库.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
 {"key":"新91","name":"💖新91","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/新91.json","style":{"type":"rect","ratio":1.5},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
 {"key":"顶级","name":"💖顶级","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/顶级.json","style":{"type":"rect","ratio":1.33},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
@@ -29,7 +30,7 @@
 
 {"key":"爱豆","name":"🔞爱豆","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","ext":{"主页url":"https://rourou.co/","直接播放":"1","嗅探词":"index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos","数组":"class=\"myui-vodlist__box\">&&</div>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","分类url":"https://rourou.co/index.php/vod/type/id/{cateId}/page/{carePg}.html","分类":"麻豆视频$1#中文字幕$2#日本无码$3#日本有码$4#童颜巨乳$5#校园萝莉$6#女优明星$7#角色扮演$8#制服诱惑$9#强奸乱伦$31#AI换脸$32#黑料泄密$33#主播直播$34#国产精品$35#探花视频$36#女同性恋$37#SM调教$38#人妻熟女$40"}},
 {"key":"18j","name":"🔞18j","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","ext":{"主页url":"https://18j.tv/","直接播放":"1","嗅探词":"index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","分类url":"https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/","分类":"国产$1#日韩$2#欧美$3#伦理$4#动漫$16"}},
-{"key":"麻豆","name":"🔞麻豆","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","ext":{"站名":"19麻豆","主页url":"https://19q.cc/","分类url":"https://19q.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"麻豆视频&91制片厂&天美传媒&蜜桃传媒&皇家华人&星空传媒&精东影业&乐播传媒&成人头条&乌鸦传媒&兔子先生&杏吧原创&玩偶姐姐&mini传媒&大象传媒&开心鬼传媒&萝莉社&PsychoPorn&性世界&糖心Vlog&性视界","分类值":"1&2&3&4&5&6&7&8&9&10&20&21&22&23&24&25&29&26&27&28&30","直接播放":"1","嗅探词":"index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos","数组":"<li>&&</li>","图片":"src=\"&&\"","标题":"alt=\"&&\"","链接":"href=\"&&\"","副标题":"<strong>&&</strong>"}},
+{"key":"豆豆","name":"🔞豆豆","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","ext":{"站名":"19麻豆","主页url":"https://19q.cc/","分类url":"https://19q.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"麻豆视频&91制片厂&天美传媒&蜜桃传媒&皇家华人&星空传媒&精东影业&乐播传媒&成人头条&乌鸦传媒&兔子先生&杏吧原创&玩偶姐姐&mini传媒&大象传媒&开心鬼传媒&萝莉社&PsychoPorn&性世界&糖心Vlog&性视界","分类值":"1&2&3&4&5&6&7&8&9&10&20&21&22&23&24&25&29&26&27&28&30","直接播放":"1","嗅探词":"index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos","数组":"<li>&&</li>","图片":"src=\"&&\"","标题":"alt=\"&&\"","链接":"href=\"&&\"","副标题":"<strong>&&</strong>"}},
 
 {"key":"大地","name":"🔞大地","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"搞起","name":"🔞搞起","type":1,"api":"https://caiji.gqjiexi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
@@ -89,7 +90,7 @@
 {"key":"玉兔","name":"🔞玉兔","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["精品推荐","国产精品","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","童真萝莉","三级伦理","卡通动漫","丝袜OL","口爆颜射","自拍偷拍","日本片商","Cosplay","素人自拍","台湾色情","韩国自拍","性感港姐","东南亚情色","凌辱束缚","剧情介绍","多P3P","91系列","网红系列","野外系列","女仆系列","学生中出","性感旗袍","兽耳作品","瑜伽裤","骚货护士","及膝袜","网曝系列","麻豆传媒","女同人妖","恋腿癖"]},
 {"key":"皇冠","name":"🔞皇冠","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"九九","name":"🔞九九","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"豆豆","name":"🔞豆豆","type":1,"api":"https://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"ratio":1.7}},
+{"key":"麻麻","name":"🔞麻麻","type":1,"api":"https://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"ratio":1.7}},
 {"key":"精品","name":"🔞精品","type":1,"api":"https://www.jingpinx.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"白嫖","name":"🔞白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"香奶","name":"🔞香奶","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
