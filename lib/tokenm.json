@@ -76,8 +76,11 @@
 "singbox_clash2singbox_url":"./clash2singbox.gz",
 "singbox_template_url":"./singbox.json",
   
+"pan115_cookie":"",
 "pan115_thread_limit":0,
 "pan115_vip_thread_limit":0,
 "pan115_is_vip":false,
-"pan115_flags":"4kz"
+"pan115_flags":"4kz",
+"pan115_auto_delete":true,
+"pan115_delete_code":""       //自己到app裏配置呀，6位數字
 }
