@@ -10,9 +10,9 @@
 ],
 	
 "sites":[
-{"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：7/24😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"timeout":30},
-{"key":"饭佬_饭佬搜索","name":"豆瓣搜索(备)ㅤ😃更新：7/24😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"jar":"./jar/fan0722.jar;md5;71d846866f2ceb9666ba114e5963983f","timeout":30},
-{"key":"屁股_豆瓣搜索","name":"豆瓣搜索(备)ㅤ😃更新：7/24😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"ext":"./lib/douban.json","timeout":30},
+{"key":"悟空_悟空搜索","name":"悟空搜索ㅤㅤㅤ😃更新：7/28😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"./lib/lf_search3_min.js","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"timeout":30},
+{"key":"饭佬_饭佬搜索","name":"豆瓣搜索(备)ㅤ😃更新：7/28😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"jar":"./jar/fan0722.jar;md5;71d846866f2ceb9666ba114e5963983f","timeout":30},
+{"key":"屁股_豆瓣搜索","name":"豆瓣搜索(备)ㅤ😃更新：7/28😃ㅤㅤㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"indexs":1,"ext":"./lib/douban.json","timeout":30},
 {"key":"屁股_网盘配置","name":"4K网盘配置（打开激活，返回即用）","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
 
 {"key":"饭佬_广场","name":"广场丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/广场舞.json","jar":"./jar/fan0722.jar;md5;71d846866f2ceb9666ba114e5963983f","timeout":30},
