@@ -1,7 +1,7 @@
 {
 "token":"8ce958f5561043b981e1518d822ef63e",
 "open_token":"",
-"open_api_url":"http://api.extscreen.com/aliyundrive/token",
+"open_api_url":"postparam|http://api.extscreen.com/aliyundrive/token",
 "oauth_client_id":"",
 "oauth_client_secret":"",
 "oauth_auth_url":"",
@@ -74,5 +74,10 @@
 "singbox_url":"./sing-box.gz",
 "singbox_subscribe_url":"http://sub.xn--54qu5qypuo1o.xn--fiqs8s/api/v1/client/subscribe?token=8cfd1efb341eddefcbf9f8ce5e1543d7∣http://api.scyu.xyz/sub?token=IxWNfdCuIUWE0Z7QN5IGTA&tag=clash",
 "singbox_clash2singbox_url":"./clash2singbox.gz",
-"singbox_template_url":"./singbox.json"
+"singbox_template_url":"./singbox.json",
+  
+"pan115_thread_limit":0,
+"pan115_vip_thread_limit":0,
+"pan115_is_vip":false,
+"pan115_flags":"4kz"
 }
