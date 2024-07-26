@@ -76,7 +76,7 @@
 "singbox_clash2singbox_url":"./clash2singbox.gz",
 "singbox_template_url":"./singbox.json",
   
-"pan115_cookie":"",
+"pan115_cookie":"USERSESSIONID=c3a03f0e13d2b18eeef8c8f943934911022b6d7206d1a5f14ed063413f5d6065; UID=102209145_A1_1721963760; CID=ff2946352681039f2badf6091927cb43; SEID=8d2a07d504a06eacbe54e4a02e13ef4858224f5ecb7a34048c7099308bb70bba09ff9d8f2ac8b117ce75b0a714d4c695743e0bb76591aeef895f5343; PHPSESSID=mbfv890mnllqmapbeu33jur5o0; acw_tc=2f6a1fa617219637660775218e04523a4edcbcaf4bd02d18dc24d96a01478c; 115_lang=zh",
 "pan115_thread_limit":0,
 "pan115_vip_thread_limit":0,
 "pan115_is_vip":false,
