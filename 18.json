@@ -127,7 +127,29 @@
                 "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
             }
         },
-
+{
+    "key": "PPP",
+    "name": "PPP",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+    "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+    "ext": {
+        "主页url": "https://ppp.porn/",
+        "直接播放": "1",
+        "数组": "class=\"item card-video col-1\"&&</div>",
+        "图片": "img data-src=\"&&\"",
+        "简介": "meta[name='description']&&content",
+        "标题": "h4.card-video__title a&&text",
+        "副标题": "p.card-video__stats span.num&&text",
+        "链接": "a href=\"&&\"",
+        "分类url": "https://ppp.porn/categories/{cateId}/page-{page}.html",
+        "分类": "流出$released#台灣$taiwan#韓國$korea#百合$lesbian#香港$hongkong#真理褲$dolfin-shorts#主觀視角$first-person-pov#野外露出$exhibitionists#瑜伽褲$yoga-pants"
+    }
+},
 	{
     "key": "MustJAV",
     "name": "MustJAV",
