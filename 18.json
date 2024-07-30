@@ -106,7 +106,27 @@
                 "分类": "📚 最新上市$release# 女優$index#最近更新$new#熱門影片$hot#影片分類$Categories#日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CH#有碼破壞$Mosaic_Remove#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
             }
         },
-
+{
+            "key": "avge",
+            "name": "🔞avge",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://avgle.to",
+                "数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "class=\"title\"><a*>&&</a>",
+                "链接": "<a href=\"&&\"",
+                "直接播放": "1",
+                "分类url": "http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
+                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
+            }
+        },
 
 {"key":"屁股_网盘配置","name":"ㅤㅤ网盘及彈幕配置ㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
 {"key":"屁股_优土1","name":"Youtube1","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"proxy":"127.0.0.1:10072","ext":{"json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5},"timeout":60},
