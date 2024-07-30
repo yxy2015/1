@@ -77,101 +77,110 @@
 {"key":"草榴","name":"🔞草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 
 {
-            "key": "ptt影视",
-            "name": "💕ppt影视",
-            "type": 3,
-            "api": "csp_XBPQ","jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/18/pttred.json"
-        },
-
-
-
-{
-            "key": "avge",
-            "name": "💗┃💋AVge┃💠",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-            "ext": {
-                "数组": "class=\"col-6 col-sm-4 col-lg-3 mb-3&&</a >"",
-                "直接播放": "1",
-                "主页url": "https://avgle.to/zh/",
-                "链接": "href=\"&&\"",
-                "图片": "src=\"&&\"",
-                "页面代理": "",
-                "分类url": "https://avgle.to/zh/vtype/{cateId}/label/{cateId}/actor/{cateId}-page-{catePg}",
-                "分类": "📚 最新上市$release# 女優$index#最近更新$new#熱門影片$hot#影片分類$Categories#日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CH#有碼破壞$Mosaic_Remove#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
-            }
-        },
-{
-            "key": "avge",
-            "name": "🔞avge",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "主页url": "https://avgle.to",
-                "数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
-                "图片": "data-src=\"&&\"",
-                "标题": "class=\"title\"><a*>&&</a>",
-                "链接": "<a href=\"&&\"",
-                "直接播放": "1",
-                "分类url": "http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
-                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
-            }
-        },
-{
-    "key": "PPP",
-    "name": "PPP",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-    "style": {
-        "type": "rect",
-        "ratio": 1.5
-    },
-    "ext": {
-        "主页url": "https://ppp.porn/",
-        "直接播放": "1",
-        "数组": "class=\"item card-video col-1\"&&</div>",
-        "图片": "img data-src=\"&&\"",
-        "简介": "meta[name='description']&&content",
-        "标题": "h4.card-video__title a&&text",
-        "副标题": "p.card-video__stats span.num&&text",
-        "链接": "a href=\"&&\"",
-        "分类url": "https://ppp.porn/categories/{cateId}/page-{page}.html",
-        "分类": "流出$released#台灣$taiwan#韓國$korea#百合$lesbian#香港$hongkong#真理褲$dolfin-shorts#主觀視角$first-person-pov#野外露出$exhibitionists#瑜伽褲$yoga-pants"
-    }
+"key":"ptt影视",
+"name":"💕ppt影视",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"./js/18/pttred.json"
 },
-	{
-    "key": "MustJAV",
-    "name": "MustJAV",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-    "style": {
-        "type": "rect",
-        "ratio": 1.5
-    },
-    "ext": {
-        "主页url": "https://mustjav.com/",
-        "直接播放": "1",
-       "数组": "class=\"video-elem\">&& class=\" sub-title&&</div>",
-        "图片": "style=\"&&></div>"",
-        //"简介": "<title>&&</title>",
-        "标题": "title=\"&&\"",
-        //"副标题": "class=\"video-subtitle\">&&</p>",
-        "链接": "href=\"&&\"",
-        "分类url": "https://mustjav.com/type/{cateId}-page-{page}.html",
-        "分类": "有码$22#无码$23#自拍$24#国产$50#欧美$25#日本自拍$26#动画$38#虚拟实景$27"
-    }
+
+
+
+{
+"key":"avge",
+"name":"💗┃💋AVge┃💠",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"ext":{
+"数组":"class=\"col-6col-sm-4col-lg-3mb-3&&</a>"",
+"直接播放":"1",
+"主页url":"https://avgle.to/zh/",
+"链接":"href=\"&&\"",
+"图片":"src=\"&&\"",
+"页面代理":"",
+"分类url":"https://avgle.to/zh/vtype/{cateId}/label/{cateId}/actor/{cateId}-page-{catePg}",
+"分类":"📚最新上市$release#女優$index#最近更新$new#熱門影片$hot#影片分類$Categories#日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CH#有碼破壞$Mosaic_Remove#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
+}
+},
+
+
+	
+{
+"key":"avge",
+"name":"🔞avge",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"style":{
+"type":"rect",
+"ratio":1.5
+},
+"ext":{
+"主页url":"https://avgle.to",
+"数组":"col-6col-sm-4col-lg-3\">&&class=\"sub-title&&</div>",
+"图片":"data-src=\"&&\"",
+"标题":"class=\"title\"><a*>&&</a>",
+"链接":"<ahref=\"&&\"",
+"直接播放":"1",
+"分类url":"http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
+"分类":"日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
+}
+},
+
+	
+
+	
+{
+"key":"PPP",
+"name":"PPP",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"style":{
+"type":"rect",
+"ratio":1.5
+},
+"ext":{
+"主页url":"https://ppp.porn/",
+"直接播放":"1",
+"数组":"class=\"itemcard-videocol-1\"&&</div>",
+"图片":"imgdata-src=\"&&\"",
+"简介":"meta[name='description']&&content",
+"标题":"h4.card-video__titlea&&text",
+"副标题":"p.card-video__statsspan.num&&text",
+"链接":"ahref=\"&&\"",
+"分类url":"https://ppp.porn/categories/{cateId}/page-{page}.html",
+"分类":"流出$released#台灣$taiwan#韓國$korea#百合$lesbian#香港$hongkong#真理褲$dolfin-shorts#主觀視角$first-person-pov#野外露出$exhibitionists#瑜伽褲$yoga-pants"
+}
+},
+
+
+	
+{
+"key":"MustJAV",
+"name":"MustJAV",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"style":{
+"type":"rect",
+"ratio":1.5
+},
+"ext":{
+"主页url":"https://mustjav.com/",
+"直接播放":"1",
+"数组":"class=\"video-elem\">&&class=\"sub-title&&</div>",
+"图片":"style=\"&&></div>"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"分类url":"https://mustjav.com/type/{cateId}-page-{page}.html",
+"分类":"有码$22#无码$23#自拍$24#国产$50#欧美$25#日本自拍$26#动画$38#虚拟实景$27"
+}
 },
 
 {"key":"屁股_网盘配置","name":"ㅤㅤ网盘及彈幕配置ㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
