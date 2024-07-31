@@ -1,40 +1,9 @@
 
 
 
-🇨🇳奥运实播,#genre#
-实时奥运金牌榜,https://pull-flv-f6.douyincdn.com/media/stream-692028292559012524.flv?abr_pts=-800&_session_id=037-202407291921458CA4EAA478C16011032F.1722252116805.55119
-奥运780台,p3p://108.181.32.169:24350/66a4c0bc0005542ecd8ee36d39f22f27 
-奥运781台,p3p://108.181.32.169:24350/66a4c09f000b82cccd8e73ba4d0108f0 
-奥运782台,p3p://108.181.32.169:24350/66a4c05a000925a2cd8d659733bf4cbb 
-奥运783台,p3p://108.181.32.169:24350/66a4c03b000c857ccd8ced5c46fb1f90 
-奥运784台,p3p://108.181.32.169:24350/66a4c021000ac66ecd8c87597073673e 
-奥运801台,https://mytvsuper.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运801台,p3p://108.181.32.169:24350/66a4bfd60004fcaacd8b60e62dba635b 
-奥运802台,https://mytvsuper.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运802台,p3p://108.181.32.169:24350/66a4bfb600099372cd8ae5125aa031f2 
-奥运803台,https://mytvsuper.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运803台,p3p://108.181.32.169:24350/66a4bf97000685fbcd8a6b32635a6058 
-奥运804台,https://mytvsuper.btjson.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运804台,p3p://108.181.32.169:24350/66a4bf77000304e3cd89ed4c57d21d09 
-奥运805台,https://mytvsuper.btjson.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运805台,p3p://108.181.32.169:24350/66a4bf57000ab3dccd89724446374868 
-奥运806台,https://mytvsuper.btjson.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运806台,p3p://108.181.32.169:24350/66a4bf3800089a25cd88f8a25b4a3937
-奥运807台,https://mytvsuper.btjson.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运808台,https://mytvsuper.btjson.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运809台,https://mytvsuper.btjson.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运810台,https://mytvsuper.btjson.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运811台,https://mytvsuper.btjson.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运812台,https://mytvsuper.btjson.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运813台,https://mytvsuper.btjson.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运814台,https://mytvsuper.btjson.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运815台,https://mytvsuper.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运816台,https://mytvsuper.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-奥运817台,https://mytvsuper.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
 
  🇨🇳央视频道,#genre#
-
+实时奥运金牌榜,https://pull-flv-f6.douyincdn.com/media/stream-692028292559012524.flv?abr_pts=-800&_session_id=037-202407291921458CA4EAA478C16011032F.1722252116805.55119
 CCTV1,p3p://108.181.32.169:24350/64260c74000c73e9edfa2a0e354364a8
 CCTV2,p3p://108.181.32.169:24350/64260c83000b5f74edfa64604fe67a12
 CCTV3,p3p://108.181.32.169:24350/64260c9b0000ca3dedfabf6a10b00144
@@ -607,6 +576,36 @@ CCTV17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 CCTV17,http://60.10.139.10:8801/hls/17/index.m3u8
 CCTV17,http://60.6.255.8:2180/live/cctv17/index.m3u8
 
+
+🇨🇳奥运实播,#genre#
+奥运780台,p3p://108.181.32.169:24350/66a4c0bc0005542ecd8ee36d39f22f27 
+奥运781台,p3p://108.181.32.169:24350/66a4c09f000b82cccd8e73ba4d0108f0 
+奥运782台,p3p://108.181.32.169:24350/66a4c05a000925a2cd8d659733bf4cbb 
+奥运783台,p3p://108.181.32.169:24350/66a4c03b000c857ccd8ced5c46fb1f90 
+奥运784台,p3p://108.181.32.169:24350/66a4c021000ac66ecd8c87597073673e 
+奥运801台,https://mytvsuper.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运801台,p3p://108.181.32.169:24350/66a4bfd60004fcaacd8b60e62dba635b 
+奥运802台,https://mytvsuper.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运802台,p3p://108.181.32.169:24350/66a4bfb600099372cd8ae5125aa031f2 
+奥运803台,https://mytvsuper.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运803台,p3p://108.181.32.169:24350/66a4bf97000685fbcd8a6b32635a6058 
+奥运804台,https://mytvsuper.btjson.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运804台,p3p://108.181.32.169:24350/66a4bf77000304e3cd89ed4c57d21d09 
+奥运805台,https://mytvsuper.btjson.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运805台,p3p://108.181.32.169:24350/66a4bf57000ab3dccd89724446374868 
+奥运806台,https://mytvsuper.btjson.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运806台,p3p://108.181.32.169:24350/66a4bf3800089a25cd88f8a25b4a3937
+奥运807台,https://mytvsuper.btjson.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运808台,https://mytvsuper.btjson.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运809台,https://mytvsuper.btjson.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运810台,https://mytvsuper.btjson.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运811台,https://mytvsuper.btjson.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运812台,https://mytvsuper.btjson.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运813台,https://mytvsuper.btjson.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运814台,https://mytvsuper.btjson.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运815台,https://mytvsuper.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运816台,https://mytvsuper.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+奥运817台,https://mytvsuper.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 
 
