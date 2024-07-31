@@ -132,7 +132,7 @@
 {"key":"采集_黑木","name":"☁️黑木丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/黑木.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
 {"key":"采集_老张","name":"☁️老张丨采集","type":1,"api":"http://zhangqun66.serv00.net/158.php","searchable":1,"changeable":1,"categories":["电影","连续剧","大陆综艺","国产动漫","日韩动漫","NBA","爽文短剧","年代穿越","成长逆袭"]},
 {"key":"采集_木耳","name":"☁️木耳丨采集","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
+{"key":"采集_集合","name":"☁️集合丨采集","type":1,"api":"http://zhangqun66.serv00.net/cjjh.php","searchable":1,"changeable":1},
 
 {"key":"屁股_港口","name":"🚢港口丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js","timeout":30},
 {"key":"屁股_磁熊","name":"🐻磁熊丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/磁力熊.js","timeout":30},
