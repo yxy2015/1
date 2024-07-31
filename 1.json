@@ -40,13 +40,14 @@
 {"key":"小二_短三","name":"精品丨短劇","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0729.jar;md5;4172d259b604777ede0673e4791317f6","timeout":30},
 {"key":"小二_短四","name":"极品丨短劇","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/wex0729.jar;md5;4172d259b604777ede0673e4791317f6","timeout":30},
 
-{"key":"屁股_玩偶","name":"🎅玩偶丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$1$$$./lib/wogg.json","timeout":30},
+{"key":"屁股_玩偶","name":"🎅玩偶丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_多多","name":"🍈多多丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_蜡笔","name":"📀蜡笔丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_表哥","name":"🍇表哥丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1$$$./lib/wogg.json","timeout":30},
 
 {"key":"屁股_至臻","name":"👔至臻丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://mpanso.com/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_土豆","name":"🥔土豆丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$1$$$./lib/wogg.json","timeout":30},
+{"key":"屁股_六趣","name":"🕊️六趣丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://cms3.715d.com/$$$1$$$./lib/wogg.json","timeout":30},
 
 {"key":"饭佬_苹果","name":"🍎苹果丨秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0722.jar;md5;71d846866f2ceb9666ba114e5963983f","timeout":30},
 {"key":"饭佬_比特","name":"🍒比特丨秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0722.jar;md5;71d846866f2ceb9666ba114e5963983f","timeout":30},
@@ -132,7 +133,12 @@
 {"key":"采集_黑木","name":"☁️黑木丨采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/黑木.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
 {"key":"采集_老张","name":"☁️老张丨采集","type":1,"api":"http://zhangqun66.serv00.net/158.php","searchable":1,"changeable":1,"categories":["电影","连续剧","大陆综艺","国产动漫","日韩动漫","NBA","爽文短剧","年代穿越","成长逆袭"]},
 {"key":"采集_木耳","name":"☁️木耳丨采集","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 {"key":"采集_集合","name":"☁️集合丨采集","type":1,"api":"http://zhangqun66.serv00.net/cjjh.php","searchable":1,"changeable":1},
+{"key":"采集_纽约","name":"☁️纽约丨采集","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://t4.doube.eu.org/site/xp_nuiyue.json"},
+{"key":"踢死_黑木","name":"☁️黑木丨采集","type":4,"api":"https://t4.doube.eu.org/heimuer.php","quickSearch":0,"searchable":1},
+{"key":"踢死_华为","name":"☁️华为丨采集","type":4,"api":"https://t4.doube.eu.org/huaweiba.php","quickSearch":0,"searchable":1},
+
 
 {"key":"屁股_港口","name":"🚢港口丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js","timeout":30},
 {"key":"屁股_磁熊","name":"🐻磁熊丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/磁力熊.js","timeout":30},
