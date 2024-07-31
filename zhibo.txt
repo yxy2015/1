@@ -1,11 +1,7 @@
 
 
 
-
-
-
-
- 🇨🇳央视频道,#genre#
+🇨🇳奥运实播,#genre#
 实时奥运金牌榜,https://pull-flv-f6.douyincdn.com/media/stream-692028292559012524.flv?abr_pts=-800&_session_id=037-202407291921458CA4EAA478C16011032F.1722252116805.55119
 奥运780台,p3p://108.181.32.169:24350/66a4c0bc0005542ecd8ee36d39f22f27 
 奥运781台,p3p://108.181.32.169:24350/66a4c09f000b82cccd8e73ba4d0108f0 
@@ -35,6 +31,10 @@
 奥运815台,https://mytvsuper.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 奥运816台,https://mytvsuper.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 奥运817台,https://mytvsuper.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+ 🇨🇳央视频道,#genre#
+
 CCTV1,p3p://108.181.32.169:24350/64260c74000c73e9edfa2a0e354364a8
 CCTV2,p3p://108.181.32.169:24350/64260c83000b5f74edfa64604fe67a12
 CCTV3,p3p://108.181.32.169:24350/64260c9b0000ca3dedfabf6a10b00144
