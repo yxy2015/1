@@ -98,6 +98,27 @@
 "分类":"國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"
 }
 },
+{"key":"TaiAv",
+"name":"🔞TaiAv",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"style":{
+"type":"rect",
+"ratio":1.5
+},
+"ext":{
+"主页url":"https://taiav.com/",
+"搜索url":"https://taiav.com/search?q={wd}",
+"数组":"uk-card-media-top\"&&</a>",
+"图片":"src=\"&&\"",
+"标题":"alt=\"&&\"",
+"副标题":"</span>&&</div>",
+"链接":"href=\"&&\"",
+"分类url":"https://taiav.com/cn/category/{cateId}?page={catePg};;z",
+"分类":"国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码"
+}
+},
 
 	
 {"key":"量子","name":"🔞量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["伦理片"]},
