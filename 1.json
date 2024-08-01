@@ -15,7 +15,7 @@
 
 {"key":"屁股_配置","name":"4K网盘配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","timeout":60},
 {"key":"屁股_优土","name":"Youtube","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K","proxy":"127.0.0.1:10072","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.77},"danmu":true},
-{"key":"道长_哔哩","name":"哔哩丨哔哩","type":3,"api":"https://y.337898581.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/bilibili.js"},
+{"key":"道长_哔哩","name":"bilibib","type":3,"api":"https://y.337898581.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/bilibili.js"},
 
 {"key":"饭佬_广场","name":"广场丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"ext":"./哔哩哔哩/广场舞.json","jar":"./jar/fan0722.jar;md5;71d846866f2ceb9666ba114e5963983f","timeout":30},
 {"key":"饭佬_游戏","name":"游戏丨直播","type":3,"api":"csp_Yj1211","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0722.jar;md5;71d846866f2ceb9666ba114e5963983f","timeout":30},
@@ -36,7 +36,6 @@
 {"key":"短剧_天天","name":"天天丨短劇","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 {"key":"短剧_非凡","name":"非凡丨短劇","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/?","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 {"key":"短剧_空空","name":"空空丨短劇","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
-
 
 {"key":"屁股_玩偶","name":"🎅玩偶丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.xxooo.cf/$$$1$$$./lib/wogg.json","timeout":30},
 {"key":"屁股_多多","name":"🍈多多丨4K网盘（需硬件和网速支持）","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","timeout":30},
@@ -94,6 +93,10 @@
 {"key":"屁股_磁熊","name":"🐻磁熊丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/磁力熊.js","timeout":30},
 {"key":"小二_磁力","name":"🧲聚合丨磁力","type":3,"api":"csp_Wexciliso","searchable":1,"quickSearch":1,"jar":"./jar/wex0729.jar;md5;4172d259b604777ede0673e4791317f6","timeout":30},
 
+{"key":"屁股_影巢","name":"🎥影巢丨网盘","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$1","timeout":30},
+{"key":"屁股_影搜","name":"🥉影搜丨网盘","type":3,"api":"csp_YingSo","ext":"./lib/tokenm.json","timeout":30},
+{"key":"屁股_太灵","name":"🐶太灵丨磁力","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"https://www.3bt0.com/$$$1","timeout":30},
+
 {"key":"采集_天天","name":"☁️天天丨采集","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"categories":["短剧","国产剧","剧情片","大陆综艺","动作片"]},
 {"key":"采集_火狐","name":"☁️火狐丨采集","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1,"categories":["短剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
 {"key":"采集_影图","name":"☁️影图丨采集","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1},
@@ -138,12 +141,8 @@
 {"key":"踢死_华为","name":"☁️华为丨采集","type":4,"api":"https://t4.doube.eu.org/huaweiba.php","quickSearch":0,"searchable":1},
 {"key":"采集_鹰鹰","name":"☁️鹰鹰丨采集","type":1,"api":"http://zhangqun66.serv00.net/jy.php","searchable":1,"changeable":1},
 
-{"key":"PushShare","name":"我的丨分享","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"timeout":30},
-{"key":"AliShare","name":"阿里丨分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
-{"key":"QuarkShare","name":"夸克丨分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/quarkshare.txt","style":{"type":"list","ratio":1.1}},
-
-{"key":"115Share","name":"115丨分享","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":120,"ext":"./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
-{"key":"UCShare","name":"UC丨分享","type":3,"api":"csp_UCShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
+{"key":"PushShare","name":"我的分享","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1},"timeout":30},
+{"key":"QuarkShare","name":"夸克分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/quarkshare.txt","style":{"type":"list","ratio":1.1}},
 {"key":"推送_推送","name":"手机推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./lib/tokenm.json+4k|auto|fhd"}],
 
 "parses":[
