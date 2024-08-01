@@ -60,7 +60,22 @@
 {"key":"狼群","name":"💖狼群","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"页面代理":"","分类":"中文av$6#无码$1#有码$4#日韩$9#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#自拍$10","站名":"2028P","主页url":"https://www.2028p.com","直接播放":"1","搜索url":"https://2028p.com/vodsearch/-------------/?wd={wd}","分类url":"https://2028p.com/vodshow/{cateId}--{by}------{catePg}---/"},"playerType":0,"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
 {"key":"文才","name":"💖文才","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/18/文才.json","style":{"ratio":1.7},"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":60},
 
-
+{
+"key":"玩偶妹妹",
+"name":"玩偶妹妹",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{
+"主页url":"https://urcccg.dbtav9.today/cn/home/web/",
+"直接播放":"1",
+"分类url":"https://urcccg.dbtav9.today/vodtype/{cateId}/{catePg}/;;a",
+"分类":"国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27#日韩视频$28#欧美视频$29#动漫视频$30#伦理影片$31"
+}
+},
 
 
 	
@@ -77,26 +92,26 @@
 {"key":"越南","name":"🔞越南","type":1,"api":"https://vnzyz.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 
 	{
-         "key": "MustJAV",
-            "name": "亲亲表姐",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar": "./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "主页url": "https://mustjav.com/",
-                "直接播放": "1",
-                "数组": "\"video-elem\"&&\"colVideoList\"",
-                "图片": "style=\"background-image: url('&&')",
-                "标题": "class=\"title text-sub-title*>&&</a>",
-                "链接": "<a target=\"_blank\" class=\"display d-block\" href=\"&&\"",
-                "分类url": "https://mustjav.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "分类": "有码$22#无码$23#自拍$24#国产$50#欧美$25#日本自拍$26#动画$38#虚拟实景$27"
-            }
-        },
+"key":"MustJAV",
+"name":"亲亲表姐",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"./lib/XBPQ.jar;md5;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"style":{
+"type":"rect",
+"ratio":1.5
+},
+"ext":{
+"主页url":"https://mustjav.com/",
+"直接播放":"1",
+"数组":"\"video-elem\"&&\"colVideoList\"",
+"图片":"style=\"background-image:url('&&')",
+"标题":"class=\"titletext-sub-title*>&&</a>",
+"链接":"<atarget=\"_blank\"class=\"displayd-block\"href=\"&&\"",
+"分类url":"https://mustjav.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+"分类":"有码$22#无码$23#自拍$24#国产$50#欧美$25#日本自拍$26#动画$38#虚拟实景$27"
+}
+},
 
 	
 
