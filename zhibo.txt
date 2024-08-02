@@ -115,25 +115,7 @@ CCTV17,http://58.41.27.144:18888/udp/239.45.3.52:5140
 
 
 
-🇨🇳奥运实播,#genre#
-实时奥运金牌榜,https://pull-flv-f6.douyincdn.com/media/stream-692028292559012524.flv?abr_pts=-800&_session_id=037-202407291921458CA4EAA478C16011032F.1722252116805.55119
-奥运CCTV16,p3p://108.181.20.159:20147/632350a5000deee324e2a2bc22a37dd9#p3p://108.181.32.169:37861/642610a2000b33ebee0a7d6c26c160b2#P2p://generationnexxxt.com:19806/3bb4c4f6ec8d45db81ede1415820dba0
-奥运CCTV5+,p3p://108.181.20.159:20147/6323522b0000ad5c24e892c57ad041c7#p3p://108.181.32.169:37861/64260cbc00081417edfb42307c984dd4#P2p://generationnexxxt.com:19806/7ed1624a62004620bfecc83fe0b70935
-奥运CCTV5,p3p://108.181.20.159:20147/62c2e10a000954acac332b30611a0e9d#p3p://108.181.32.169:37861/64260cb0000afd53edfb140f10811127#P2p://generationnexxxt.com:19806/38c87f18f93c440594b45fd7de89a768
-奥运CCTV5,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv5hd265/57/20191230/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-奥运CCTV5+,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-奥运CCTV16,http://www.zzlag.top:9087/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-Mytv-奥运780台,p3p://108.181.32.169:37861/66a4c0bc0005542ecd8ee36d39f22f27 
-Mytv-奥运781台,p3p://108.181.32.169:37861/66a4c09f000b82cccd8e73ba4d0108f0 
-Mytv-奥运782台,p3p://108.181.32.169:37861/66a4c05a000925a2cd8d659733bf4cbb 
-Mytv-奥运783台,p3p://108.181.32.169:37861/66a4c03b000c857ccd8ced5c46fb1f90 
-Mytv-奥运784台,p3p://108.181.32.169:37861/66a4c021000ac66ecd8c87597073673e 
-Mytv-奥运801台,p3p://108.181.32.169:37861/66a4bfd60004fcaacd8b60e62dba635b 
-Mytv-奥运802台,p3p://108.181.32.169:37861/66a4bfb600099372cd8ae5125aa031f2 
-Mytv-奥运803台,p3p://108.181.32.169:37861/66a4bf97000685fbcd8a6b32635a6058 
-Mytv-奥运804台,p3p://108.181.32.169:37861/66a4bf77000304e3cd89ed4c57d21d09 
-Mytv-奥运805台,p3p://108.181.32.169:37861/66a4bf57000ab3dccd89724446374868 
-Mytv-奥运806台,p3p://108.181.32.169:37861/66a4bf3800089a25cd88f8a25b4a3937
+
 
 
 
