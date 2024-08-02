@@ -77,8 +77,8 @@
 "singbox_template_url":"./singbox.json",
   
 "pan115_cookie":"UID=360718590_I1_1722571329; CID=35e7457ed869a764973f7e89663a489c; SEID=b9270b5abb213a5200e5b010b14a5cf7b93d3bcc4ec45c8903d7e834027663fbbe353d524b3b269e66edc748d8b8559b220609161114e2b26b2d8c6d",
-"pan115_thread_limit":0,
-"pan115_vip_thread_limit":0,
+"pan115_thread_limit":2,
+"pan115_vip_thread_limit":2,
 "pan115_is_vip":false,
 "pan115_flags":"4kz",
 "pan115_auto_delete":true,
