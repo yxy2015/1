@@ -83,5 +83,5 @@
 "pan115_flags":"4kz",
 "pan115_auto_delete":true,
 "pan115_delete_code":"123456",      //app账号安全-安全密钥
-"pan_order":"quark|ali|115|uc|yd|thunder|pikpak"  
+"pan_order":"quark|ali|115|uc|thunder|yd|pikpak"  
 }
