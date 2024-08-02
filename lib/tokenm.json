@@ -76,12 +76,12 @@
 "singbox_clash2singbox_url":"./clash2singbox.gz",
 "singbox_template_url":"./singbox.json",
   
-"pan115_cookie":"115_lang=zh; acw_tc=784e2c9117225690571735488e131e28f9eb3f30d1ce5b125b5c22ecfee3da; USERSESSIONID=c945b05c86737744ba79b161ca2a0c5a280bbb9cdb8deb2ba8ad9f4f6c5a40fb; UID=360718590_A1_1722569086; CID=7c7ecb9a2e616a72597d0f1de331e69e; SEID=2377e0a3ef87d784f8cddb8e797e2b21d6f30cea759ffb726b4ca4f7829ac54574c7cea8ef028d09dbe1c2fb39ca229c8527b09126ec63c070e51be9; PHPSESSID=5u8lsnc4684s0s0a0g3ab7a149",
+"pan115_cookie":"UID=360718590_I1_1722571329; CID=35e7457ed869a764973f7e89663a489c; SEID=b9270b5abb213a5200e5b010b14a5cf7b93d3bcc4ec45c8903d7e834027663fbbe353d524b3b269e66edc748d8b8559b220609161114e2b26b2d8c6d",
 "pan115_thread_limit":0,
 "pan115_vip_thread_limit":0,
 "pan115_is_vip":false,
 "pan115_flags":"4kz",
 "pan115_auto_delete":true,
-"pan115_delete_code":"",      //自己到app裏配置呀，6位數字
+"pan115_delete_code":"123456",      //app账号安全-安全密钥
 "pan_order":"quark|ali|115|uc|yd|thunder|pikpak"  
 }
