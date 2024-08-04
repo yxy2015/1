@@ -18,7 +18,7 @@
    
 "quark_thread_limit":32,
 "quark_is_vip":true,
-"quark_vip_thread_limit":32,
+"quark_vip_thread_limit":16,
 "quark_flags":"4kz|auto",
 "quark_danmu":true,
 "quark_cookie":"b-user-id=2052c7b1-0c67-9bca-23ac-57961eef3e3c; b-user-id=2052c7b1-0c67-9bca-23ac-57961eef3e3c; _UP_A4A_11_=wb9671e654154c54b76001eddc803ccd; __wpkreporterwid_=c5ee2e33-9285-4a59-879b-79838cf01212; __itrace_wid=f5991a38-d8ed-46ed-2ed4-a3c36ad79b77; _UP_D_=pc; _UP_335_2B_=1; _UP_30C_6A_=st968620197f7j6dx30ci69pd2rc42eu; _UP_TS_=sg1e97258477abd1b716c8faadd6f9ebc3a; _UP_E37_B7_=sg1e97258477abd1b716c8faadd6f9ebc3a; _UP_TG_=st968620197f7j6dx30ci69pd2rc42eu; ctoken=lNQci-NcUkUfDgQaTkcRA-AS; grey-id=6ed6b8a2-97db-83a6-ea29-75408280f0a2; grey-id.sig=-Kf58ONYyC6DupB9JWhIixMZHAcwAmKB8w-Wg37IfcE; isQuark=false; isQuark.sig=DWPHMZYiiwQ-v58AbcP-rBdSIpzO8ZnrD67BdJuPatU; __pus=55743a2f580dab459059f31425182b7dAASgzrzS9OR8atvomYL2nuitQ7ct21WFzXHVF4sCMzsE39bwoGI6YyqGbrror9px8vN0uyWWfkFAl1RfUMYWNJzh; __kp=5e8dd6f0-507e-11ef-9c7c-23c5a06087ed; __kps=AAQZfs5+wRlJlLir54BxO3Lh; __ktd=RTC+8TzPCDyAjlMk00bRSg==; __uid=AAQZfs5+wRlJlLir54BxO3Lh; __puus=ce3927a9dd48b2f0d9e73d0101d7b8fbAAT9nAUibHbA0bY3AvuxFbbpOZSe/bX9cgTiZxwYIYEErtJ8EXG0100tpI4DEkWNa9vK1qS8rieJm5igt88YR33tzVM69U2jfyT6pUPZq9eaPqhUwTDXPq+jwa4iVZVntsmTsvNgbiokLe4Uy2N7ZaT9TyPyXfyV3dsaIo5sp9guZDJ6BL0k2MQCZcn+STrmYEeYNn2eYjMNRHz7PkpVRqwK",
