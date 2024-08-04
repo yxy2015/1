@@ -149,7 +149,7 @@
 {"key":"屁股_布谷","name":"🐦布谷丨磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./XYQHiker/布谷.json","jar":"./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","timeout":30},
 {"key":"屁股_丝丝","name":"🎉范丝丨磁力","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json","timeout":30},
 
-{"key":"屁股_梯哥","name":"TG搜索丨网盘","type":3,"api":"csp_TGYunPan","ext":"./lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$127.0.0.1:10072$$$1""timeout":60,},
+{"key":"屁股_梯哥","name":"TG搜索丨网盘","type":3,"api":"csp_TGYunPan","ext":"./lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$127.0.0.1:10072$$$1","timeout":60},
 {"key":"JS","name":"甄嬛丨4K影院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/4KAV.js"},
 {"key":"07","name":"紫薇丨4K影院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/4K剧院.js"},
 
