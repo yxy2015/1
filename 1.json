@@ -111,7 +111,7 @@
 {"key":"饭佬_可可","name":"👻可可丨多线","type":3,"api":"csp_Kekys","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0804.jar;md5;a509c54dbfed19222e5b799a1fa86ad4","timeout":30},
 {"key":"饭佬_酷看","name":"💎酷看丨多线","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0804.jar;md5;a509c54dbfed19222e5b799a1fa86ad4","timeout":30},
 
-{"key":"饭佬_贱贱","name":"🐭贱贱丨磁力","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/荐片.js","timeout":30},
+{"key":"饭佬_贱贱","name":"🐭贱贱丨磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/荐片.js","timeout":30},
 {"key":"饭佬_专线","name":"🚝专线丨秒播","type":3,"api":"csp_Zx4k","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0804.jar;md5;a509c54dbfed19222e5b799a1fa86ad4","timeout":30},
 {"key":"饭佬_南瓜","name":"🎃南瓜丨多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0804.jar;md5;a509c54dbfed19222e5b799a1fa86ad4","timeout":30},
 
