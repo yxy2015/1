@@ -18,6 +18,7 @@
    
 "quark_thread_limit":32,
 "quark_is_vip":true,
+"quark_is_guest":false,
 "quark_vip_thread_limit":16,
 "quark_flags":"4kz|auto",
 "quark_danmu":true,
