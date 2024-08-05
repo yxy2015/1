@@ -4,6 +4,8 @@
 "logo":"./lib/1.gif",
 "lives":[
 {"name":"本地直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":30},
+{"name":"live.ipv6","type":0,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live.ipv6.m3u","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://epg.112114.xyz/logo/{name}.png"},
 {"name":"中央直播","type":0,"pass":true,"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","url":"./央视频嗅探.m3u","boot":false,"timeout":30},
 {"name":"全球直播","url":"http://127.0.0.1:10079/p/0/127.0.0.1:10072/http://oy.oyxx-1.eu.org/p3p.php","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png","timeout":30}
 ],
