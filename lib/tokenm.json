@@ -12,7 +12,7 @@
 "vod_flags":"4kz|auto",
   
 "aliproxy":"",
-"aliproxy_url":"",
+"aliproxy_url":"./aliproxy.gz",
 "proxy":"",
 "danmu":true,
    
