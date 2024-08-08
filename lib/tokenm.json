@@ -28,7 +28,7 @@
 "uc_is_vip":false,
 "uc_vip_thread_limit":0,
 "uc_flags":"4kz|auto",
-"uc_cookie":"UDRIVE_TRANSFER_SESS=bgyXvQ8LJl26c3RguZ-TelveLX-IiGQH-jFhmGgedYik6Wk74wVg4rByXY180pGyHlht7dJpT2-AKiBwp4MOIFeSSq39hIXV3aBIccXfOlnNjxkYn8UTKVX5zpT5zXwRNADCWHsx-lNeeQP-_mGpDxTXYq2toEby7RNkcb0tzhyalSchpg2oZdNMFAbBXXBk; b-user-id=1e4838d3-2a7d-de7f-fc09-413068a1bf71; __itrace_wid=731cae9f-7b99-4f6a-08c8-5df0a79c2780; _UP_A4A_11_=wb967187d37941a4a8d5737f136331fc; isg=BDc32XJ7HaKEK5kcdkQcr86CxiuB_AteNbXc1YnkOoZtOFZ6kc-zr4ubHphm0OPW; __pus=63a1bc1c1d78d1e7731e3fb5d6693e3aAAQcHlQYHzcURhI5IaA+NCx/FY50X7HFwTT9EIOMyaYWBEXQrxcI/IObiD1zukTtMyBXhAgYgc4J2+njvMr0q604; __kp=8ae8f090-53c1-11ef-8a78-e3b6f8ae4826; __kps=AARaPsy19sE3hhs3YqPg7HCa; __ktd=DLqnFPYlfx+M0VDP+KMRtQ==; __uid=AARaPsy19sE3hhs3YqPg7HCa; ctoken=3A8Yo3UhW22s8LJ3xWkDcQKM; __puus=2ed924db6741410401bb337a8c9a2bd3AATCov9Z78OJHuGuNarL9J5Tv+SqkiECMKENSDMqR6qgnRmCSbSkyGA33EhfO+0djBbDGzqllAVfKczQsV7we2O7bdvHIZIBqXya9rUGxisRMUmVUseGJnkyMoWa7K0STax6fGodWSloKB0aHls2CeGlj50xkmA9CENt+uMx+oulrvZU3qqdaiDEEclDuhplPkc=",
+"uc_cookie":"ctoken=u003dFfIvqz4CsSNUuhqSs8kspGMI; __uid=u003dAAQhohjLsXsJCvwn/v6ykJhY; __puus=u003dfb7ebf0cbd9347d026903dcf53e6b52aAATdFkPGsqhz54hRjSOBsQPY7tj35ET87NcbpCF7/WLWqt6opzQ7vVsyyyL7OyXReMQmsNmX4WpvftqZDDK2Ju4hrK4i3jaxD5kt5PFvoNS6LH+XdS3S2HnHyV7pT4rgCQntS2xbFc4ZNt2zfr4xw5SyULYUfHDexuL2EC+lLx+N6xTjMJTzhfgs0g9xt6KBsbA=u003d; __pus=u003de482b503097ab9eddc6ef14918a2937bAARyvK8pYZ0RTNtSLvz8WfGSaU2T0ymoUB7RxwtobiZgQaJLRuvmk60SWG9BR1GVa4Qelbaq57qq35iU/2g25umZ; __kp=u003d9b137b20-5529-11ef-8a78-e3b6f8ae4826; __kps=u003dAAQhohjLsXsJCvwn/v6ykJhY; __ktd=u003dLNyvdc4e+UEhmTW8Z8fLIw=u003d=u003d; UDRIVE_TRANSFER_SESS=u003dqjIth5-asdu0-c2mrjuDTZ0EQN7NJLx76-u6M2f2fssPkUsoXfqk1pbF4FwtP6M72XN6QTP9R_yS7etQQBDVdmck9hojVTeD89ZUMpFwq7J45mIQqTXSwvm941N_1CZhSxwL6laBJ-k-K3j7yjbg1qSruZvtzK-o-7ujzqwQDTULLypD9VQ2NzkKy24bPoOj",
  
 "thunder_thread_limit":2,
 "thunder_is_vip":false,
@@ -78,7 +78,7 @@
 "singbox_clash2singbox_url":"./clash2singbox.gz",
 "singbox_template_url":"./singbox.json",
   
-"pan115_cookie":"UID=360718590_A1_1723081965; CID=79e8309af61deb04ee83d49e62095092; SEID=0838aca7bcd38b713747abe68123a426a6334747e820fe598e2162fdbcfe32de16ed189c3f1a7f8d7e0a22bf800202fbfc948b5f5d70c24de17bc95f",
+"pan115_cookie":"UID=u003d360718590_A1_1723082287; SEID=u003d8b363a78ac08f1f923e18b227618b5a25303660078935327cde134012ad4eb5ff63b241f7855041be80ae175d10d9755104f4e881ee409087fff0083; CID=u003d7ea6fba5ed2fb752281c34f73b48b4be",
 "pan115_thread_limit":2,
 "pan115_vip_thread_limit":2,
 "pan115_is_vip":false,
