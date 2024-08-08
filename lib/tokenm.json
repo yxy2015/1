@@ -12,7 +12,7 @@
 "vod_flags":"4kz|auto",
   
 "aliproxy":"",
-"aliproxy_url":"./aliproxy.gz",
+"aliproxy_url":"./aliproxy.gz;md5;7fa247a45d1a94f07336300d09d732ae",
 "proxy":"",
 "danmu":true,
    
@@ -61,8 +61,8 @@
 "wgcf_key":"eLPYOt5B+H9sQQrg6tbx13pPt3I5B/lo/LfP/NcU83s=",
 "wgcf_key2":"WFUEo5mjfMEunjT0i9TL2zzYK8b81alg9kE0MG5gAEQ=",
 "wgcf_ipport":"162.159.195.145:8319",
-"wgcf_xray_url":"./xray.gz",
-"wgcf_geoip_url":"./geoip.dat.gz",
+"wgcf_xray_url":"./xray.gz;md5;2c2fb3b00c2763aae8b1ba789c09c453",
+"wgcf_geoip_url":"./geoip.dat.gz;md5;edfbb800a397674bee4a9460adde05f0",
 "wgcf_json_url":"./wgcf.json",
 "wgcf_vless_id":"add25d41-b537-4f72-bf88-15602d0aad00",
 "wgcf_vless_optname":"ca.337898581.xyz:8880",
@@ -74,9 +74,9 @@
 "libxl_url":"./libxl_thunder_sdk.so",
 
   
-"singbox_url":"./sing-box.gz",
+"singbox_url":"./sing-box.gz;md5;1743280c8d54c17cde83e94d9cf3cbcf",
 "singbox_subscribe_url":"http://sub.xn--54qu5qypuo1o.xn--fiqs8s/api/v1/client/subscribe?token=8cfd1efb341eddefcbf9f8ce5e1543d7∣http://api.scyu.xyz/sub?token=IxWNfdCuIUWE0Z7QN5IGTA&tag=clash",
-"singbox_clash2singbox_url":"./clash2singbox.gz",
+"singbox_clash2singbox_url":"./clash2singbox.gz;md5;df0a588d890d33743d3b1318fdf230e1",
 "singbox_template_url":"./singbox.json",
   
   
