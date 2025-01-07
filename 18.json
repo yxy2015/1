@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;8585018282fe11e30ddf6a66750c1143",
+"spider":"./jar/pg.jar;md5;564bfd21099c920b28b3e674ffa8e094",
 
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
@@ -22,6 +22,7 @@
 {"key":"嗨片","name":"🔞嗨片","type":3,"api":"csp_HiPianZhiBo","searchable":1,"filterable":1,"jar":"https://y.337898581.xyz/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
 {"key":"橘猫","name":"🔞橘猫","type":1,"api":"https://to.to-long.com/api.php/provide/vod/","jar":"https://y.337898581.xyz/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/最新.jar","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"麻豆","name":"🔞麻豆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
+{"key":"avdb","name":"🔞avdb","type":4,"api":"http://zhangqun1818.serv00.net/229.php","searchable":1,"changeable":1},
 
 {"key":"哈哈","name":"🔞哈哈","type":3,"jar":"https://codeberg.org/z337898581/1/raw/commit/9f77c6f7969b8429017ee808418b37e7278a5a5b/xyqxbpq.jar","api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","主页url":"https://www.hahads.com/show/20-----------.html","跳转播放链接":"varplayer_*\"url\":\"&&\"","分类url":"https://www.hahads.com/show/20-{cateId}-------{catePg}---.html","分类":"大陆&香港&台湾&美国&法国&英国&日本&韩国&泰国&印度&西班牙&加拿大&俄罗斯&新加坡&其它","分类值":"*"}},
 {"key":"火机","name":"🔞火机","type":3,"jar":"https://codeberg.org/z337898581/1/raw/commit/9f77c6f7969b8429017ee808418b37e7278a5a5b/xyqxbpq.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","主页url":"https://www.jscrzn.com/czclass/maoxianpian-----------.html","首页":"120","起始页":"1","分类url":"https://www.jscrzn.com/czclass/maoxianpian-{cateId}-------{catePg}---.html","分类":"香港&台湾&韩国&日本&美国&印度&英国&法国&泰国&新加坡&马来西亚&加拿大&西班牙&俄罗斯","分类值":"*","数组":"target=\"_blank&&</a>","标题":"title=\"&&\"","图片":"data-original=\"&&\"","副标题":"+public-prthide\">&&</span>+hideft2\">&&</span>","链接":"href=\"&&\"","影片年代":"更新:&&</div>","状态":"提醒:&&</div>","导演":"+导演:&&</div>","主演":"+主演:&&</div>","跳转数组":"vod-detail-bntflex\">&&</div>","跳转链接":"href=\"&&\"","线路数组":"info&&\">","线路标题":"+云播","播放数组":"anthology-list-playsize&&</ul>","播放列表":"<li&&</li>[不包含:💞美女直播]","播放标题":"+<span>&&<","播放链接":"href=\"&&\"","跳转播放链接":"urlDecode(varplayer_*\"url\":\"&&\")","搜索模式":"1","搜索url":"http://www.jscrzn.com/search/{wd}----------{pg}---.html","简介":"+textcor4\">&&</p>"}},
