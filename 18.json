@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;92c427e8f7ae0285d3b00fa2dd81fabb",
+"spider":"./jar/pg.jar",
 
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},

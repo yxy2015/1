@@ -17,7 +17,7 @@
 {"key":"饭佬_饭佬搜索","name":"饭佬搜索ㅤ😃更新：2025年2月😃ㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"indexs":1},
 
 {"key":"屁股_配置","name":"4K网盘配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json"},
-{"key":"饭佬_直播","name":"游戏丨直播","type":3,"api":"csp_Alllive","searchable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
+{"key":"饭佬_直播","name":"游戏丨直播","type":3,"api":"csp_Alllive","searchable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
 {"key":"潇洒_广场","name":"广场丨舞蹈","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":false,"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩合集.json"},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
 
 {"key":"潇洒_学习","name":"哔哩丨学习","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"cookie":"./lib/bilibili.txt","json":"./bilibili/学习园地.json"},"timeout":20,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
@@ -28,9 +28,9 @@
 {"key":"潇洒_戏曲","name":"哔哩丨戏曲","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩戏曲.json"},"timeout":20,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
 {"key":"潇洒_歌曲","name":"哔哩丨歌曲","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"cookie":"./lib/bilibili.txt","json":"./bilibili/演唱会.json"},"timeout":20,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
 
-{"key":"饭佬_八八","name":"体育丨直播①","type":3,"api":"csp_Sir88","searchable":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_九二","name":"体育丨直播②","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_三一","name":"体育丨直播③","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"changeable":0,"ext":"./js/31直播.js"},
+{"key":"饭佬_八八","name":"体育丨直播①","type":3,"api":"csp_Sir88","searchable":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_看球","name":"体育丨直播②","type":3,"api":"csp_Kanqiu","searchable":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_九二","name":"体育丨直播③","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
 
 {"key":"老张_短剧","name":"短剧丨短剧①","type":1,"api":"http://zhangqun1818.serv00.net:5052","searchable":1,"quickSearch":1},
 {"key":"未知_短剧","name":"短剧丨短剧②","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod","searchable":1,"quickSearch":1},
@@ -38,19 +38,19 @@
 	
 {"key":"潇洒_短剧","name":"星芽丨短剧④","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
 {"key":"潇洒_河马","name":"河马｜短剧⑤","type":3,"api":"csp_AppHMDJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw==","jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_爱你","name":"爱你丨短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/爱你短剧.json","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_爱你","name":"爱你丨短剧⑥","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/爱你短剧.json","jar":"https://tvbox.catvod.com/xs/spider.jar"},
 
 
 
 
 	
+{"key":"屁股_玩偶","name":"玩偶丨4K网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg1.banye.tech:7777/|https://wogg2.banye.tech:7777$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
+{"key":"屁股_木偶","name":"木偶丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://mogg1.banye.tech:7777/$$$1$$$noproxy$$$./lib/wogg.json$$$MOGG"},
 {"key":"屁股_蜡笔","name":"蜡笔丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$http://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
-{"key":"屁股_木偶","name":"木偶丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$http://www.91muou.icu/|http://muou.666291.xyz/|http://muouso.fun/$$$1$$$noproxy$$$./lib/wogg.json$$$MOGG"},
-{"key":"屁股_玩偶","name":"玩偶丨4K网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
 
 {"key":"屁股_闪电","name":"闪电丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$http://1.95.79.193/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"},
-{"key":"屁股_讴歌","name":"讴歌丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://woog.nxog.eu.org/$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"屁股_小米","name":"小米丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$http://www.mucpan.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"},
+{"key":"屁股_讴歌","name":"讴歌丨4K网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://woog.nxog.eu.org/|https://wooguc.nxog.eu.org/$$$noproxy$$$1$$$./lib/wogg.json"},
 
 {"key":"屁股_瓜子","name":"瓜子丨1080P","type":3,"api":"csp_Guazi","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":""},
 {"key":"屁股_天天","name":"天天丨1080P","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"http://op.ysdqjs.cn$$$null$$$1"},
@@ -62,86 +62,146 @@
 
 	
 
+{"key":"潇洒_厂长","name":"厂长丨弹幕","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
 {"key":"潇洒_天天","name":"天天丨弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL29wLnlzZHFqcy5jbg=="},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
 {"key":"潇洒_热播","name":"热播丨弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YucmJvdHYuY24="},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_文才","name":"文才丨弹幕","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
 
-{"key":"潇洒_苹果","name":"苹果丨弹幕","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
 {"key":"潇洒_浪酷","name":"浪酷丨弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_机器","name":"机器丨弹幕","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-	
-{"key":"潇洒_梦米","name":"梦米丨弹幕","type":3,"api":"./lib/drpy2.min.js","ext":"./js/梦米弹幕.js"},
-{"key":"潇洒_追剧","name":"追剧丨弹幕","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧弹幕.js"},
+{"key":"潇洒_文才","name":"文才丨弹幕","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_米兔","name":"米兔丨弹幕","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/米兔弹幕.js","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
 {"key":"潇洒_小熊","name":"小熊丨弹幕","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小熊弹幕.js"},
+{"key":"潇洒_巨人","name":"巨人丨弹幕","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/巨人弹幕.js"},
+{"key":"潇洒_追剧","name":"追剧丨弹幕","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧弹幕.js"},
 
-{"key":"潇洒_木头","name":"木头丨1080","type":3,"api":"csp_Shark","ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=","jar":"https://tvbox.catvod.com/xs/spider.jar"},	
-{"key":"潇洒_世纪","name":"世纪丨1080","type":3,"api":"csp_Drama","ext":"saHR0cDovLzExMC40Mi40OS4xODg6OTkwMnxBTEhNWkpWVk9GVk5RMkhUT0VQRlpaRlhZV0gxRDJSTnwyQzFBMDZFMTk3RUYxMENGM0Y2MDU4Q0E3QTgwM0I1RXwyMA==","jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_图图","name":"图图丨1080","type":3,"api":"csp_APPTT","ext":"cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA==","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_梦米","name":"梦米丨弹幕","type":3,"api":"./lib/drpy2.min.js","ext":"./js/梦米弹幕.js"},
+{"key":"潇洒_小虎","name":"小虎丨弹幕","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/小虎斑弹幕.js"},
+{"key":"潇洒_三六","name":"三六丨弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
 
-{"key":"潇洒_蝴蝶","name":"蝴蝶丨1080","type":3,"api":"csp_Hudie","ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w","jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_永夜","name":"永夜丨1080","type":3,"api":"csp_Muou","ext":"caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44","jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_快看","name":"看快丨1080","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://kkwk123.top/api.php/app/","jar":"https://tvbox.catvod.com/xs/spider.jar"},
-
-{"key":"潇洒_虎虎","name":"虎虎丨1080","type":3,"api":"csp_AppHuhu","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_眼镜","name":"眼镜丨1080","type":3,"api":"csp_AppYanjing","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_良人","name":"良人丨1080","type":3,"api":"csp_LiangRenApp","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-	
-{"key":"潇洒_来看","name":"来看丨1080","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_看客","name":"看客丨1080","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_南瓜","name":"南瓜丨1080","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-
-{"key":"潇洒_奇优","name":"奇优丨1080","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dyxz2.com/","jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_电影","name":"电影丨1080","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json","jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_闹闹","name":"闹闹丨1080","type":3,"api":"csp_Xdai","searchable":1,"changeable":1,"ext":"caHR0cDovLzExMC40Mi4zLjE5NTo4OTg5fEQ2cTdoamI4N0ZKMDlGNzd8RDZxN2hqYjg3RkowOUY3Nw","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_机器","name":"机器丨弹幕","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_苹果","name":"苹果丨弹幕","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_韩圈","name":"韩圈丨1080P","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
 
 
-{"key":"饭佬_原创","name":"原创丨1080P","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_苹果","name":"苹果丨1080P","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_白白","name":"白白丨1080P","type":3,"api":"csp_Sbaibai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-
-{"key":"饭佬_糯米","name":"糯米丨1080P","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_文采","name":"文才丨1080P","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_在线","name":"在线丨1080P","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-
-{"key":"饭佬_比特","name":"比特丨1080P","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_低端","name":"低端丨1080P","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_木星","name":"木星丨1080P","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"},
-
-{"key":"饭佬_热播","name":"热播丨1080P","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_萌米","name":"萌米丨1080P","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg==","jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_欢视","name":"欢视丨1080P","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU=","jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-
-{"key":"饭佬_可可","name":"可可丨1080P","type":3,"api":"csp_Kekys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_厂长","name":"厂长丨1080P","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/","jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_奥特","name":"奥特丨1080P","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/","jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-
-{"key":"饭佬_巴士","name":"巴士丨1080P","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_异界","name":"异界丨1080P","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_日本","name":"日本丨1080P","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-
-{"key":"饭佬_贱贱","name":"荐片丨4K磁力","type":3,"api":"csp_JPJ","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
-{"key":"饭佬_新6V","name":"新6V丨4K磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/","jar":"./jar/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6"},
 
 
-{"key":"潇洒_雪糕","name":"雪糕丨1080","type":3,"api":"csp_XBPQ","ext":"./XBPQ/雪糕影视.json","jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_永乐","name":"永乐丨1080","type":3,"api":"csp_XBPQ","ext":"./XBPQ/永乐影视.json","jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_海纳","name":"海纳丨1080","type":3,"api":"csp_XBPQ","ext":"./XBPQ/海纳影视.json","jar":"https://tvbox.catvod.com/xs/spider.jar"},
 
-{"key":"潇洒_猎手","name":"猎手丨1080","type":3,"api":"./XBPQ/猎手影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_爱看","name":"爱看丨1080","type":3,"api":"csp_IkanBot","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_韩圈","name":"韩圈丨1080","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"饭佬_原创","name":"原创丨1080P","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_苹果","name":"苹果丨1080P","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_厂长","name":"厂长丨1080P","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/","jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
 
-{"key":"潇洒_瓜子","name":"瓜子丨1080","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_米兔","name":"米兔丨1080","type":3,"api":"csp_MiTuApp","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},	
-{"key":"潇洒_洽洽","name":"洽洽丨1080","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"饭佬_糯米","name":"糯米丨1080P","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_在线","name":"在线丨1080P","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_比特","name":"比特丨1080P","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
 
-{"key":"潇洒_客星","name":"客星丨1080","type":3,"api":"csp_Xdai","ext":"caHR0cDovLzIxMS45OS45OC40Nzo5OTk5L2FwaS50eHR8ZTQ2MWM3YzBlZjBiNmNkMXxlNDYxYzdjMGVmMGI2Y2QxfDEwNg==","jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_时常","name":"时常丨1080","type":3,"api":"csp_Xdai","ext":"jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
-{"key":"潇洒_雨滴","name":"雨滴丨1080","type":3,"api":"csp_Xdai","ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"饭佬_文采","name":"文才丨1080P","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_白白","name":"白白丨1080P","type":3,"api":"csp_Sbaibai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_低端","name":"低端丨1080P","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
 
-{"key":"潇洒_优质","name":"优质丨1080","type":3,"api":"csp_Xdai","ext":"jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA==","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"饭佬_港迷","name":"港迷丨1080P","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"filterable":1,"ext":"FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX","jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_南瓜","name":"南瓜丨1080P","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":2,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_木星","name":"木星丨1080P","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA==","jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+
+{"key":"饭佬_热播","name":"热播丨1080P","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_萌米","name":"萌米丨1080P","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg==","jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_欢视","name":"欢视丨1080P","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU=","jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+
+{"key":"饭佬_可可","name":"可可丨1080P","type":3,"api":"csp_Kekys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_奥特","name":"奥特丨1080P","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/","jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+
+
+
+
 
 	
+	
+{"key":"潇洒_酷影","name":"酷影丨1080P","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_影视","name":"影视丨1080P","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cs.hgyx.vip/api2/api.php/app/","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_猎手","name":"猎手丨1080P","type":3,"api":"./XBPQ/猎手影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_巧技","name":"巧技丨1080P","type":3,"api":"csp_qiao2","playerType":2,"ext":"./lib/cksp.txt","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_木头","name":"木头丨1080P","type":3,"api":"csp_Shark","ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_永夜","name":"永夜丨1080P","type":3,"api":"csp_Muou","ext":"caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_星河","name":"星河丨1080P","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_时常","name":"时常丨1080P","type":3,"api":"csp_Xdai","ext":"jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_雨滴","name":"雨滴丨1080P","type":3,"api":"csp_Xdai","ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_现代","name":"现代丨1080P","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_玉米","name":"玉米丨1080P","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL3NkeXMudXMvc2QudHh0fDdmOWI0OWRhZjkyOGNjZTd8N2Y5YjQ5ZGFmOTI4Y2NlN3w0NDI=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_优质","name":"优质丨1080P","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA==","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_木叶","name":"木叶丨1080P","type":3,"api":"csp_Xdai","playerType":2,"ext":"saHR0cDovL3d3dy56amMuYXBwfGFiNGU5YTQyMTY3NWYxNGJ8YWI0ZTlhNDIxNjc1ZjE0Ynw0NDI=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_蝴蝶","name":"蝴蝶丨1080P","type":3,"api":"csp_Hudie","ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_蚂蚁","name":"蚂蚁丨1080P","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"ext":"jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_快看","name":"看快丨1080P","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://kkwk123.top/api.php/app/","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_站长","name":"站长丨1080P","type":3,"api":"csp_AppGetApp","searchable":1,"quickSearch":0,"filterable":0,"ext":"w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KdacOcw57CrMKxw6DCqmbCnmPDpsKow6XCsMKywpRhYMKUwqfDl8Ozw7LDtGVewpPCn8Omwq3Cr8KvwrJsX8KRwqDDosKhw6rDocOqVVxSecOnw5zDrsOQw6nCpcKUUmrCm8KVwqbCm8OuwpzCoFJqwpvDjuWHv+mFoeaQn+WQllzlhpzkvYflkbDCreW/q+iov+i2vua7g+esicKNUsKlwpXCu8Oew61+wpXCqVLCs8KVw57DssOzwq3CpMKmwpHDqcOcw5vDqcOqwqzCqcKUwqPCm8KfwpzCusOfwqZ5wqZSwrPClcOew7LDs8KtwqTCpsKRw6nDnMObw6nDqsKswqnClMKjwpvDsA==","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_多多","name":"多多丨1080P","type":3,"api":"csp_AppGetApp","searchable":1,"quickSearch":0,"filterable":0,"ext":"w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgwrPCosKpwqvCq2ReaWnCp8KswrLCp8KuamppacKywqzCqcOaw6rCnF7CpMKow63CmsKmwpnCocKGwpnCpMKVw47DpcOmwqDCtFNXV1zCmcKaw4PDp8OjwqfCh8KfwqLDncKawrTCmcKhwpzCnsKZwqTDj8KkwqvCssKhX1BXwqTDosOjwqHCs8KaWsKL5Ya16YSY5pCe5ZGWwqblh6XkvpHlkKpq5b6h6Ke26La95ryD562Tw5bCoV9QV3HDnsOmw4XDnsOzWmpQV8OewqfCsMKqw51qwpNgwpXDn8Kjw5zCr8OdwpdhV1zCmcKawrvDnsOtfMKmV2rCmcKaw5/CrcKwZMKTZ8KTwqnDmMOgwqnDnGnCk8KUYcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7LDlMOpw7DDm8KhwpdgYcKrwqnCocO2","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_悠悠","name":"悠悠丨1080P","type":3,"api":"csp_AppGetApp","searchable":1,"quickSearch":0,"filterable":0,"ext":"w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDgsOhw6PDrcORwqLCosKUV8KzwpPCocOiw6jCnMKkwoZhwqrCrMKhwqXCmlrCpMKZwqDCoMKtwprCoMOV5Ya46YSY5o+V5ZCTwqXlh5/kvpHlkbDCtOW+pOintui1tOa7gOetksOQwqHCpcKaWnHClcKjw4TDmMOzwqDCtFNXdMKow7DCvMOtw63DrMKXwofCksKJw6nDlcOmw7DDqFpcUFfCusOYw63DgsOwWmpQV8K9w6vDscOCw63Cp8KiwpTCh8Obw4zDqsObw6bCqsKeV1zCmcKaw43DosOuwpjChcKiwpzCoMKtwprCoMOiwqfCpMKgasKowqLCq8KuwrBhYmJlwqfCpsKqwqfCsGhqZWXCr8KpwqnDmsOqwpxewqDCmMOpwprCpsKZwqHCl8KVwpPCosOyw6PDrsOEw5/CrFdqUMKgw6zDm8Oow7HClMKewpdgwqrCpcKwwqDDtw==","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_良人","name":"良人丨1080P","type":3,"api":"csp_AppGetApp","searchable":1,"quickSearch":0,"filterable":0,"ext":"w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDpsKcwpHCnsKXw6vDmMOowqbCq2ZhZ2fCqsKqwrDCscKsYcKTwp/Co8Knw5TDqsKmw6HCqMKRwp7Cl8Ozw5vDqcOuwqjCoMKpwqHCk8Olw6LDr8OdwqjClsKfwp1fw6XDnMObw6fDocKlwpXCnl7DrcOrw67CoMKmU1fCg8KZw63DmMOPw6vDplpqUFfCoMKfwprCoMOuwpzCoFdqwpnCmsOV5Ye+6YWi5o+Y5ZCTXOWGnOS+kOWRqsK05b+q6KmA6LW35ruA56yJwo3CoMKfwprCoMK7wpjCo3vClcOywprCtMKZwqF3ZsKhZ8Ohw53DnMKxwrF5emBpwr/CqsKxwqDCplNXccKVw6zCvMOwwqDCtFNXdGbDqsKqw6LDo8Oca2d2esKpwqzDgMKwwrFaXFBXw53DmMOdw6vDs8KjwqR7wpXDssKawrTCmcKhwqzCkcKfwqfDmsOhw6HCqcKrZWZXwq0=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_云播","name":"云播丨1080P","type":3,"api":"csp_AppGetApp","searchable":1,"quickSearch":0,"filterable":0,"ext":"w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fw6DDmMOuw5rDqsKjXsKkwqbDssOVw5vDqcOqYcKTwp/CncKow5TDqsOiwqjCo8KYwqBXwqXCk8Khw4LDqMKcwqTCh8Kfw6vDl8KhwrPCmlrCmcKewpnDrcOJwqvCqsKzWlxQV8Otw5zDqsKgwrRTV8KL5Ya16YWh5pCY5ZGdwqXlh6bkvYrlkKdq5b6h6Ki/6La35ryK562Sw5daXFBXwrrDmMOtw4TDn8KsV2pQwqDDoMOjw5zDpWVkZWjDpsOcw53DpMKsZ2VoV8KlwpPCocK6w5/CpnnCplfCs8KTwqHDpsOjwpbCm2Jkwq7Cq8Onw6LDncKeYmRlwrHCmsKmwpnCocKbwpXCkcKUw57DpcOtwqDCtFPCq1fCpcOsw5jDrMKmw5vCmsKVwp7CpMKgwq3CmsKgw4fCosKqwpnCnMOlw5TCqcKuwqhjUFjCh8Oiw6HDnsOow7HCplB+woTCmcKkwqrCp8KqblDCh8KZw6fCqcKuwrTCmsKrZmRZwpnCtMOqw6nDpsKYwofClcKSw4TDnMOuwqjCr2ZnXmPCr8KTwqLDhMOCwod9fFzCmcOfw6PDpMOfU3fClcKTw6TDosKjwpnCvcKbwqLCn8Kdw57CosKrwqrCrGFgXmDCp8KjwprDjMObwpnCkcKiwpnCqMKowq3CsMKoZmZXXMKZwprDm8Olw6bCosKnc8Kiw6jDpsOtw4nDrMKiwqTCn8KTw6jDn8OMw57DnsKcwqLClcKTw63DpsKhwrPCmsKHwqLCpcKVw7bCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDssOUw6nDsMObwqHCl2BhwqvCqcKhw7Y=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_洽洽","name":"洽洽丨1080P","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY=","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_忍者","name":"忍者丨1080P","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"KhY021WelCEl+6MsvwnzaLK5sgGhHBhBszPP7EvqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA==","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_尘落","name":"尘落丨1080P","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+	
+{"key":"潇洒_眼镜","name":"眼镜丨1080P","type":3,"api":"csp_AppYanjing","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_米兔","name":"米兔丨1080P","type":3,"api":"csp_MiTuApp","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_麻花","name":"麻花丨1080P","type":3,"api":"csp_MaHuaApp","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+	
+{"key":"潇洒_电影","name":"电影丨1080P","type":3,"api":"csp_MovieApp","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_兄弟","name":"兄弟丨1080P","type":3,"api":"csp_XiongDiApp","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_小猫","name":"小猫丨1080P","type":3,"api":"csp_XiaoMaoApp","searchable":1,"quickSearch":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_西瓜","name":"西瓜丨1080P","type":3,"api":"csp_AmuXiguaV2","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_爱看","name":"爱看丨1080P","type":3,"api":"csp_IkanBot","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_农民","name":"农民丨1080P","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.wwgz.cn","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_低端","name":"低端丨1080P","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_快看","name":"快看丨1080P","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_饭团","name":"饭团丨1080P","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_来看","name":"来看丨1080P","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_樱花","name":"樱花丨1080P","type":3,"api":"csp_Lggys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_看客","name":"看客丨1080P","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_全网","name":"全网丨1080P","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.91qkw.com","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_奇优","name":"奇优丨1080P","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dyxz2.com/","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_骚火","name":"骚火丨1080P","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_瓜子","name":"瓜子丨1080P","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_金牌","name":"金牌丨1080P","type":3,"api":"csp_WebJP","searchable":1,"quickSearch":1,"filterable":1,"ext":"KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww==","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_耐看","name":"耐看丨1080P","type":3,"api":"csp_WebNK","searchable":1,"quickSearch":1,"filterable":1,"ext":"w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw==","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_真心","name":"真心丨1080P","type":3,"api":"csp_WebGZ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_一九","name":"一九丨1080P","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_电影","name":"电影丨1080P","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+{"key":"潇洒_雪糕","name":"雪糕丨1080P","type":3,"api":"csp_XBPQ","ext":"./XBPQ/雪糕影视.json","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_永乐","name":"永乐丨1080P","type":3,"api":"csp_XBPQ","ext":"./XBPQ/永乐影视.json","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+{"key":"潇洒_海纳","name":"海纳丨1080P","type":3,"api":"csp_XBPQ","ext":"./XBPQ/海纳影视.json","jar":"https://tvbox.catvod.com/xs/spider.jar"},
+
+
+
+
+	
+
+
+{"key":"饭佬_巴士","name":"巴士丨1080P","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_异界","name":"异界丨1080P","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_日本","name":"日本丨1080P","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+
+{"key":"饭佬_贱贱","name":"荐片丨4K磁力","type":3,"api":"csp_JPJ","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+{"key":"饭佬_新6V","name":"新6V丨4K磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/","jar":"./jar/fan.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"},
+
+
+
+
+
+
+
 
 
 {"key":"张群_克隆","name":"合集丨克隆","type":4,"api":"http://zhangqun66.com/klhj.php","searchable":1,"quickSearch":1,"style":{"type":"rect","ratio":1.33},"changeable":1,"filterable":0},
@@ -152,7 +212,7 @@
 {"key":"张群_索尼","name":"索尼丨克隆","type":4,"api":"http://jg.zhangqun66.com/sn.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"张群_短剧","name":"短剧丨克隆","type":4,"api":"http://jg.zhangqun66.com/ww.php","searchable":1,"quickSearch":1,"filterable":0},
 
-	
+
 {"key":"逗比_黑木","name":"黑木丨1080P","type":4,"api":"https://spider.doube.eu.org/spider?site=HeiMuEr","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"逗比_界影","name":"界影丨1080P","type":3,"api":"https://json.doube.eu.org/python/py_jieyingshi.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"逗比_爱瓜","name":"爱瓜丨1080P","type":4,"api":"https://spider.doube.eu.org/spider?site=AiGuaTV","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
@@ -161,7 +221,7 @@
 {"key":"逗比_动漫","name":"动漫丨1080P","type":4,"api":"https://py.doube.eu.org/spider?site=Dm84","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"逗比_八号","name":"八号丨1080P","type":4,"api":"https://py.doube.eu.org/spider?site=BaHaoTV","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 
-	
+
 {"key":"唐三_独播","name":"独播丨1080P","type":4,"api":"https://tang.hz.cz/power/duboku?token=c3799fd7","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"唐三_欧乐","name":"欧乐丨1080P","type":4,"api":"https://tang.hz.cz/power/olelive?token=c3799fd7","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"唐三_安博","name":"安博丨1080P","type":4,"api":"https://tang.hz.cz/power/ub18?token=c3799fd7","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
