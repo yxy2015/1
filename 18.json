@@ -3,38 +3,10 @@
 
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
-{
-"name":"无敌",
-"type":0,
-"url":"https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/无敌.m3u",
-"ua":"okhttp/3.15",
-"epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-},
-{
-"name":"经典",
-"type":0,
-"url":"https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/经典.m3u",
-"ua":"okhttp/3.15",
-"epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-},
-{
-"name":"珍藏",
-"type":0,
-"url":"https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/珍藏.m3u",
-"ua":"okhttp/3.15",
-"epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-},
-{
-"name":"绝品",
-"type":0,
-"url":"https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/绝品.txt",
-"ua":"okhttp/3.15",
-"epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-}
+{"name":"无敌","type":0,"url":"https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/无敌.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"经典","type":0,"url":"https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/经典.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"珍藏","type":0,"url":"https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/珍藏.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"绝品","type":0,"url":"https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/绝品.txt","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"}
 ],
 
 
