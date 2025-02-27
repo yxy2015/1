@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",
+"spider":"./jar/fan.txt;md5;925a350dec8cef32186a919fe28e2fe4",
 "wallpaper":"https://深色壁纸.xxooo.cf",
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives":[
@@ -29,9 +29,9 @@
 
 {"key":"潇洒_短剧","name":"星芽丨短剧①","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":1,"jar":"./jar/spider.jar;md5;5400486b7884dd01de5a306e34724c3c"},
 {"key":"潇洒_河马","name":"河马丨短剧②","type":3,"api":"csp_AppHMDJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw==","jar":"./jar/spider.jar;md5;5400486b7884dd01de5a306e34724c3c"},
-{"key":"潇洒_爱我","name":"爱我丨短剧③","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/爱我短剧.json","jar":"./jar/spider.jar;md5;5400486b7884dd01de5a306e34724c3c"},
+{"key":"潇洒_爱我","name":"爱我丨短剧③","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/爱我短剧.json","jar":"./jar/spider.jar;md5;5400486b7884dd01de5a306e34724c3c"},
 	
-{"key":"潇洒_合集","name":"短剧丨合集④","type":3,"api":"./lib/quark.min.js","ext":"./lib/短剧合集.js","style":{"type":"list"}},
+{"key":"潇洒_合集","name":"短剧丨合集④","type":3,"api":"./lib/quark.min.js","ext":"./js/短剧合集.js","style":{"type":"list"}},
 {"key":"潇洒_蓝莓","name":"蓝莓丨短剧⑤","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/蓝莓短剧.js"},
 {"key":"老张_短剧","name":"短剧丨短剧⑥","type":1,"api":"http://zhangqun1818.serv00.net:5052","searchable":1,"quickSearch":1},
 //{"key":"未知_短剧","name":"短剧丨短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod","searchable":1,"quickSearch":1},
