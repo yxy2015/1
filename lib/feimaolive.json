@@ -1,5 +1,4 @@
 [
-    {"name":"1","url":"http://127.0.0.1:10079/c/3600/proxy/http://lh-jy.cn:6666/1/js/18/%E5%AE%8C%E6%95%B4%E7%89%88.m3u"},
 	{"name":"范明明IPV6","url":"http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"},
 	{"name":"最强国内直播","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u"},
 	{"name":"PandaGo投屏直播接收记录","url":"http://127.0.0.1:10079/dlnam3u/tv.m3u"},
