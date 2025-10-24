@@ -1,0 +1,13 @@
+{
+"plugins":[
+	{"name":"QQ音乐","url":"http://lh-jy.cn:6666/1/1/QQ音乐_0.2.5.js","version":"0.2.5"},
+{"name":"千千音乐","url":"http://lh-jy.cn:6666/1/1/千千音乐_0.1.1.js","version":"0.1.1"},
+{"name":"网易云音乐","url":"http://lh-jy.cn:6666/1/1/网易云音乐_0.2.3.js","version":"0.2.3"},
+{"name":"猫耳FM","url":"http://lh-jy.cn:6666/1/1/猫耳FM_0.1.4.js","version":"0.1.4"},
+	  {"name":"酷我","url":"http://lh-jy.cn:6666/1/1/酷我_0.1.7.js","version":"0.1.7"}
+
+
+
+
+
+]}
