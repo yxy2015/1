@@ -69,6 +69,7 @@
 {"key":"无图","name":"🔞5区无图","type":3,"api":"./js/18/五区.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"91rb","name":"🔞91rb","type":3,"api":"./js/18/91rb.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"好色TV","name":"🔞好色TV","type":3,"api":"./js/18/好色TV.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"javxx","name":"🔞javxx","type":3,"api":"./js/18/javxx.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 {"key":"139fm多分类","name":"🔞有声小说","type":3,"api":"./js/18/139fm多分类.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"黄色仓库(1)","name":"🔞黄色仓库(1)","type":3,"api":"./js/18/黄色仓库(1).py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
