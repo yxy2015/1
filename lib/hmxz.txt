@@ -1,1 +1,1 @@
-bbs_token=5kkfUlpdcQLdXUK8fa77EIq9zf0o_2FKzBfGcXhGQhq2EZvNRx; bbs_sid=111pslniirs2ot6c2ticbloc94; _xn_accesscount_visited=1
+guard=IkTeu0uhTk1otL69krDowQ==; guardret=747.0; bbs_sid=bkvg76lj878uifcblmn582qfl7; server_name_session=e50f75eda39c9a05cc8fe4c78c4b73a4; _xn_accesscount_visited=1; bbs_token=OMmvCGscRou_2BuzRIyOImPlblQNo9uDNtDQEDSUHgTTPUsauG
