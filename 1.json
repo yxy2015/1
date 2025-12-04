@@ -1,5 +1,5 @@
 {
-"spider":"./jar/spider.jar;md5;ad2a62ad5d670acc07be94f86df8ebcf",
+"spider":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "logo":"./lib/1.gif",
 "lives":[
@@ -16,7 +16,7 @@
 ],
 
 "sites":[
-{"key":"悟空_悟空","name":"悟空搜索ㅤ😃更新：2025年11月😃ㅤ🈲切勿信视频内广告🈲","type":3,"api":"./js/lf_search3_min.js","searchable":0,"changeable":0,"indexs":1},
+{"key":"饭佬_豆瓣","name":"豆瓣搜索ㅤ😃更新：2025年12月😃ㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDouGuard","searchable":0,"changeable":0,"indexs":1},
 {"key":"潇洒_配置","name":"网盘丨配置丨中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.597},"jar":"./jar/spider.jar;md5;ad2a62ad5d670acc07be94f86df8ebcf"},	
 {"key":"屁股_央视","name":"央视","type":3,"api":"./js/drpy2.min.js","searchable":0,"filterable":0,"ext":"./js/央视大全.js"},
 
@@ -32,17 +32,17 @@
 {"key":"潇洒_中学","name":"中学","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/初中课堂.json"},"timeout":20,"jar":"./jar/spider.jar;md5;ad2a62ad5d670acc07be94f86df8ebcf"},
 {"key":"潇洒_高中","name":"高中","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/高中课堂.json"},"timeout":20,"jar":"./jar/spider.jar;md5;ad2a62ad5d670acc07be94f86df8ebcf"},
 
-{"key":"饭佬_音乐","name":"易听丨音乐①","type":3,"api":"csp_MusicGuard","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_歌曲","name":"明星丨音乐②","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"},"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
+{"key":"饭佬_音乐","name":"易听丨音乐①","type":3,"api":"csp_MusicGuard","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"饭佬_歌曲","name":"明星丨音乐②","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},
 {"key":"潇洒_歌曲","name":"哔站丨音乐③","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩演唱会.json"},"timeout":20,"jar":"./jar/spider.jar;md5;ad2a62ad5d670acc07be94f86df8ebcf"},
 
-{"key":"饭佬_直播","name":"游戏丨直播①","type":3,"api":"csp_AllliveGuard","searchable":0,"filterable":0,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_虎牙","name":"虎牙丨直播②","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_斗鱼","name":"斗鱼丨直播③","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
+{"key":"饭佬_直播","name":"游戏丨直播①","type":3,"api":"csp_AllliveGuard","searchable":0,"filterable":0},
+{"key":"饭佬_虎牙","name":"虎牙丨直播②","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"饭佬_斗鱼","name":"斗鱼丨直播③","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
 
-{"key":"饭佬_超全","name":"体育丨直播①","type":3,"api":"csp_ZbzGuard","searchable":0,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q==","jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_八八","name":"体育丨直播②","type":3,"api":"csp_Sir88Guard","searchable":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_看球","name":"体育丨直播③","type":3,"api":"csp_KanqiuGuard","searchable":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
+{"key":"饭佬_超全","name":"体育丨直播①","type":3,"api":"csp_ZbzGuard","searchable":0,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
+{"key":"饭佬_八八","name":"体育丨直播②","type":3,"api":"csp_Sir88Guard","searchable":0,"changeable":0,"style":{"type":"list"}},
+{"key":"饭佬_看球","name":"体育丨直播③","type":3,"api":"csp_KanqiuGuard","searchable":0,"changeable":0,"style":{"type":"list"}},
 
 {"key":"老张_旺旺","name":"旺旺丨短剧①","type":4,"api":"http://zhangqun1818.serv00.net/ww.php","style":{"type":"rect","ratio":1.33},"ext":"0","searchable":1,"quickSearch":1},
 {"key":"潇洒_星芽","name":"星芽丨短剧②","type":3,"api":"./py/星芽短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
@@ -61,22 +61,22 @@
 
 
 
-{"key":"饭佬_厂长","name":"厂长丨饭佬","type":3,"api":"csp_NewCzGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_苹果","name":"苹果丨饭佬","type":3,"api":"csp_LiteAppleGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_文采","name":"文采丨饭佬","type":3,"api":"csp_JpysGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_原创","name":"原创丨饭佬","type":3,"api":"csp_YCyzGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_比特","name":"比特丨饭佬","type":3,"api":"csp_BttwooGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_热播","name":"热播丨饭佬","type":3,"api":"csp_AppTTGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU=","jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_剧圈","name":"剧圈丨饭佬","type":3,"api":"csp_JqqGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_下饭","name":"下饭丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A==","jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_鲸鱼","name":"鲸鱼丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p","jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_桔子","name":"桔子丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg==","jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_欢视","name":"欢视丨饭佬","type":3,"api":"csp_AppTTGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU=","jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_糯米","name":"糯米丨饭佬","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_奥特","name":"奥特丨饭佬","type":3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/","jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_巴士","name":"巴士丨饭佬","type":3,"api":"csp_Dm84Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_异界","name":"异界丨饭佬","type":3,"api":"csp_YsjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
-{"key":"饭佬_动漫","name":"日本丨饭佬","type":3,"api":"csp_Anime1Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;403a59bd559cc36fe67544e5de66e774"},
+{"key":"饭佬_厂长","name":"厂长丨饭佬","type":3,"api":"csp_NewCzGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_苹果","name":"苹果丨饭佬","type":3,"api":"csp_LiteAppleGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1"},
+{"key":"饭佬_文采","name":"文采丨饭佬","type":3,"api":"csp_JpysGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_原创","name":"原创丨饭佬","type":3,"api":"csp_YCyzGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_比特","name":"比特丨饭佬","type":3,"api":"csp_BttwooGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_热播","name":"热播丨饭佬","type":3,"api":"csp_AppTTGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
+{"key":"饭佬_剧圈","name":"剧圈丨饭佬","type":3,"api":"csp_JqqGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_下饭","name":"下饭丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="},
+{"key":"饭佬_鲸鱼","name":"鲸鱼丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p"},
+{"key":"饭佬_桔子","name":"桔子丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="},
+{"key":"饭佬_欢视","name":"欢视丨饭佬","type":3,"api":"csp_AppTTGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU="},
+{"key":"饭佬_糯米","name":"糯米丨饭佬","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_奥特","name":"奥特丨饭佬","type":3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
+{"key":"饭佬_巴士","name":"巴士丨饭佬","type":3,"api":"csp_Dm84Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_异界","name":"异界丨饭佬","type":3,"api":"csp_YsjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_动漫","name":"日本丨饭佬","type":3,"api":"csp_Anime1Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 
 
 
