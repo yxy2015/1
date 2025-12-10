@@ -38,11 +38,10 @@
 "sites":[
 {"key":"合集","name":"😍点击😍更换😍更多😍资源😍","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0,"indexs":1},
 {"key":"js_madou","name":"麻豆(js)","type":3,"api":"./js/18/json/麻豆.min.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":{}},
-{"key":"js_madou","name":"樱花(js)","type":3,"api":"./js/18/json/樱花视频.min.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":{}},
+{"key":"js_madou1","name":"樱花(js)","type":3,"api":"./js/18/json/樱花视频.min.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":{}},
 
 {"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/黄色仓库.js"},
 {"key":"JAVXX（优）","name":"🔞JAVXX（优）","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/JAVXX（优）.js"},
-{"key":"肉视频","name":"🔞肉视频","type":3,"api":"./js/18/肉视频.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"lsp传媒","name":"🔞lsp传媒","type":3,"api":"./js/18/lsp传媒.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"福利","name":"🔞福利","type":0,"api":"https://155api.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
 {"key":"miss","name":"🔞Miss","type":4,"api":"https://py.doube.eu.org/spider?site=Miss","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
