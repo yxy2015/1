@@ -14,12 +14,20 @@
 			"type_name":"ISO,原盘"
 		},
 		{
+			"type_id":"quark",
+			"type_name":"夸克"
+		},
+		{
 			"type_id":"ali",
 			"type_name":"阿里"
 		},
 		{
-			"type_id":"quark",
-			"type_name":"夸克"
+			"type_id":"189",
+			"type_name":"189"
+		},
+		{
+			"type_id":"tianyi",
+			"type_name":"天翼"
 		},
 		{
 			"type_id":"uc.cn",
@@ -28,10 +36,6 @@
 		{
 			"type_id":"123",
 			"type_name":"123"
-		},
-		{
-			"type_id":"189",
-			"type_name":"189"
 		},
 		{
 			"type_id":"LIST:115,anxia",
