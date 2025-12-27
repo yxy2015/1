@@ -32,17 +32,9 @@
 {"key":"潇洒_中学","name":"中学","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/初中课堂.json"},"timeout":20,"jar":"./jar/spider.jar;md5;ba0f40a91b0b2c3294dfaf60b823e217"},
 {"key":"潇洒_高中","name":"高中","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/高中课堂.json"},"timeout":20,"jar":"./jar/spider.jar;md5;ba0f40a91b0b2c3294dfaf60b823e217"},
 
-{"key":"饭佬_小说","name":"有声丨小说①","type":3,"api":"csp_Tingshu275Guard","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
-{"key":"饭佬_音乐","name":"易听丨音乐②","type":3,"api":"csp_MusicGuard","style":{"type":"rect","ratio":1},"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
-{"key":"饭佬_歌曲","name":"明星丨音乐③","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"},"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
-
-{"key":"饭佬_直播","name":"游戏丨直播①","type":3,"api":"csp_AllliveGuard","searchable":1,"filterable":1,"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
-{"key":"饭佬_虎牙","name":"虎牙丨直播②","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
-{"key":"饭佬_斗鱼","name":"斗鱼丨直播③","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
-
-{"key":"饭佬_超全","name":"体育丨直播①","type":3,"api":"csp_ZbzGuard","searchable":1,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q==","jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
-{"key":"饭佬_八八","name":"体育丨直播②","type":3,"api":"csp_Sir88Guard","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
-{"key":"饭佬_看球","name":"体育丨直播③","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
+{"key":"饭佬_歌曲","name":"明星丨音乐①","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"},"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
+{"key":"饭佬_小说","name":"有声丨小说②","type":3,"api":"csp_Tingshu275Guard","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
+{"key":"饭佬_音乐","name":"易听丨音乐③","type":3,"api":"csp_MusicGuard","style":{"type":"rect","ratio":1},"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
 
 {"key":"聚合_短剧","name":"聚合丨短剧〇","type":3,"api":"./js/聚合短剧.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 {"key":"潇洒_锦鲤","name":"锦鲤丨短剧①","type":3,"api":"csp_JinliDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider.jar;md5;ba0f40a91b0b2c3294dfaf60b823e217"},
@@ -56,6 +48,13 @@
 {"key":"潇洒_番茄","name":"番茄丨短剧⑦","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/番茄短剧.json","jar":"./jar/spider.jar;md5;ba0f40a91b0b2c3294dfaf60b823e217"},
 {"key":"潇洒_河马","name":"河马丨短剧⑧","type":3,"api":"./py/河马短剧.py","searchable":1,"quickSearch":1,"changeable":1},
 
+{"key":"饭佬_直播","name":"游戏丨直播①","type":3,"api":"csp_AllliveGuard","searchable":1,"filterable":1,"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
+{"key":"饭佬_斗鱼","name":"斗鱼丨直播②","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
+{"key":"饭佬_虎牙","name":"虎牙丨直播③","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
+
+{"key":"饭佬_超全","name":"体育丨直播①","type":3,"api":"csp_ZbzGuard","searchable":1,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q==","jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
+{"key":"饭佬_八八","name":"体育丨直播②","type":3,"api":"csp_Sir88Guard","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
+{"key":"饭佬_看球","name":"体育丨直播③","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"},
 
 
 	
@@ -99,11 +98,6 @@
 
 	
 {"key":"潇洒_热播","name":"热播丨APP","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"},"jar":"./jar/spider.jar;md5;ba0f40a91b0b2c3294dfaf60b823e217"},
-{"key":"潇洒_三六","name":"三六丨视频","type":3,"api":"csp_SP360","jar":"./jar/spider.jar;md5;ba0f40a91b0b2c3294dfaf60b823e217"},
-{"key":"潇洒_优酷","name":"优酷丨视频","type":3,"api":"./js/drpy2.min.js","ext":"./js/优酷视频.js"},
-{"key":"潇洒_腾讯","name":"腾讯丨视频","type":3,"api":"./js/drpy2.min.js","ext":"./js/腾讯视频.js"},
-{"key":"潇洒_芒果","name":"芒果丨视频","type":3,"api":"./js/drpy2.min.js","ext":"./js/芒果视频.js"},
-{"key":"潇洒_奇艺","name":"爱奇艺丨视频","type":3,"api":"./js/drpy2.min.js","ext":"./js/爱奇艺.js"},
 	
 {"key":"潇洒_厂长","name":"厂长丨影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"https://www.czzymovie.com/","jar":"./jar/spider.jar;md5;ba0f40a91b0b2c3294dfaf60b823e217"},
 {"key":"潇洒_牌牌","name":"金牌丨影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"ext":"https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
