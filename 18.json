@@ -37,7 +37,8 @@
 
 "sites":[
 //{"key":"合集","name":"😍点击😍更换😍更多😍资源😍","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0,"indexs":1},
-{"key":"0007cg","name":"😍点击😍更换😍更多😍资源😍","type":4,"api":"https://learnpython.ggff.net/0007cg","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"老张_采集","name":"😍点击😍更换😍更多😍资源😍","type":4,"api":"http://zhangqun1818.serv00.net/cj/cjjh.php","style":{"type":"rect","ratio":1.33},"ext":"2","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"0007cg","name":"0007cg","type":4,"api":"https://learnpython.ggff.net/0007cg","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"51cg","name":"🔞51丨吃瓜","type":4,"api":"https://learnpython.ggff.net/51xiG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"今日cg","name":"🔞今日丨吃瓜","type":4,"api":"https://learnpython.ggff.net/JRKliao","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"911cg","name":"🔞911丨吃瓜","type":4,"api":"https://learnpython.ggff.net/911BaoLiao","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -50,7 +51,6 @@
 {"key":"lsp传媒","name":"🔞lsp传媒","type":3,"api":"./js/18/lsp传媒.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"福利","name":"🔞福利","type":0,"api":"https://155api.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
 {"key":"一区","name":"🔞一区","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/18/json/一区.json"},
-{"key":"老张_采集","name":"采集丨涩涩","type":4,"api":"http://zhangqun1818.serv00.net/cj/cjjh.php","style":{"type":"rect","ratio":1.33},"ext":"0","searchable":1,"quickSearch":1,"changeable":1},
 
 
 {"key":"牛皮","name":"🔞牛皮","type":3,"api":"./js/18/lavAPP.py","searchable":1,"quickSearch":1,"ext":{"site":"http://sir_new.tiansexyl.tv","cfproxy":"https://18.337898581.xyz/?url=","cfgo":"","plp":"","proxy":{"http":"","https":""}}},
@@ -87,6 +87,8 @@
 {"key":"无图","name":"🔞5区无图","type":3,"api":"./js/18/五区.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 
+{"key":"missav.js","name":"missav.js","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/missav.js"},
+{"key":"py_stripchat","name":"🔞py_stripchat","type":3,"api":"./js/18/py_stripchat.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 {"key":"1黄色仓库","name":"🔞1黄色仓库","type":3,"api":"./js/18/黄色仓库.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
