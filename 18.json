@@ -2,66 +2,41 @@
 "wallpaper":"https://www.252035.xyz/imgs",
 "logo":"./lib/1.gif",
 "lives":[
-{"name":"【😍点击😍这里😍更多😍资源😍】","type":0,"url":"./js/18/1/18TV.txt"},
-{"name":"牛逼的很1","type":0,"url":"./js/18/1/瑟瑟1.m3u.txt"},
-{"name":"牛逼的很2","type":0,"url":"./js/18/1/瑟瑟2.m3u.txt"},
-{"name":"牛逼的很3","type":0,"url":"./js/18/1/瑟瑟3.m3u.txt"},
-{"name":"牛逼的很4","type":0,"url":"./js/18/1/瑟瑟4.m3u.txt"},
-{"name":"牛逼的很5","type":0,"url":"./js/18/1/瑟瑟5.m3u.txt"},
-{"name":"牛逼的很6","type":0,"url":"./js/18/1/瑟瑟6.m3u.txt"},
-{"name":"牛逼的很7","type":0,"url":"./js/18/1/瑟瑟7.m3u.txt"},
-{"name":"牛逼的很8","type":0,"url":"./js/18/1/瑟瑟8.m3u.txt"},
-{"name":"牛逼的很9","type":0,"url":"./js/18/1/瑟瑟9.m3u.txt"},
-{"name":"牛逼的很10","type":0,"url":"./js/18/1/瑟瑟10.m3u.txt"},
-{"name":"牛逼的很11","type":0,"url":"./js/18/1/瑟瑟11.m3u.txt"},
-{"name":"牛逼的很12","type":0,"url":"./js/18/1/瑟瑟12.m3u.txt"},
-{"name":"牛逼的很13","type":0,"url":"./js/18/1/瑟瑟13.m3u.txt"},
-{"name":"牛逼的很14","type":0,"url":"./js/18/1/瑟瑟14.m3u.txt"},
-{"name":"牛逼的很15","type":0,"url":"./js/18/1/瑟瑟15.m3u.txt"},
-{"name":"牛逼的很16","type":0,"url":"./js/18/1/瑟瑟16.m3u.txt"},
-{"name":"牛逼的很17","type":0,"url":"./js/18/1/瑟瑟17.m3u.txt"},
-{"name":"牛逼的很18","type":0,"url":"./js/18/1/瑟瑟18.m3u.txt"},
-{"name":"牛逼的很19","type":0,"url":"./js/18/1/瑟瑟19.m3u.txt"},
-{"name":"牛逼的很20","type":0,"url":"./js/18/1/瑟瑟20.m3u.txt"},
-{"name":"牛逼的很21","type":0,"url":"./js/18/1/瑟瑟21.m3u.txt"},
-{"name":"牛逼的很22","type":0,"url":"./js/18/1/瑟瑟22.m3u.txt"},
-{"name":"牛逼的很23","type":0,"url":"./js/18/1/瑟瑟23.m3u.txt"},
-{"name":"牛逼的很24","type":0,"url":"./js/18/1/瑟瑟24.m3u.txt"},
-{"name":"牛逼的很25","type":0,"url":"./js/18/1/瑟瑟25.m3u.txt"},
-{"name":"牛逼的很26","type":0,"url":"./js/18/1/瑟瑟26.m3u.txt"},
-{"name":"牛逼的很27","type":0,"url":"./js/18/1/瑟瑟27.m3u.txt"},
-{"name":"牛逼的很28","type":0,"url":"./js/18/1/瑟瑟28.m3u.txt"},
-{"name":"黄色仓库仓库","type":0,"url":"./js/18/1/黄色仓库.txt"}
+{"name":"【😍点击😍这里😍更多😍资源😍】","type":0,"url":"./js/18/1/麻豆图标版.m3u"},
+{"name":"牛逼的很1","type":0,"url":"./js/18/1/黄色仓库.txt"},
+{"name":"牛逼的很2","type":0,"url":"./js/18/1/18+千部独家传媒无水印.txt"}
 
 ],
 
 "sites":[
 //{"key":"合集","name":"😍点击😍更换😍更多😍资源😍","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0,"indexs":1},
 {"key":"老张_采集","name":"😍点击😍更换😍更多😍资源😍","type":4,"api":"http://zhangqun1818.serv00.net/cj/cjjh.php","style":{"type":"rect","ratio":1.33},"ext":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"0007cg","name":"0007cg","type":4,"api":"https://learnpython.ggff.net/0007cg","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"51cg","name":"🔞51丨吃瓜","type":4,"api":"https://learnpython.ggff.net/51xiG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"今日cg","name":"🔞今日丨吃瓜","type":4,"api":"https://learnpython.ggff.net/JRKliao","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"911cg","name":"🔞911丨吃瓜","type":4,"api":"https://learnpython.ggff.net/911BaoLiao","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"sbjhpy","name":"🔞中国丨大秀","type":4,"api":"https://learnpython.ggff.net/sbjhpy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"omdxzb","name":"🔞欧美丨大秀","type":4,"api":"https://learnpython.ggff.net/cam4","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
+{"key":"福利","name":"福利","type":0,"api":"https://155api.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
 {"key":"麻豆(js)","name":"麻豆(js)","type":3,"api":"./js/18/json/麻豆.min.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":{}},
 {"key":"樱花(js)","name":"樱花(js)","type":3,"api":"./js/18/json/樱花视频.min.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":{}},
-{"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/黄色仓库.js"},
+{"key":"黄色仓库","name":"黄色仓库","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/黄色仓库.js"},
 {"key":"lsp传媒","name":"🔞lsp传媒","type":3,"api":"./js/18/lsp传媒.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"福利","name":"🔞福利","type":0,"api":"https://155api.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
+	
 {"key":"一区","name":"🔞一区","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/18/json/一区.json"},
-
-
 {"key":"牛皮","name":"🔞牛皮","type":3,"api":"./js/18/lavAPP.py","searchable":1,"quickSearch":1,"ext":{"site":"http://sir_new.tiansexyl.tv","cfproxy":"https://18.337898581.xyz/?url=","cfgo":"","plp":"","proxy":{"http":"","https":""}}},
 {"key":"香蕉","name":"🔞香蕉","type":3,"api":"./js/18/香蕉.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"红薯","name":"🔞红薯","type":3,"api":"./js/18/小红薯APP.py","searchable":1,"quickSearch":1},
 {"key":"DSYS","name":"🔞DSYS","type":3,"api":"./js/18/DSYS.py","searchable":1,"quickSearch":1},
 {"key":"推特","name":"🔞推特","type":3,"api":"./js/18/推特APP.py","searchable":1,"quickSearch":1},
 {"key":"51吸瓜","name":"🔞51吸瓜","type":3,"api":"./js/18/51吸瓜动态版.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"51cg","name":"🔞51丨吃瓜","type":4,"api":"https://learnpython.ggff.net/51xiG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"今日cg","name":"🔞今日丨吃瓜","type":4,"api":"https://learnpython.ggff.net/JRKliao","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"sbjhpy","name":"🔞中国丨大秀","type":4,"api":"https://learnpython.ggff.net/sbjhpy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"omdxzb","name":"🔞欧美丨大秀","type":4,"api":"https://learnpython.ggff.net/cam4","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"本地_coomer","name":"coomer丨Pyt","type":3,"api":"./js/18/coomer.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 
 
+
+{"key":"0007cg","name":"0007cg","type":4,"api":"https://learnpython.ggff.net/0007cg","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"911cg","name":"🔞911丨吃瓜","type":4,"api":"https://learnpython.ggff.net/911BaoLiao","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+
+	
 	
 {"key":"绿色仓库[密]","name":"绿色仓库[密]","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/绿色仓库[密].js"},
 {"key":"17av","name":"17av","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/18/json/17av.json"},
@@ -87,7 +62,16 @@
 {"key":"无图","name":"🔞5区无图","type":3,"api":"./js/18/五区.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 
-{"key":"missav.js","name":"missav.js","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/missav.js"},
+{"key":"小黄鸟(测试版)","name":"小黄鸟(测试版)","type":3,"api":"csp_WvSpider","ext":"./js/小黄鸟(测试版).js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;1da33923d1c4b2449ecafd84cc202d65"},
+{"key":"本地~麻豆图标版","name":"麻豆图标版","api":"csp_FileSpider","type":"3","ext":"./js/18/1/麻豆图标版.m3u","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
+{"key":"本地~传媒无水印","name":"传媒无水印","api":"csp_FileSpider","type":"3","ext":"./js/18/1/18+千部独家传媒无水印.txt","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
+{"key":"本地~黄色仓库2","name":"黄色仓库2","api":"csp_FileSpider","type":"3","ext":"./js/18/1/黄色仓库.txt","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
+
+//样本{"key":"本地t1JSON","name":"本地t1JSON","api":"csp_FileSpider","type":"3","ext":"./file/欧美高清.t1.json","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
+//样本{"key":"黄色仓库.txt","name":"黄色仓库.txt","api":"csp_FileSpider","type":"3","ext":"./js/18/1/黄色仓库.txt","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
+//样本{"key":"麻豆图标版.m3u","name":"麻豆图标版.m3u","api":"csp_FileSpider","type":"3","ext":"./js/18/1/麻豆图标版.m3u","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
+
+
 {"key":"py_stripchat","name":"🔞py_stripchat","type":3,"api":"./js/18/py_stripchat.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 {"key":"1黄色仓库","name":"🔞1黄色仓库","type":3,"api":"./js/18/黄色仓库.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},

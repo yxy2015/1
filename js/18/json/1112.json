@@ -1,0 +1,15 @@
+{
+    "站名": "MissAV2",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "主页url": "https://www.missav2.icu/cn",
+    "导航": "https://www.missav2.icu/cn",
+    "数组": "lozad&&class=\"thumbnail group\"",
+    "标题": "alt=\"&&\"",
+    "图片": "data-src=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类url": "https://www.missav2.icu/cn/{cateId}?page={catePg};;z",
+    "分类数组": "<a @click.prevent=\"showCollapse===&&\" href=\"#\"",
+    "分类标题": "<span>&&</span>",
+    "分类ID": "/cn/&&\""
+}
