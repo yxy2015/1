@@ -27,7 +27,7 @@
 {"key":"饭佬_看球","name":"体育丨直播③","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":1,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;849794d1ffde783513c5e4b5ae3e6fcd"},
 
 {"key":"裤佬_斗鱼","name":"斗鱼丨直播①","type":3,"api":"https://7337.kstore.vip/js/drpy2.min.js","ext":"https://7337.kstore.vip/js/斗鱼直播.js","style":{"type":"rect","ratio":1.597}},
-{"key":"裤佬_虎牙","name":"虎牙丨直播②","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"sp":"Huya"},"jar":"./jar/kuzi.jpg;md5;f2973db01b3ac8dd9d9cd931e384935e",
+{"key":"裤佬_虎牙","name":"虎牙丨直播②","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"sp":"Huya"},"jar":"./jar/kuzi.jpg;md5;f2973db01b3ac8dd9d9cd931e384935e"},
 {"key":"裤佬_哔哩","name":"哔哩丨直播③","type":3,"api":"./py/哔哩直播.py"},
 
 {"key":"聚合_短剧","name":"聚合丨短剧①","type":3,"api":"./js/聚合短剧.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
