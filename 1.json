@@ -46,7 +46,7 @@
 {"key":"裤佬_直播","name":"游戏丨直播","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"ext":{"sp":"Living"},"timeout":10,"jar":"./jar/kuzi.jpg;md5;f2973db01b3ac8dd9d9cd931e384935e"},
 
 {"key":"裤佬_斗鱼","name":"斗鱼丨直播①","type":3,"api":"https://7337.kstore.vip/js/drpy2.min.js","ext":"https://7337.kstore.vip/js/斗鱼直播.js","style":{"type":"rect","ratio":1.597}},
-{"key":"裤佬_虎牙","name":"虎牙丨直播②","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"sp":"Huya"},"jar":"./jar/kuzi.jpg;md5;f2973db01b3ac8dd9d9cd931e384935e",
+{"key":"裤佬_虎牙","name":"虎牙丨直播②","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"sp":"Huya"},"jar":"./jar/kuzi.jpg;md5;f2973db01b3ac8dd9d9cd931e384935e"},
 {"key":"裤佬_哔哩","name":"哔哩丨直播③","type":3,"api":"./py/哔哩直播.py"},
 
 {"key":"裤佬_体育","name":"瓜子丨体育①","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"ext":{"sp":"GzSport"},"timeout":10},
