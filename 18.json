@@ -23,6 +23,7 @@
 {"key":"裸聊直播","name":"🔞裸聊直播🔞","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/ss直播.js"},
 
 
+{"key":"KissJav","name":"KissJav","type":3,"api":"./js/18/KissJav.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 
 
 
