@@ -27,6 +27,7 @@
 
 
 
+{"key":"本地t1JSON","name":"missav","api":"csp_FileSpider","type":"3","ext":"./js/18/missav.json","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
 
 {"key":"本地~麻豆图标版","name":"麻豆图标版","api":"csp_FileSpider","type":"3","ext":"./js/18/1/麻豆图标版.m3u","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
 {"key":"本地~传媒无水印","name":"传媒无水印","api":"csp_FileSpider","type":"3","ext":"./js/18/1/18+千部独家传媒无水印.txt","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
