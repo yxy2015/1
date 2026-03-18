@@ -61,7 +61,7 @@
 {"key":"T4-jinpai","name":"影视-金牌APP(T4)","type":4,"api":"https://catbox.n13.club/ai/金牌APP.php"},
 {"key":"T4-jinpai111","name":"影视-金牌(T4)","type":4,"api":"https://catbox.n13.club/t9/jinpai.php"},
 {"key":"T4-qiyi","name":"影视-七壹APP(T4)","type":4,"api":"https://catbox.n13.club/ai/七壹APP.php"},
-{"key":"T4-caiji","name":"影视-采集(T4)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"}
+{"key":"T4-caiji","name":"影视-采集(T4)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
 
 {"key":"老猫_恋鱼","name":"恋鱼丨(T4)","type":4,"api":"https://catbox.n13.club/t9/lianyu.php"},
 {"key":"老猫_金牌","name":"金牌丨(T4)","type":4,"api":"https://catbox.n13.club/t9/jinpai.php"},

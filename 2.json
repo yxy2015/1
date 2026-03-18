@@ -98,18 +98,6 @@
 
 	
 
-
-
-
-
-
-
-
-
-
-	
-	
-
 	
 {"key":"潇洒_热播","name":"热播丨APP","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"},"jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
 
@@ -164,7 +152,7 @@
 {"key":"T4-jinpai","name":"影视-金牌APP(T4)","type":4,"api":"https://catbox.n13.club/ai/金牌APP.php"},
 {"key":"T4-jinpai111","name":"影视-金牌(T4)","type":4,"api":"https://catbox.n13.club/t9/jinpai.php"},
 {"key":"T4-qiyi","name":"影视-七壹APP(T4)","type":4,"api":"https://catbox.n13.club/ai/七壹APP.php"},
-{"key":"T4-caiji","name":"影视-采集(T4)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"}
+{"key":"T4-caiji","name":"影视-采集(T4)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
 
 
 	
