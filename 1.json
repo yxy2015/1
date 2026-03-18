@@ -120,16 +120,16 @@
 {"key":"潇洒_瑞奇","name":"瑞奇丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://rqxk.gdata.fun","site":"","dataKey":"yangruiqiYsapp00","dataIv":"yangruiqiYsapp00","deviceId":"","version":"","token":"","ua":""},"jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
 {"key":"潇洒_哔哩","name":"哔哩丨视频","type":3,"api":"csp_BiliYS","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"./XBPQ/哔哩视频.json","cookie":"./lib/bilibili.txt"},"jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
 
-{"key":"T4-shuzi","name":"影视-数字APP(T4)","type":4,"api":"https://catbox.n13.club/ai/数字APP.php"},
-{"key":"T4-yuanmeng","name":"影视-缘梦APP(T4)","type":4,"api":"https://catbox.n13.club/ai/缘梦APP.php"},
-{"key":"T4-duanyou","name":"影视-段友APP(T4)","type":4,"api":"https://catbox.n13.club/ai/段友APP.php"},
-{"key":"T4-huomao","name":"影视-火猫APP(T4)","type":4,"api":"https://catbox.n13.club/ai/火猫APP.php"},
-{"key":"T4-heimao","name":"影视-黑猫APP(T4)","type":4,"api":"https://catbox.n13.club/ai/黑猫APP.php"},
-{"key":"T4-wangzi","name":"影视-王子APP(T4)","type":4,"api":"https://catbox.n13.club/ai/王子APP.php"},
-{"key":"T4-jinpai","name":"影视-金牌APP(T4)","type":4,"api":"https://catbox.n13.club/ai/金牌APP.php"},
-{"key":"T4-jinpai111","name":"影视-金牌(T4)","type":4,"api":"https://catbox.n13.club/t9/jinpai.php"},
-{"key":"T4-qiyi","name":"影视-七壹APP(T4)","type":4,"api":"https://catbox.n13.club/ai/七壹APP.php"},
-{"key":"T4-caiji","name":"影视-采集(T4)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
+{"key":"猫迷_shuzi","name":"数字丨(T4)","type":4,"api":"https://catbox.n13.club/ai/数字APP.php"},
+{"key":"猫迷_yuanmeng","name":"缘梦丨(T4)","type":4,"api":"https://catbox.n13.club/ai/缘梦APP.php"},
+{"key":"猫迷_duanyou","name":"段友丨(T4)","type":4,"api":"https://catbox.n13.club/ai/段友APP.php"},
+{"key":"猫迷_huomao","name":"火猫丨(T4)","type":4,"api":"https://catbox.n13.club/ai/火猫APP.php"},
+{"key":"猫迷_heimao","name":"黑猫丨(T4)","type":4,"api":"https://catbox.n13.club/ai/黑猫APP.php"},
+{"key":"猫迷_wangzi","name":"王子丨(T4)","type":4,"api":"https://catbox.n13.club/ai/王子APP.php"},
+{"key":"猫迷_jinpai","name":"金牌丨(T4)","type":4,"api":"https://catbox.n13.club/ai/金牌APP.php"},
+{"key":"猫迷_jinpai111","name":"金牌丨(T4)","type":4,"api":"https://catbox.n13.club/t9/jinpai.php"},
+{"key":"猫迷_qiyi","name":"七壹丨(T4)","type":4,"api":"https://catbox.n13.club/ai/七壹APP.php"},
+{"key":"猫迷_caiji","name":"采集丨(T4)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
 
 
 	
