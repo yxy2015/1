@@ -21,9 +21,6 @@
 {"key":"黄色仓库","name":"黄色仓库","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/黄色仓库.js"},
 	
 {"key":"一区","name":"🔞一区","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/18/json/一区.json"},
-{"key":"51cg","name":"🔞51丨吃瓜","type":4,"api":"https://learnpython.ggff.net/51xiG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"sbjhpy","name":"🔞中国丨大秀","type":4,"api":"https://learnpython.ggff.net/sbjhpy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"omdxzb","name":"🔞欧美丨大秀","type":4,"api":"https://learnpython.ggff.net/cam4","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"裸聊直播","name":"🔞裸聊直播🔞","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/ss直播.js"},
 
 
@@ -31,11 +28,10 @@
 
 
 
-{"key":"本地t1JSON","name":"missav","api":"csp_FileSpider","type":"3","ext":"./js/18/missav.json","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
 
-{"key":"本地~麻豆图标版","name":"麻豆图标版","api":"csp_FileSpider","type":"3","ext":"./js/18/1/麻豆图标版.m3u","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
-{"key":"本地~传媒无水印","name":"传媒无水印","api":"csp_FileSpider","type":"3","ext":"./js/18/1/18+千部独家传媒无水印.txt","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
-{"key":"本地~黄色仓库2","name":"黄色仓库2","api":"csp_FileSpider","type":"3","ext":"./js/18/1/黄色仓库.txt","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
+{"key":"本地~麻豆图标版","name":"麻豆图标版等待1分钟","api":"csp_FileSpider","type":"3","ext":"./js/18/1/麻豆图标版.m3u","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
+{"key":"本地~传媒无水印","name":"传媒无水印等待1分钟","api":"csp_FileSpider","type":"3","ext":"./js/18/1/18+千部独家传媒无水印.txt","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
+{"key":"本地~黄色仓库2","name":"黄色仓库等待1分钟","api":"csp_FileSpider","type":"3","ext":"./js/18/1/黄色仓库.txt","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
 
 //样本{"key":"本地t1JSON","name":"本地t1JSON","api":"csp_FileSpider","type":"3","ext":"./file/欧美高清.t1.json","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
 //样本{"key":"黄色仓库.txt","name":"黄色仓库.txt","api":"csp_FileSpider","type":"3","ext":"./js/18/1/黄色仓库.txt","searchable":1,"filterable":1,"switchable":1,"jar":"./jar/WvSpider.jar;md5;995a22ee83ce4e05c1c9a4e4d97e5810"},
@@ -47,7 +43,6 @@
 
 	
 	
-{"key":"绿色仓库[密]","name":"绿色仓库[密]","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/绿色仓库[密].js"},
 {"key":"17av","name":"17av","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/18/json/17av.json"},
 {"key":"dragon","name":"dragon","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/18/json/dragon.json"},
 {"key":"xvideos67","name":"xvideos67","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/18/json/xvideos67.json"},
