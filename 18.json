@@ -19,7 +19,12 @@
 {"key":"麻豆(js)","name":"麻豆(js)","type":3,"api":"./js/18/json/麻豆.min.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":{}},
 {"key":"樱花(js)","name":"樱花(js)","type":3,"api":"./js/18/json/樱花视频.min.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":{}},
 {"key":"黄色仓库","name":"黄色仓库","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/黄色仓库.js"},
-	
+{
+"key":"php_麻豆",
+"name":"麻豆(PHP)+",
+"type":4,
+"api":"https://php.doube.eu.org/spider/php/麻豆.php"
+},
 {"key":"一区","name":"🔞一区","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/18/json/一区.json"},
 {"key":"裸聊直播","name":"🔞裸聊直播🔞","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/ss直播.js"},
 

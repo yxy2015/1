@@ -1,5 +1,5 @@
 {
-"spider":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520",
+"spider":"./jar/spider.jar;md5;3391e2cfe507240181ddef8db8879d17",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "logo":"./lib/1.gif",
 "lives":[
@@ -12,9 +12,10 @@
 ],
 
 "sites":[
+{"key":"老猫_mvzb","name":"音乐-MV(T4)","type":4,"api":"https://catbox.n13.club/t9/mvzb.php"},
 {"key":"裤佬_音乐","name":"音乐丨音乐","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"ext":{"sp":"AiMusic"},"timeout":20,"jar":"./jar/kuzi.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60"},
 {"key":"饭佬_歌曲","name":"音乐丨歌曲","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"},"jar":"./jar/fan.jpg;md5;0a4bc903912b91621f12cb2c1b60bd2c"},
-{"key":"潇洒_歌曲","name":"哔站丨音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩演唱会.json"},"timeout":20,"jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
+{"key":"潇洒_歌曲","name":"哔站丨音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩演唱会.json"},"timeout":20,"jar":"./jar/spider.jar;md5;3391e2cfe507240181ddef8db8879d17"},
 
 {"key":"裤佬_花语","name":"花语丨音乐","type":3,"jar":"https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/71f9c49cf470b54b/1217.jpg;md5;11e752cb8cd0c47a0804c70ed965be67","api":"csp_Music","quickSearch":0,"searchable":0,"ext":""},
 
@@ -24,7 +25,7 @@
 	
 {"key":"裤佬_体育","name":"瓜子丨体育①","type":3,"api":"csp_AweSomeGuard","searchable":1,"changeable":1,"style":{"type":"list"},"ext":{"sp":"GzSport"},"timeout":10,"jar":"./jar/kuzi.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60"},
 {"key":"饭佬_八八","name":"八八丨体育②","type":3,"api":"csp_Sir88Guard","searchable":1,"changeable":1,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;c067633ea703159709d6c4e522c3dae5"},
-{"key":"潇洒_体育","name":"九一｜体育③","type":3,"api":"csp_919Tiyu","style":{"type":"list"},"jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
+{"key":"潇洒_体育","name":"九一｜体育③","type":3,"api":"csp_919Tiyu","style":{"type":"list"},"jar":"./jar/spider.jar;md5;3391e2cfe507240181ddef8db8879d17"},
 
 {"key":"饭佬_看球","name":"看球丨体育④","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":1,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;c067633ea703159709d6c4e522c3dae5"},
 
@@ -33,42 +34,43 @@
 {"key":"裤佬_哩哩","name":"哔哩丨直播③","type":3,"api":"./py/哔哩直播.py"},
 
 {"key":"聚合_短剧","name":"聚合丨短剧","type":3,"api":"./js/聚合短剧.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
-{"key":"潇洒_甜圈","name":"甜圈丨短剧","type":3,"api":"csp_TianquanDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
-{"key":"潇洒_锦鲤","name":"锦鲤丨短剧","type":3,"api":"csp_JinliDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
+{"key":"潇洒_甜圈","name":"甜圈丨短剧","type":3,"api":"csp_TianquanDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;3391e2cfe507240181ddef8db8879d17"},
+{"key":"潇洒_星阁","name":"星阁｜短剧","type":3,"api":"csp_XinggeDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;3391e2cfe507240181ddef8db8879d17"},
 
-{"key":"潇洒_星阁","name":"星阁｜短剧","type":3,"api":"csp_XinggeDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
-{"key":"潇洒_碎片","name":"碎片｜短剧","type":3,"api":"csp_SuipianDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
-{"key":"潇洒_星芽","name":"星芽丨短剧","type":3,"api":"./py/星芽短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
-
-{"key":"潇洒_剧王","name":"剧王丨短剧","type":3,"api":"./py/剧王短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
+{"key":"老猫_喜福","name":"喜福丨短剧","type":4,"api":"https://catbox.n13.club/ai/喜福短剧.php","类型":"短剧"},
+{"key":"老猫_甜圈","name":"甜圈丨短剧","type":4,"api":"https://catbox.n13.club/ai/甜圈短剧.php","类型":"短剧"},
+{"key":"老猫_星芽","name":"星芽丨短剧","type":4,"api":"https://catbox.n13.club/ai/星芽短剧.php","类型":"短剧"},
+	
+{"key":"潇洒_星芽","name":"星芽丨短剧","type":3,"api":"./py/星芽短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;3391e2cfe507240181ddef8db8879d17"},
+{"key":"潇洒_剧王","name":"剧王丨短剧","type":3,"api":"./py/剧王短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;3391e2cfe507240181ddef8db8879d17"},
 {"key":"裤佬_盒马","name":"盒马丨短剧","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"HeMa"},"timeout":10,"jar":"./jar/kuzi.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60"},
-{"key":"老猫_围观","name":"围观丨短剧","type":4,"api":"https://catbox.n13.club/ai/围观短剧.php"},
-
-{"key":"老猫_喜福","name":"喜福丨短剧","type":4,"api":"https://catbox.n13.club/ai/喜福短剧.php"},
-{"key":"老猫_集百","name":"集百丨短剧","type":4,"api":"https://catbox.n13.club/ai/集百短剧.php"},
- 
 
 
-{"key":"潇洒_豆瓣","name":"豆瓣搜索ㅤ😃更新：2026年3月😃ㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"indexs":1,"jar":"./jar/spider.jar;md5;c5d654e2302b03ddf3309ee307c6b520"},
+{"key":"潇洒_豆瓣","name":"豆瓣搜索ㅤ😃更新：2026年3月😃ㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"indexs":1,"jar":"./jar/spider.jar;md5;3391e2cfe507240181ddef8db8879d17"},
 
 	
-{"key":"猫迷_shuzi","name":"数字丨(T4)","type":4,"api":"https://catbox.n13.club/ai/数字APP.php"},
-{"key":"猫迷_yuanmeng","name":"缘梦丨(T4)","type":4,"api":"https://catbox.n13.club/ai/缘梦APP.php"},
-{"key":"猫迷_duanyou","name":"段友丨(T4)","type":4,"api":"https://catbox.n13.club/ai/段友APP.php"},
-{"key":"猫迷_huomao","name":"火猫丨(T4)","type":4,"api":"https://catbox.n13.club/ai/火猫APP.php"},
-{"key":"猫迷_heimao","name":"黑猫丨(T4)","type":4,"api":"https://catbox.n13.club/ai/黑猫APP.php"},
-{"key":"猫迷_wangzi","name":"王子丨(T4)","type":4,"api":"https://catbox.n13.club/ai/王子APP.php"},
-{"key":"猫迷_jinpai","name":"金牌丨(T4)","type":4,"api":"https://catbox.n13.club/ai/金牌APP.php"},
-{"key":"猫迷_jinpai111","name":"金牌丨(T4)","type":4,"api":"https://catbox.n13.club/t9/jinpai.php"},
-{"key":"猫迷_qiyi","name":"七壹丨(T4)","type":4,"api":"https://catbox.n13.club/ai/七壹APP.php"},
-{"key":"猫迷_caiji","name":"采集丨(T4)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
-
-{"key":"老猫_恋鱼","name":"恋鱼丨(T4)","type":4,"api":"https://catbox.n13.club/t9/lianyu.php"},
-{"key":"老猫_金牌","name":"金牌丨(T4)","type":4,"api":"https://catbox.n13.club/t9/jinpai.php"},
-{"key":"老猫_花猪","name":"花猪丨(T4)","type":4,"api":"https://catbox.n13.club/t9/huaxiaozhu.php"},
-{"key":"老猫_洪国","name":"洪国丨(T4)","type":4,"api":"https://catbox.n13.club/t9/hg.php"},
+{"key":"老猫_人人","name":"人人丨(T4)","type":4,"api":"https://catbox.n13.club/18/人人影视.php"},
+{"key":"老猫_鬼片","name":"鬼片丨(T4)","type":4,"api":"https://catbox.n13.club/ai/guipian360.php"},
+{"key":"老猫_央视","name":"央视丨(T4)","type":4,"api":"https://catbox.n13.club/18/央视影视.php"},
+{"key":"老猫_影探","name":"影探丨(T4)","type":4,"api":"https://catbox.n13.club/18/影探影视.php"},
+{"key":"老猫_瓜子","name":"瓜子丨(T4)","type":4,"api":"https://catbox.n13.club/ai/瓜子影视.php"},
+{"key":"老猫_七壹","name":"七壹丨(T4)","type":4,"api":"https://catbox.n13.club/ai/七壹APP.php"},
+{"key":"老猫_优兔","name":"优兔丨(T4)","type":4,"api":"https://catbox.n13.club/ai/优兔APP.php"},
+{"key":"老猫_小猪","name":"小猪丨(T4)","type":4,"api":"https://catbox.n13.club/ai/小猪APP.php"},
+{"key":"老猫_数字","name":"数字丨(T4)","type":4,"api":"https://catbox.n13.club/ai/数字APP.php"},
+{"key":"老猫_橘子","name":"橘子丨(T4)","type":4,"api":"https://catbox.n13.club/ai/橘子APP.php"},
+{"key":"老猫_段友","name":"段友丨(T4)","type":4,"api":"https://catbox.n13.club/ai/段友APP.php"},
+{"key":"老猫_灵虎","name":"灵虎丨(T4)","type":4,"api":"https://catbox.n13.club/ai/灵虎APP.php"},
+{"key":"老猫_爱盈","name":"爱盈丨(T4)","type":4,"api":"https://catbox.n13.club/ai/爱盈APP.php"},
+{"key":"老猫_缘梦","name":"缘梦丨(T4)","type":4,"api":"https://catbox.n13.club/ai/缘梦APP.php"},
+{"key":"老猫_花小","name":"花小丨(T4)","type":4,"api":"https://catbox.n13.club/t9/huaxiaozhu.php"},
+{"key":"老猫_金牌","name":"金牌丨(T4)","type":4,"api":"https://catbox.n13.club/t9/金牌影视.php"},
+{"key":"老猫_哇哇","name":"哇哇丨(T4)","type":4,"api":"https://catbox.n13.club/t9/哇哇影视.php"},
 {"key":"老猫_采集","name":"采集丨(T4)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
-{"key":"老猫_荐片","name":"荐片丨(T4)","type":4,"api":"https://catbox.n13.club/t9/jianpian.php"},
+{"key":"老猫_飞流","name":"飞流丨(T4)","type":4,"api":"https://catbox.n13.club/ai/飞流影视.php"},
+
+
+	
 
 {"key":"老张_爱瓜","name":"爱瓜丨老张","type":4,"api":"http://zhangqun66.xyz/aigua1.php","style":{"type":"rect","ratio":1.33},"searchable":1,"quickSearch":0,"changeable":1},
 {"key":"老张_克隆","name":"克隆丨老张","type":4,"api":"http://zhangqun66.xyz/klhj.php","style":{"type":"rect","ratio":1.33},"searchable":1,"quickSearch":0,"changeable":1},
@@ -76,8 +78,10 @@
 {"key":"老张_集集","name":"集集丨老张","type":4,"api":"http://zhangqun66.xyz/cj/cjjh.php","style":{"type":"rect","ratio":1.33},"ext":"1","searchable":1,"quickSearch":0,"changeable":1},
 {"key":"老张_荐片","name":"荐片丨老张","type":4,"api":"http://zhangqun66.xyz/jianpian1.php","style":{"type":"rect","ratio":1.33},"searchable":1,"quickSearch":0,"changeable":1},
 
-	
 
+
+
+	
 {"key":"裤佬移动网盘","name":"移动丨网盘","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Panta"},"timeout":25,"jar":"./jar/kuzi.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60"},
 {"key":"裤佬雄鹰影视","name":"雄鹰丨影视","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"XiongYing","danmu":true},"timeout":10,"jar":"./jar/kuzi.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60"},
 {"key":"裤佬比特影视","name":"比特丨影视","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":{"sp":"Btt","danmu":true},"timeout":10,"jar":"./jar/kuzi.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60"},
@@ -94,6 +98,47 @@
 {"key":"裤佬金牌JS","name":"金牌丨JS","type":3,"api":"https://mpimg.cn/down.php/af2c84aea46fa071e9d9bfa04a9f86ac.js","style":{"type":"rect","ratio":1.33},"changeable":1},
 {"key":"裤佬两个BT","name":"2BT丨PY","api":"https://mpimg.cn/down.php/447cf39f4cb26681ecacfd7f29cd0029.py","filterable":1,"quickSearch":1,"searchable":1,"type":3},
 {"key":"裤佬芒果PY","name":"芒果丨PY","api":"https://mpimg.cn/down.php/643d3f9a0b601f25d3e372eeb66e82a5.py","filterable":1,"quickSearch":1,"searchable":1,"type":3},
+
+
+	
+
+{"key":"本地_嗷呜","name":"嗷呜丨Pyt","type":3,"api":"./py/嗷呜动漫.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"本地_热播","name":"热播丨Pyt","type":3,"api":"./py/热播APP.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"本地_骚火","name":"骚火丨Pyt","type":3,"api":"./py/骚火电影.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"本地_哇哇","name":"哇哇丨Pyt","type":3,"api":"./py/哇哇APP.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"本地_界影","name":"界影丨Pyt","type":3,"api":"./py/界影.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_电影","name":"电影丨Pyt","type":3,"api":"./py/电影猎手.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_4K影","name":"4K影丨Pyt","type":3,"api":"./py/4K影视.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_4KVM","name":"4KVM丨Pyt","type":3,"api":"./py/4KVM.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_嗷嗷","name":"嗷嗷丨Pyt","type":3,"api":"./py/嗷呜4K影院.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_饭团","name":"饭团丨Pyt","type":3,"api":"./py/饭团影视.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_小鸡","name":"小鸡丨Pyt","type":3,"api":"./py/小鸡暴走.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_小苹","name":"小苹丨Pyt","type":3,"api":"./py/小苹果.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_飞快","name":"飞快丨Pyt","type":3,"api":"./py/飞快TV.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_韩韩","name":"韩剧丨Pyt","type":3,"api":"./py/新韩剧网.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_瓜子","name":"瓜子丨Pyt","type":3,"api":"./py/瓜子.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"裤佬_兄弟","name":"兄弟丨Pyt","type":3,"api":"./py/兄弟.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"裤佬_端木","name":"端木丨Pyt","type":3,"api":"./py/端木.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"裤佬_飞流","name":"飞流丨Pyt","type":3,"api":"./py/飞流视频.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
+{"key":"本地_苹果","name":"苹果丨Js","type":3,"api":"./js/apple.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_永乐","name":"永乐丨Js","type":3,"api":"./js/永乐视频.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_剧剧","name":"韩剧丨Js","type":3,"api":"./js/韩剧网.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_界界","name":"界影丨Js","type":3,"api":"./js/界影视.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_荐片","name":"荐片丨Js","type":3,"api":"./js/荐片.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_鬼片","name":"鬼片丨Js","type":3,"api":"./js/鬼片之家.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_独播","name":"独播丨Js","type":3,"api":"./js/独播库.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"本地_泥泥","name":"泥泥丨Js","type":3,"api":"./js/drpy2.min.js","ext":"./js/泥泥视频.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
+
+{"key":"本地_五五","name":"五五丨Js","type":3,"api":"csp_WvSpider","ext":"./js/555影视.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;1da33923d1c4b2449ecafd84cc202d65"},
+{"key":"本地_低端","name":"低端丨Js","type":3,"api":"csp_WvSpider","ext":"./js/低端影视.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;1da33923d1c4b2449ecafd84cc202d65"},
+{"key":"本地_飞快","name":"飞快丨Js","type":3,"api":"csp_WvSpider","ext":"./js/飞快TV.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;1da33923d1c4b2449ecafd84cc202d65"},
+{"key":"本地_剧圈","name":"剧圈丨Js","type":3,"api":"csp_WvSpider","ext":"./js/剧圈圈.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;1da33923d1c4b2449ecafd84cc202d65"},
+{"key":"本地_新韩","name":"新韩丨Js","type":3,"api":"csp_WvSpider","ext":"./js/新韩剧网.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;1da33923d1c4b2449ecafd84cc202d65"},
+{"key":"本地_修罗","name":"修罗丨Js","type":3,"api":"csp_WvSpider","ext":"./js/修罗影视.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;1da33923d1c4b2449ecafd84cc202d65"},
+{"key":"本地_在线","name":"在线丨Js","type":3,"api":"csp_WvSpider","ext":"./js/在线之家.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;1da33923d1c4b2449ecafd84cc202d65"},
+
 
 
 
