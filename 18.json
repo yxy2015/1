@@ -8,6 +8,7 @@
 {"name":"黄色仓库_日韩AV","type":0,"url":"./js/18/1/黄色仓库_日韩AV.m3u"},
 {"name":"missav","type":0,"url":"./js/18/1/vod_missav.m3u"},
 {"name":"黄色仓库","type":0,"url":"./js/18/1/黄色仓库.txt"},
+{"name":"经典","type":0,"url":"https://cdn.jsdelivr.net/gh/fish2018/lib@main/txt/经典.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
 {"name":"18+千部独家传媒无水印","type":0,"url":"./js/18/1/18+千部独家传媒无水印.txt"}
 
 ],
@@ -15,20 +16,23 @@
 "sites":[
 //{"key":"合集","name":"😍点击😍更换😍更多😍资源😍","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0,"indexs":1},
 {"key":"老张_采集","name":"😍点击😍更换😍更多😍资源😍","type":4,"api":"http://zhangqun1818.serv00.net/cj/cjjh.php","style":{"type":"rect","ratio":1.33},"ext":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"福利","name":"福利","type":0,"api":"https://155api.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
-{"key":"麻豆(js)","name":"麻豆(js)","type":3,"api":"./js/18/json/麻豆.min.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":{}},
-{"key":"樱花(js)","name":"樱花(js)","type":3,"api":"./js/18/json/樱花视频.min.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":{}},
-{"key":"黄色仓库","name":"黄色仓库","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/黄色仓库.js"},
-{
-"key":"php_麻豆",
-"name":"麻豆(PHP)+",
-"type":4,
-"api":"https://php.doube.eu.org/spider/php/麻豆.php"
-},
-{"key":"一区","name":"🔞一区","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/18/json/一区.json"},
+{"key":"福利","name":"🔞福利","type":0,"api":"https://155api.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
+{"key":"麻豆(js)","name":"🔞麻豆(js)","type":3,"api":"./js/18/json/麻豆.min.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":{}},
+{"key":"樱花(js)","name":"🔞樱花(js)","type":3,"api":"./js/18/json/樱花视频.min.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":{}},
+{"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/黄色仓库.js"},
+{"key":"91pro","name":"🔞91pro","type":3,"api":"./js/18/91pro.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
+{"key":"php_麻豆","name":"🔞麻豆(PHP)+","type":4,"api":"https://php.doube.eu.org/spider/php/麻豆.php"},
 {"key":"裸聊直播","name":"🔞裸聊直播🔞","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/ss直播.js"},
 
-
+{"key":"hsck","name":"🔞黄色仓库","type":3,"api":"./js/18/hsck.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
+{"key":"神秘影院","name":"🔞神秘影院","type":3,"api":"./js/18/神秘影院.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
+{"key":"推特App","name":"🔞推特App","type":3,"api":"./js/18/推特App.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
+{"key":"香蕉视频","name":"🔞香蕉视频","type":3,"api":"./js/18/香蕉视频.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
+{"key":"色播聚合","name":"🔞色播聚合","type":3,"api":"./js/18/色播聚合.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
+{"key":"pandalive","name":"🔞直播PandaLive","type":3,"api":"./js/18/pandalive.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
+{"key":"Xhamster","name":"🔞Xhamster","type":3,"api":"./js/18/Xhamster.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
+{"key":"javxbb","name":"🔞javxbb","type":3,"api":"./js/18/javxbb.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
+{"key":"好色TV","name":"🔞好色TV","type":3,"api":"./js/18/好色TV.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
 {"key":"KissJav","name":"KissJav","type":3,"api":"./js/18/KissJav.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 
 
