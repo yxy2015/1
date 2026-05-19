@@ -237,10 +237,47 @@
 {"key":"裤佬网易影视","name":"网易丨影视","type":3,"api":"https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","changeable":0,"ext":"https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/js/网易公版影像.js"},
 
 
-{"key":"本地_低端","name":"低端丨Js","type":3,"api":"csp_WvSpider","ext":"./js/低端影视.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;1da33923d1c4b2449ecafd84cc202d65"},
-{"key":"本地_新韩","name":"新韩丨Js","type":3,"api":"csp_WvSpider","ext":"./js/新韩剧网.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;1da33923d1c4b2449ecafd84cc202d65"},
-{"key":"本地_在线","name":"在线丨Js","type":3,"api":"csp_WvSpider","ext":"./js/在线之家.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;1da33923d1c4b2449ecafd84cc202d65"},
+{"key":"本地_低端","name":"低端丨Js","type":3,"api":"csp_WvSpider","ext":"./js/低端影视.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_新韩","name":"新韩丨Js","type":3,"api":"csp_WvSpider","ext":"./js/新韩剧网.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_在线","name":"在线丨Js","type":3,"api":"csp_WvSpider","ext":"./js/在线之家.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_天天","name":"天天丨Js","type":3,"api":"csp_WvSpider","ext":"./js/天天影院.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_javsb","name":"javsb丨Js","type":3,"api":"csp_WvSpider","ext":"./js/javsb.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_荐片","name":"荐片丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/荐片.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_界影视","name":"界影视丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/界影视.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_金牌影院","name":"金牌影院丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/金牌影院.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_聚合短剧","name":"聚合短剧丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/聚合短剧.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_永乐视频","name":"永乐视频丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/永乐视频.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_软鸭短剧","name":"软鸭短剧丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/软鸭短剧.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_西饭短剧","name":"西饭短剧丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/西饭短剧.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_锦鲤短剧","name":"锦鲤短剧丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/锦鲤短剧.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_凡客tv","name":"凡客tv丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/凡客tv.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_端木","name":"端木丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/端木.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_独播库","name":"独播库丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/独播库.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_麻雀视频","name":"麻雀视频丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/麻雀视频.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_人人影视","name":"人人影视丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/人人影视.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_热播影视","name":"热播影视丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/热播影视.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_海龟","name":"海龟丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/海龟.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_七猫短剧","name":"七猫短剧丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/七猫短剧.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_鬼片之家","name":"鬼片之家丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/鬼片之家.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_飞快tv","name":"飞快tv丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/飞快tv.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_毒舌影视","name":"毒舌影视丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/毒舌影视.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_剧海大全","name":"剧海大全丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/剧海大全.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_喜马拉雅","name":"喜马拉雅丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/喜马拉雅.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_瓜子","name":"瓜子丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/瓜子.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
+{"key":"本地_全球更新","name":"全球更新丨Js","type":3,"api":"csp_WvSpider","ext":"./js/1/全球更新.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/WvSpider.jar;md5;17f92e4f70fae457d7480012d71ed8f3"},
 
+
+
+
+	
+{"key":"legado_novel","name":"📚整合小说源","type":3,"api":"csp_ProxySpider","ext":{"class":"LegadoSpider","ext":"./XBPQ/sources.json"},"style":{"type":"rect","ratio":1.33},"jar":"./jar/pro0516.jar;md5;6fbde6762f293d1cc8ff64f8ce090fbc"},
+{"key":"legado_novel1","name":"📚整合小说源1","type":3,"api":"csp_ProxySpider","ext":{"class":"LegadoSpider","ext":"http://127.0.0.1:9978/file/XBPQ/sources.json"},"style":{"type":"rect","ratio":1.33},"jar":"./jar/pro0516.jar;md5;6fbde6762f293d1cc8ff64f8ce090fbc"},
+{"key":"采集全集","name":"采集全集","type":3,"api":"csp_ProxySpider","style":{"type":"rect","ratio":1.33},"changeable":1,"ext":{"class":"CJJH","ext":"http://127.0.0.1:9978/file/lz/cj.json#0"},"jar":"./jar/pro0516.jar;md5;6fbde6762f293d1cc8ff64f8ce090fbc"},
+{"key":"采集全集1","name":"采集全集1","type":3,"api":"csp_ProxySpider","style":{"type":"rect","ratio":1.33},"changeable":1,"ext":{"class":"CJJH","ext":"./XBPQ/cj.json#0"},"jar":"./jar/pro0516.jar;md5;6fbde6762f293d1cc8ff64f8ce090fbc"},
+
+{"key":"三三小说","name":"三三小说","type":3,"api":"csp_ProxySpider","style":{"type":"rect","ratio":1.33},"changeable":1,"ext":{"class":"SanSanNovel"},"jar":"./jar/pro0516.jar;md5;6fbde6762f293d1cc8ff64f8ce090fbc"},
+{"key":"七猫小说","name":"七猫小说","type":3,"api":"csp_ProxySpider","style":{"type":"rect","ratio":1.33},"changeable":1,"ext":{"class":"NovelReader"},"jar":"./jar/pro0516.jar;md5;6fbde6762f293d1cc8ff64f8ce090fbc"},
+{"key":"本地小说","name":"本地小说","type":3,"api":"csp_ProxySpider","style":{"type":"rect","ratio":1.33},"changeable":1,"ext":{"class":"NovelBd"},"jar":"./jar/pro0516.jar;md5;6fbde6762f293d1cc8ff64f8ce090fbc"},
 
 {"key":"老张_爱瓜","name":"爱瓜丨老张","type":4,"api":"http://zhangqun66.xyz/aigua1.php","style":{"type":"rect","ratio":1.33},"searchable":1,"quickSearch":0,"changeable":1},
 {"key":"老张_克隆","name":"克隆丨老张","type":4,"api":"http://zhangqun66.xyz/klhj.php","style":{"type":"rect","ratio":1.33},"searchable":1,"quickSearch":0,"changeable":1},
