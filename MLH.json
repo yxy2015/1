@@ -3,21 +3,20 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "logo":"./lib/1.gif",
 "lives":[
-{"name":"CCTV咪咕","type":0,"url":"https://migutv.337898581.xyz/","ua":""},
-{"name":"CCTV广电","type":0,"url":"https://live.264788.xyz/sub/02RfSmTLsWN3rDk3ID3gt0BimurRf2/txt","ua":""},
 {"name":"CCTV裤佬","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u","ua":""},
-{"name":"CCTV潇洒","type":0,"url":"https://iptv.catvod.com/catvod_com?token=1f4d75e48af580800526027f331fdf505b77cc1dffff8d6e0b3b176037daf2f7&format=m3u","ua":""},
-{"name":"斗鱼一起看","type":0,"url":"https://sub.ottiptv.cc/douyuyqk.m3u","timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-{"name":"虎牙一起看","type":0,"url":"https://sub.ottiptv.cc/huyayqk.m3u","timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-{"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u","timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-{"name":"YY轮播","type":0,"url":"https://sub.ottiptv.cc/yylunbo.m3u","timeout":10,"ua":"okHttp/Mod-1.4.0.0"}
+{"name":"CCTV广电","type":0,"url":"https://live.264788.xyz/sub/02RfSmTLsWN3rDk3ID3gt0BimurRf2/txt","ua":""},
+{"name":"斗鱼一起看","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u","timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"虎牙一起看","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u","timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"B站直播","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u","timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"YY轮播","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u","timeout":10,"ua":"okHttp/Mod-1.5.0.0"}
 ],
 
 "sites":[
-{"key":"饭佬_八八","name":"八八丨体育","type":3,"api":"csp_Sir88Guard","searchable":1,"changeable":1,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;448a9f26f33109f6aa148971c3adab46"},
-{"key":"饭佬_超全","name":"吃瓜丨体育","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;448a9f26f33109f6aa148971c3adab46"},
-{"key":"饭佬_看球","name":"看球丨体育","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":1,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;448a9f26f33109f6aa148971c3adab46"},
-{"key":"潇洒_八八","name":"八九丨体育","type":3,"api":"csp_Kanqiu","gridview":3,"style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"咖啡_直播","name":"咖啡丨体育","type":3,"api":"./py/咖啡直播.py","style":{"type":"list"},"quickSearch":0,"searchable":1,"changeable":0},
+{"key":"咖啡_直播","name":"咖啡丨体育","type":3,"api":"./py/咖啡直播.py","style":{"type":"list"},"quickSearch":0,"searchable":1,"changeable":0},
+{"key":"饭佬_超全","name":"吃瓜丨体育","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;8359fc1f9e142cf1dbc57b1329853079"},
+{"key":"饭佬_看球","name":"看球丨体育","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":1,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;8359fc1f9e142cf1dbc57b1329853079"},
+{"key":"潇洒_八八","name":"八八丨体育","type":3,"api":"csp_Kanqiu","gridview":3,"style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
 {"key":"潇洒_球通","name":"球通丨体育","type":3,"api":"csp_QiutongTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
 {"key":"潇洒_瓜子","name":"瓜子丨体育","type":3,"api":"csp_GuaziTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
 {"key":"潇洒_九一","name":"九一丨体育","type":3,"api":"csp_919TY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
@@ -25,7 +24,7 @@
 {"key":"潇洒_呦呦","name":"呦呦｜DJ","type":3,"api":"csp_Djuu","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
 {"key":"潇洒_轮回","name":"轮回丨DJ","type":3,"api":"csp_Djlh","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
 {"key":"裤佬_音乐","name":"音乐丨音乐","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"ext":{"sp":"AiMusic"},"timeout":20,"jar":"./jar/kuzi.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60"},
-{"key":"饭佬_音乐","name":"易听丨音乐","type":3,"api":"csp_MusicGuard","quickSearch":0,"searchable":0,"style":{"type":"rect","ratio":1},"ext":"","jar":"./jar/fan.jpg;md5;448a9f26f33109f6aa148971c3adab46"},
+{"key":"饭佬_音乐","name":"易听丨音乐","type":3,"api":"csp_MusicGuard","quickSearch":0,"searchable":0,"style":{"type":"rect","ratio":1},"ext":"","jar":"./jar/fan.jpg;md5;8359fc1f9e142cf1dbc57b1329853079"},
 {"key":"潇洒_歌曲","name":"哔站丨音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩演唱会.json"},"timeout":20,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
 	
 {"key":"饭佬_斗鱼","name":"斗鱼丨游戏","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":1,"quickSearch":0,"changeable":0},
