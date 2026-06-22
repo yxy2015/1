@@ -1,6 +1,6 @@
 {
-"spider":"./jar/fan.jpg;md5;8359fc1f9e142cf1dbc57b1329853079",
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+"spider":"./jar/fan.jpg;md5;592dc49c783d89dcde066bf1b72ad0d3",
+"wallpaper":"https://饭的动态壁纸.xxooo.cf/",
 "logo":"./lib/1.gif",
 "lives":[
 {"name":"CCTV广电","type":0,"url":"https://live.264788.xyz/sub/02RfSmTLsWN3rDk3ID3gt0BimurRf2/txt","ua":""},
@@ -14,85 +14,78 @@
 "sites":[
 {"key":"饭老_豆瓣","name":"豆瓣搜索ㅤ😃更新：2026年6月😃ㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_DouDouGuard","searchable":0,"changeable":0,"indexs":1},
 {"key":"饭老_配置","name":"网盘丨配置丨中心","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":1,"style":{"type":"oval"},"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
-{"key":"潇洒_本地","name":"本地｜视频","type":3,"api":"csp_LocalFile","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_本地","name":"本地｜视频","type":3,"api":"csp_LocalFile","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
-{"key":"潇洒_广场","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/广场舞.json"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_养生","name":"养生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/养生堂.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_急救","name":"急救","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":1,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_广场","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/广场舞.json"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_养生","name":"养生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/养生堂.json","style":{"type":"rect","ratio":1.597},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_急救","name":"急救","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":1,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
-{"key":"潇洒_相声","name":"相声","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩相声.json"},"timeout":20,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_戏曲","name":"戏曲","type":3,"api":"csp_AppLY","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_小品","name":"小品","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩小品.json"},"timeout":20,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_相声","name":"相声","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩相声.json"},"timeout":20,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_戏曲","name":"戏曲","type":3,"api":"csp_AppLY","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_小品","name":"小品","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩小品.json"},"timeout":20,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
-{"key":"潇洒_小学","name":"小学","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/小学课堂.json"},"timeout":20,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_中学","name":"中学","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/初中课堂.json"},"timeout":20,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_高中","name":"高中","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/高中课堂.json"},"timeout":20,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_小学","name":"小学","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/小学课堂.json"},"timeout":20,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_中学","name":"中学","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/初中课堂.json"},"timeout":20,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_高中","name":"高中","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/高中课堂.json"},"timeout":20,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
 {"key":"饭佬_斗鱼","name":"斗鱼丨游戏","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"饭佬_虎牙","name":"虎牙丨游戏","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"本地_哔哔","name":"哔哩丨游戏","type":3,"api":"./py/哔哩直播.py"},
 	
-{"key":"咖啡_直播","name":"咖啡丨体育","type":3,"api":"./py/咖啡直播.py","style":{"type":"list"},"quickSearch":0,"searchable":1,"changeable":0},
-{"key":"饭佬_超全","name":"吃瓜丨体育","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;8359fc1f9e142cf1dbc57b1329853079"},
-{"key":"饭佬_看球","name":"看球丨体育","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":1,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;8359fc1f9e142cf1dbc57b1329853079"},
+{"key":"潇洒_咖啡","name":"咖啡丨体育","type":3,"api":"csp_KafeiTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_球通","name":"球通丨体育","type":3,"api":"csp_QiutongTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_瓜子","name":"瓜子丨体育","type":3,"api":"csp_GuaziTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
-{"key":"潇洒_八八","name":"八八丨体育","type":3,"api":"csp_Kanqiu","gridview":3,"style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_球通","name":"球通丨体育","type":3,"api":"csp_QiutongTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_瓜子","name":"瓜子丨体育","type":3,"api":"csp_GuaziTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_九一","name":"九一丨体育","type":3,"api":"csp_919TY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"咖啡_直播","name":"咖啡丨体育","type":3,"api":"./py/咖啡直播.py","style":{"type":"list"},"quickSearch":0,"searchable":1,"changeable":0},
-{"key":"饭佬_超全","name":"吃瓜丨体育","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;8359fc1f9e142cf1dbc57b1329853079"},
-{"key":"饭佬_看球","name":"看球丨体育","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":1,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;8359fc1f9e142cf1dbc57b1329853079"},
+{"key":"饭佬_超全","name":"吃瓜丨体育","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;592dc49c783d89dcde066bf1b72ad0d3"},
+{"key":"饭佬_看球","name":"看球丨体育","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":1,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;592dc49c783d89dcde066bf1b72ad0d3"},
+{"key":"饭佬_多多","name":"多多丨看球","type":3,"api":"csp_DoubaoGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
 
-{"key":"潇洒_八八","name":"八八丨体育","type":3,"api":"csp_Kanqiu","gridview":3,"style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_球通","name":"球通丨体育","type":3,"api":"csp_QiutongTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_瓜子","name":"瓜子丨体育","type":3,"api":"csp_GuaziTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_九一","name":"九一丨体育","type":3,"api":"csp_919TY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_八八","name":"八八丨体育","type":3,"api":"csp_Kanqiu","gridview":3,"style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_九一","name":"九一丨体育","type":3,"api":"csp_919TY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
-{"key":"潇洒_呦呦","name":"呦呦丨DJ","type":3,"api":"csp_Djuu","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_轮回","name":"轮回丨DJ","type":3,"api":"csp_Djlh","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_呦呦","name":"呦呦丨DJ","type":3,"api":"csp_Djuu","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_轮回","name":"轮回丨DJ","type":3,"api":"csp_Djlh","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 {"key":"潇洒_爱听","name":"爱听丨音乐","type":3,"api":"./py/爱听音乐.py"},
 
-{"key":"饭佬_音乐","name":"易听丨音乐","type":3,"api":"csp_MusicGuard","quickSearch":0,"searchable":0,"style":{"type":"rect","ratio":1},"ext":"","jar":"./jar/fan.jpg;md5;8359fc1f9e142cf1dbc57b1329853079"},
+{"key":"饭佬_音乐","name":"易听丨音乐","type":3,"api":"csp_MusicGuard","quickSearch":0,"searchable":0,"style":{"type":"rect","ratio":1},"ext":"","jar":"./jar/fan.jpg;md5;592dc49c783d89dcde066bf1b72ad0d3"},
 {"key":"本地_视视","name":"央视回播","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/央视大全.js"},
 
-{"key":"潇洒_世界","name":"世界丨小说","type":3,"api":"csp_TingShijie","style":{"type":"list"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"饭佬_小说","name":"听书丨小说","type":3,"api":"csp_Tingshu275Guard","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;8359fc1f9e142cf1dbc57b1329853079"},
+{"key":"潇洒_世界","name":"世界丨小说","type":3,"api":"csp_TingShijie","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"饭佬_小说","name":"听书丨小说","type":3,"api":"csp_Tingshu275Guard","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jpg;md5;592dc49c783d89dcde066bf1b72ad0d3"},
 {"key":"本地_电台","name":"广播丨电台","type":3,"api":"./js/drpy2.min.js","ext":"./js/蜻蜓FM.js"},
 
 {"key":"本地_短剧","name":"短剧丨聚合","type":3,"api":"./py/短剧聚合.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
-{"key":"潇洒_围观","name":"围观丨短剧","type":3,"api":"csp_WeiguanDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_甜圈","name":"甜圈丨短剧","type":3,"api":"csp_TianquanDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_河马","name":"河马丨短剧","type":3,"api":"csp_HemaDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_好看","name":"好看丨短剧","type":3,"api":"csp_HaokanDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
-{"key":"潇洒_星芽","name":"星芽丨短剧","type":3,"api":"./py/星芽短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_剧王","name":"剧王丨短剧","type":3,"api":"./py/剧王短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_围观","name":"围观丨短剧","type":3,"api":"csp_WeiguanDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_星芽","name":"星芽丨短剧","type":3,"api":"./py/星芽短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 {"key":"裤佬_七星","name":"七星丨短剧","type":3,"api":"https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 
 
 
-
 {"key":"饭佬_光影","name":"光影丨饭佬","type":3,"api":"csp_T4Guard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="},
-{"key":"饭佬_厂长","name":"厂长丨饭佬","type":3,"api":"csp_NewCzGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_原创","name":"原创丨饭佬","type":3,"api":"csp_YCyzGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_厂长","name":"厂长丨饭佬","type":3,"api":"csp_NewCzGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_比特","name":"比特丨饭佬","type":3,"api":"csp_BttwooGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_荐片","name":"荐片丨饭佬","type":3,"api":"csp_JPJGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_糯米","name":"糯米丨饭佬","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_文采","name":"文采丨饭佬","type":3,"api":"csp_JpysGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_奶酪","name":"奶酪丨饭佬","type":3,"api":"csp_T4Guard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="},
 {"key":"饭佬_热播","name":"热播丨饭佬","type":3,"api":"csp_AppTTGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
+{"key":"饭佬_视界","name":"茉莉丨多线","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="},
+
 {"key":"饭佬_猫猫","name":"猫猫丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="},
-
-{"key":"饭佬_云播","name":"云播丨饭佬","type":3,"api":"csp_T4Guard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CKrShL75AiGhjhdkfX0cfnI/kIpThjDhEZ0lc8r7irE4mRMelQz4llfmVMCtjIFNIHP1T3XqwSmYZd34DfAtnkbgrpiMBiYW36CCI5rTkC3Rtg1wQQjazUZyVHx4Zz5bWbmPv4G8q7PfHWYStVeDannVT2lmLzKbGEDahyxvLhNZRjXO5rPlruB0ydDcR/e/g5nx8N3JhG0oucfv6xVDl0XxYy0K2bY3plgqx32kfnS63xa8sQDbGlYoPtdHQCi2cAvEOaqMb5a6r2D3yvcLXYLjk37CJgQObzK0bCggZPm3B3YenAuunxl5OQmXrzLHjys6I2isL5AwTS2YAjD/R3f4FYWBp+4RdwMBAChatxjEHcaFhCUb0nfTgYKQ4a1pZ4j6+d4YHa0GaMYHO5NZQ0tDRZfAZPcfYaWLSW8iIUx6G2e0JnI6bLAN1TR0AVer8lxfU0zAzAODbKVrt8Oafq0IQ6MeGFcFRGMu4QWrzaublQ=="},
-{"key":"饭佬_剧圈","name":"剧圈丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"},
-{"key":"饭佬_视界","name":"视界丨饭佬","type":3,"api":"csp_AppNoxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A=="},
 {"key":"饭佬_播客","name":"播客丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"},
-{"key":"饭佬_花花","name":"花花丨饭佬","type":3,"api":"csp_AppNoxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ=="},
+{"key":"饭佬_米陌","name":"米陌丨多线","type":3,"api":"csp_AppNoxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOK0+FRORAJ7epFjN2F7bP2pj/S2dv+12kxb9+pQQpHMwhf/DAv+ahpb/AK395yqCLHO95E22owqzUyRqJqWIyC7r+JSyPqCPuBxumlV3vunhcnNWtev8SxRwL2VYpMG5d0/TUVDE7mCv2zjQblQ8wz+UVUWDTwR2GS7sg9EpVHt2hIHOIxP/JOfx41qZOnwrLi/T1ZMKs9ZLjhUBrKbdac8P7cwYvGOKuQESIsCAZBDXQMZ/wXycxJI3t3jLYfuPU3mD54+aDQ5IAghbm+"},
+{"key":"饭佬_剧圈","name":"剧圈丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"},
 {"key":"饭佬_奥特","name":"奥特丨饭佬","type":3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":""},
-
-{"key":"饭佬_爱影","name":"爱影丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+TbK3c790iI/b5LtEhxNfAQK7DRvrLcqbf1Q0MQntXLZfMhK0Xsn6nwmF+shR8eZ76qXW3y9XKbblunmCSPux0YtJlscp9zpDmW7Ju4ufOtv+BcyBX7VWrSzyUWoVcxGhUtv"},
 {"key":"饭佬_咕咕","name":"咕咕丨饭佬","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"},
 {"key":"饭佬_巴士","name":"巴士丨饭佬","type":3,"api":"csp_Dm84Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_动漫","name":"日本丨饭佬","type":3,"api":"csp_Anime1Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+
+
+
 
 
 
@@ -111,10 +104,43 @@
 
 
 
-{"key":"潇洒_热播","name":"热播丨APP","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_三秋","name":"三秋丨APP","type":3,"api":"csp_App3Q","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_韩圈","name":"韩圈丨APP","type":3,"api":"csp_Hxq","ext":"http://www.小不点.com/api/2026/fishhxq.php","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{
+{"key":"潇洒_热播","name":"热播丨APP","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_三秋","name":"三秋丨APP","type":3,"api":"csp_App3Q","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_韩圈","name":"韩圈丨APP","type":3,"api":"csp_Hxq","ext":"http://www.小不点.com/api/2026/fishhxq.php","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+        {
+            "key": "咕噜",
+            "name": "咕噜丨APP",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://103.45.132.22:19987/app/bn",
+                "LoginPath": "/app/log",
+                "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+                "versionName": "1.9.5",
+                "name": "咕噜咕噜",
+                "package": "com.bd.tool.gulu",
+                "buildNumber": "2001",
+                "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
+        },
+        {
+            "key": "无极99",
+            "name": "无极丨APP",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://111.170.140.70:19987/app/bn",
+                "LoginPath": "/app/log",
+                "version": "",
+                "appkey": "c403317c2a2946659b0bcbabdd5de43a",
+                "versionName": "1.0.1",
+                "name": "无极影视",
+                "package": "com.wujiys.app",
+                "buildNumber": "2001",
+                "buildSignature": "A0859BDC35AD3E81D4051E2A4678C77C62773EDB3423DDF1DEFF94CB331D398E"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
+        },
+        {
             "key": "听心99",
             "name": "听心｜APP",
             "type": 3,
@@ -128,7 +154,7 @@
                 "package": "com.iksp.adsys.jjsp",
                 "buildNumber": "2001",
                 "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
         },
         {
             "key": "橙子99",
@@ -144,39 +170,7 @@
                 "package": "com.xchengzix.app",
                 "buildNumber": "2001",
                 "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
-        },
-        {
-            "key": "追番99",
-            "name": "追番｜APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "https://api.hboqy.cn.hboqy.cn/api",
-                "LoginPath": "/app/log",
-                "appkey": "a0a18659a9977a47e53442cd084b536c",
-                "versionName": "6.1.7",
-                "name": "追番达人",
-                "package": "com.android.packageinstaller",
-                "buildNumber": "2002",
-                "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
-        },
-        {
-            "key": "咕噜99",
-            "name": "咕噜丨APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://103.45.132.22:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-                "versionName": "1.9.5",
-                "name": "咕噜咕噜",
-                "package": "com.bd.tool.gulu",
-                "buildNumber": "2001",
-                "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
         },
         {
             "key": "剧圈99",
@@ -191,7 +185,7 @@
                 "package": "com.qingtangxiaozhuan.xyz",
                 "buildNumber": "2002",
                 "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
         },
         {
             "key": "双星99",
@@ -207,7 +201,7 @@
                 "package": "com.yingfu.mobile.android.pgsp",
                 "buildNumber": "2003",
                 "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
         },
         {
             "key": "顾我99",
@@ -223,7 +217,7 @@
                 "package": "com.guwozhuijux.app",
                 "buildNumber": "2001",
                 "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
         },
         {
             "key": "天堂",
@@ -243,7 +237,7 @@
                 "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
                 "version": "3.0.0.7",
                 "decrypt": "0"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
         },
         {
             "key": "橘汁",
@@ -263,7 +257,7 @@
                 "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
                 "version": "3.0.2.1",
                 "decrypt": "1"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
         },
         {
             "key": "华谊",
@@ -283,7 +277,7 @@
                 "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
                 "version": "1.0.0.4",
                 "decrypt": "1"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
         },
         {
             "key": "苹果",
@@ -303,7 +297,7 @@
                 "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
                 "version": "1.0.0.3",
                 "decrypt": "0"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
         },
         {
             "key": "薯条",
@@ -323,33 +317,38 @@
                 "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
                 "version": "5.0.0.1",
                 "decrypt": "0"
-            },"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"
+            },"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"
         },
-{"key":"潇洒_久久","name":"久久丨APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://99cms.jj99.icu:8199/api.php/app/","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_闪影","name":"闪影丨APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://38.47.213.61:41271/mogai_api.php/v1.vod","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_飞飞","name":"飞飞丨APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qpcj.69mini.com/api.php/app/","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_云播","name":"云播丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppFox","ext":"http://app.hktvyb.cc","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_首发","name":"首发丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppQi","ext":{"url":"","site":"https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt","dataKey":"FTgP4Gq8zPiqbt7M","dataIv":"FTgP4Gq8zPiqbt7M","search":"","version":"","init":"initV122","ua":"okhttp/3.10.0"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_金金","name":"金牌丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppQi","ext":{"url":"https://qj4.catbb.xyz","site":"","dataKey":"eecbio48dsq13kkk","dataIv":"eecbio48dsq13kkk","search":"searchList4","version":"","init":"initV122","ua":"okhttp/3.10.0"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_老鹰","name":"老鹰丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppQi","ext":{"url":"","site":"https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt","dataKey":"zxPtEUDGVllIUhDB","dataIv":"zxPtEUDGVllIUhDB","search":"","init":"","ua":"okhttp/3.10.0"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_蓝鹰","name":"蓝鹰丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt","dataKey":"ca94b06ca359d80e","dataIv":"ca94b06ca359d80e","search":"","init":"initV120","ua":"okhttp/3.10.0"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_猎豹","name":"猎豹丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://444421.xyz","site":"","dataKey":"#getapp@TMD@2025","dataIv":"#getapp@TMD@2025","deviceId":"","version":"","ua":""},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_映画","name":"映画丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://cms140.yhg.one/","site":"","dataKey":"bM7iC9eA3oZ1nB7z","dataIv":"bM7iC9eA3oZ1nB7z","deviceId":"","version":"","ua":""},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_王子","name":"王子丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://app.95112475.xyz","site":"","dataKey":"5a9w6x58dsq6z3a6","dataIv":"5a9w6x58dsq6z3a6","deviceId":"","version":"","ua":""},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_秒看","name":"秒看丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://mk1080.top/get.txt","dataKey":"c60d88b2eep53za8","dataIv":"c60d88b2eep53za8","deviceId":"","version":"","token":"4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa","ua":""},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_茉莉","name":"茉莉丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt","dataKey":"88689667dce61725","dataIv":"88689667dce61725","deviceId":"","version":"","token":"","ua":""},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_灵虎","name":"灵虎丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://bind.315999.xyz/89.txt","dataKey":"#getapp@TMD@2025","dataIv":"#getapp@TMD@2025","deviceId":"","version":"","token":"","ua":""},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_哔哩","name":"哔哩丨视频","type":3,"api":"csp_BiliYS","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"./XBPQ/哔哩视频.json","cookie":"./lib/bilibili.txt"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_久久","name":"久久丨APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://99cms.jj99.icu:8199/api.php/app/","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_闪影","name":"闪影丨APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://38.47.213.61:41271/mogai_api.php/v1.vod","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_飞飞","name":"飞飞丨APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qpcj.69mini.com/api.php/app/","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_湘漓","name":"湘漓丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppFox","ext":"https://ledayy.com","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_嘉禾","name":"嘉禾丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppFox","ext":"https://www.baidukuaiy.top","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_猎鹰","name":"猎鹰丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppFox","ext":"https://444421.xyz","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_玫瑰","name":"玫瑰丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppFox","ext":"http://43.251.227.45:3688","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_峥嵘","name":"峥嵘丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppFox","ext":"https://api2026.hboqy.cn","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_首发","name":"首发丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppQi","ext":{"url":"","site":"https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt","dataKey":"FTgP4Gq8zPiqbt7M","dataIv":"FTgP4Gq8zPiqbt7M","search":"","version":"","init":"initV122","ua":"okhttp/3.10.0"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_金金","name":"金牌丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppQi","ext":{"url":"https://qj4.catbb.xyz","site":"","dataKey":"eecbio48dsq13kkk","dataIv":"eecbio48dsq13kkk","search":"searchList4","version":"","init":"initV122","ua":"okhttp/3.10.0"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_老鹰","name":"老鹰丨APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppQi","ext":{"url":"","site":"https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt","dataKey":"zxPtEUDGVllIUhDB","dataIv":"zxPtEUDGVllIUhDB","search":"","init":"","ua":"okhttp/3.10.0"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_蓝鹰","name":"蓝鹰丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt","dataKey":"ca94b06ca359d80e","dataIv":"ca94b06ca359d80e","search":"","init":"initV120","ua":"okhttp/3.10.0"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_猎豹","name":"猎豹丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://444421.xyz","site":"","dataKey":"#getapp@TMD@2025","dataIv":"#getapp@TMD@2025","deviceId":"","version":"","ua":""},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_王子","name":"王子丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://app.95112475.xyz","site":"","dataKey":"5a9w6x58dsq6z3a6","dataIv":"5a9w6x58dsq6z3a6","deviceId":"","version":"","ua":""},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_秒看","name":"秒看丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://mk1080.top/get.txt","dataKey":"c60d88b2eep53za8","dataIv":"c60d88b2eep53za8","deviceId":"","version":"","token":"4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa","ua":""},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_茉莉","name":"茉莉丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt","dataKey":"88689667dce61725","dataIv":"88689667dce61725","deviceId":"","version":"","token":"","ua":""},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_灵虎","name":"灵虎丨APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://bind.315999.xyz/89.txt","dataKey":"#getapp@TMD@2025","dataIv":"#getapp@TMD@2025","deviceId":"","version":"","token":"","ua":""},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_哔哩","name":"哔哩丨视频","type":3,"api":"csp_BiliYS","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"./XBPQ/哔哩视频.json","cookie":"./lib/bilibili.txt"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
 
-{"key":"潇洒_独播","name":"独播丨影视","type":3,"api":"csp_Duboku","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_厂长","name":"厂长丨影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy89.com","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_牌牌","name":"金牌丨影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"ext":"https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
-{"key":"潇洒_子子","name":"瓜子丨影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_骚火","name":"骚火丨影视","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"ext":"https://shdy5.us","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_农民","name":"农民丨影视","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"ext":"https://vip.wwgz.cn:5200","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_机器","name":"爱看丨影视","type":3,"api":"csp_IkanBot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_之王","name":"采集丨合集","type":3,"api":"./js/drpy2.min.js","ext":"./js/采集之王.js?type=url&params=../js/采集静态.json","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":20,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_独播","name":"独播丨影视","type":3,"api":"csp_Duboku","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_厂长","name":"厂长丨影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy89.com","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_牌牌","name":"金牌丨影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"ext":"https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
+{"key":"潇洒_修罗","name":"修罗丨影视","type":3,"api":"csp_Xlys","searchable":1,"quickSearch":1,"ext":"https://www.xlysw.ggff.net","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_子子","name":"瓜子丨影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_云播","name":"云播丨影视","type":3,"api":"csp_Tvyb","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_骚火","name":"骚火丨影视","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"ext":"https://shdy5.us","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_农民","name":"农民丨影视","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"ext":"https://vip.wwgz.cn:5200","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_机器","name":"爱看丨影视","type":3,"api":"csp_IkanBot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_之王","name":"采集丨合集","type":3,"api":"./js/drpy2.min.js","ext":"./js/采集之王.js?type=url&params=../js/采集静态.json","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":20,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
 
 
@@ -370,6 +369,8 @@
 {"key":"老张_荐片","name":"荐片丨老张","type":4,"api":"http://zhangqun66.xyz/jianpian1.php","style":{"type":"rect","ratio":1.33},"searchable":1,"quickSearch":0,"changeable":1},
 
 	
+{"key":"本地_月光","name":"月光丨Pyt","type":3,"api":"./py/月光影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+{"key":"本地_农民","name":"农民丨Pyt","type":3,"api":"./py/农民.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 {"key":"本地_热播","name":"热播丨Pyt","type":3,"api":"./py/热播APP.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 {"key":"本地_骚火","name":"骚火丨Pyt","type":3,"api":"./py/骚火电影.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 {"key":"本地_哇哇","name":"哇哇丨Pyt","type":3,"api":"./py/哇哇APP.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
@@ -394,31 +395,27 @@
 {"key":"本地_泥泥","name":"泥泥丨Js","type":3,"api":"./js/drpy2.min.js","ext":"./js/泥泥视频.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 
-{"key":"潇洒_小镇","name":"小镇丨Xbp","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/小镇影视.json","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_面包","name":"面包丨Xbp","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/面包影视.json","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_永乐","name":"永乐丨Xbp","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/永乐影视.json","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_剧圈","name":"剧圈丨Xbp","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./XBPQ/剧圈影视.json","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_一九","name":"一九丨影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":1,"filterable":0,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_哆啦","name":"哆啦丨动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"style":{"type":"list"},"ext":"./XBPQ/哆啦新番社.json","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_小镇","name":"小镇丨Xbp","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/小镇影视.json","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_面包","name":"面包丨Xbp","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/面包影视.json","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_永乐","name":"永乐丨Xbp","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/永乐影视.json","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_剧圈","name":"剧圈丨Xbp","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./XBPQ/剧圈影视.json","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_一九","name":"一九丨影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":1,"filterable":0,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_哆啦","name":"哆啦丨动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"style":{"type":"list"},"ext":"./XBPQ/哆啦新番社.json","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 {"key":"潇洒_爱你","name":"Ann丨动漫","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./js/Anime1.js"},
-{"key":"潇洒_漫国","name":"漫国丨动漫","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppSy","ext":{"site":"https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt","siteKey":"rectangleadsadxa","listKey":"aassddwwxxllsx1x","parsesKey":"aassddwwxxllsx1x"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_方舟","name":"方舟丨动漫","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.cyfz.top","site":"","dataKey":"e72cdfd629e8895d","dataIv":"e72cdfd629e8895d","deviceId":"","version":""},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_番薯","name":"番薯丨动漫","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://new.app.bytegooty.com","site":"","dataKey":"N4yj7l7xKxHF4*gz","dataIv":"N4yj7l7xKxHF4*gz","deviceId":"","version":""},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_曼波","name":"曼波丨动漫","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://app.omofun1.top","site":"","dataKey":"66dc309cbeeca454","dataIv":"66dc309cbeeca454","deviceId":"","version":""},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_咕咕","name":"咕咕丨动漫","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.gugu3.com","site":"","dataKey":"nKfZ8KX6JTNWRzTD","dataIv":"nKfZ8KX6JTNWRzTD","deviceId":"","version":""},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_巴士","name":"巴士丨动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./XBPQ/巴士动漫.json","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_爱动","name":"爱动丨动漫","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./js/爱动漫.js"},
+{"key":"潇洒_漫国","name":"漫国丨动漫","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppSy","ext":{"site":"https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt","siteKey":"rectangleadsadxa","listKey":"aassddwwxxllsx1x","parsesKey":"aassddwwxxllsx1x"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_方舟","name":"方舟丨动漫","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.cyfz.top","site":"","dataKey":"e72cdfd629e8895d","dataIv":"e72cdfd629e8895d","deviceId":"","version":""},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_曼波","name":"曼波丨动漫","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://app.omofun1.top","site":"","dataKey":"66dc309cbeeca454","dataIv":"66dc309cbeeca454","deviceId":"","version":""},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_咕咕","name":"咕咕丨动漫","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.gugu3.com","site":"","dataKey":"nKfZ8KX6JTNWRzTD","dataIv":"nKfZ8KX6JTNWRzTD","deviceId":"","version":""},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_巴士","name":"巴士丨动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./XBPQ/巴士动漫.json","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 {"key":"潇洒_漫漫","name":"漫漫丨动漫","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./js/路漫漫.js"},
 {"key":"潇洒_去看","name":"去看丨动漫","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./js/去看吧.js"},
-{"key":"潇洒_荐片","name":"荐片丨磁力","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"playerType":"1","ext":"","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_修罗","name":"修罗丨磁力","type":3,"api":"csp_Xlys","searchable":1,"quickSearch":1,"ext":"https://www.xlys02.com","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_七味","name":"七味丨磁力","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1,"ext":{"url":"https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com,https://www.qncool.com"},"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_八十","name":"八十丨磁力","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_新六","name":"新六丨磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_美剧","name":"美剧丨磁力","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_迅雷","name":"迅雷丨磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xunlei8.me","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_影港","name":"影港丨磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/电影港.json","jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
-{"key":"潇洒_堂天","name":"堂天丨磁力","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider.jar;md5;d5718c6781a440b2aa526a30e908bd0b"},
+{"key":"潇洒_荐片","name":"荐片丨磁力","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"playerType":"1","ext":"","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_七味","name":"七味丨磁力","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qwshow.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qwfun.com,https://www.qnnull.com,https://www.qnnull.com","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_新六","name":"新六丨磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_美剧","name":"美剧丨磁力","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_迅雷","name":"迅雷丨磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xunlei8.me","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_影港","name":"影港丨磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/电影港.json","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_堂天","name":"堂天丨磁力","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
 
 
