@@ -3,15 +3,19 @@
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/",
 "logo":"./lib/1.gif",
 "lives":[
-{"name":"CCTV裤佬","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u","ua":""},
-{"name":"CCTV广电","type":0,"url":"https://live.264788.xyz/sub/02RfSmTLsWN3rDk3ID3gt0BimurRf2/txt","ua":""},
-{"name":"斗鱼一起看","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u","timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
-{"name":"虎牙一起看","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u","timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
-{"name":"B站直播","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u","timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
-{"name":"YY轮播","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u","timeout":10,"ua":"okHttp/Mod-1.5.0.0"}
+        {
+            "name": "🏆世界杯直播",
+            "type": 0,
+            "url": "https://jsnzkpg.us.ci/live.m3u"
+        },
+{"name":"CCTV潇雨","type":1,"url":"https://itv.tv1288.xyz"},
+{"name":"CCTV咪咕","type":0,"url":"https://proxy.api.030101.xyz/develop202.github.io/migu_video/interface.txt"},
+{"name":"CCTV宫殿","type":0,"url":"https://gongdian.top/tv/iptv"},
+{"name":"CCTV裤佬","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1","ua":""}
 ],
 
 "sites":[
+{"key":"裤佬世界杯直播","name":"世界杯丨直播","type":1,"api":"https://jsnzkpg.us.ci"},
 {"key":"潇洒_咖啡","name":"咖啡丨体育","type":3,"api":"csp_KafeiTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 {"key":"潇洒_球通","name":"球通丨体育","type":3,"api":"csp_QiutongTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 {"key":"潇洒_瓜子","name":"瓜子丨体育","type":3,"api":"csp_GuaziTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
@@ -45,17 +49,22 @@
 
 {"key":"潇洒_豆瓣","name":"豆瓣搜索ㅤ😃更新：2026年6月😃ㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"indexs":1,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
+{"key":"裤佬星辰影视","name":"星辰丨影视","type":3,"api":"http://rihou.cc:88/js/星辰影院.js"},
+{"key":"裤佬泥巴影视","name":"泥巴丨影视","type":3,"api":"http://rihou.cc:88/js/drpy2.min.js","ext":"http://rihou.cc:88/js/泥泥视频.js"},
+{"key":"裤佬独播JS","name":"独播丨JS","type":3,"api":"https://dogpan.com/f/R64pc5/独播库.js"},
+{"key":"裤佬永乐JS","name":"永乐丨JS","type":3,"api":"https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js","style":{"type":"rect","ratio":1.33},"changeable":1},
+{"key":"裤佬枫叶影视","name":"枫叶丨影视","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"},
+{"key":"裤佬爱剧PY","name":"爱剧丨PY","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py","ext":"http://43.248.117.123:4680"},
+{"key":"裤佬热播PY","name":"热播丨PY","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/热播APP.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60},
+{"key":"裤佬自营PY","name":"自营丨PY","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py","searchable":1,"changeable":0,"quickSearch":0,"filterable":0},
+{"key":"裤佬端木PY","name":"端木丨PY","type":3,"api":"https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/py/端木.py","style":{"type":"rect","ratio":1.33},"changeable":1},
+{"key":"裤佬威士PY","name":"威士丨PY","type":3,"api":"https://mpimg.cn/down.php/9a74bfc73bb24b1582d75d4fc1af6bee.py","ext":"http://v.2video.cc"},
+{"key":"裤佬瓜子备用","name":"瓜子丨PY","type":3,"api":"https://mpimg.cn/down.php/055f3cda37e9db69ab09a0857e7f9db8.py"},
+{"key":"裤佬猎手PY","name":"猎手丨PY","api":"https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py","filterable":1,"quickSearch":1,"searchable":1,"type":3},
+{"key":"裤佬兄弟PY","name":"兄兄丨PY","api":"https://mpimg.cn/down.php/b1cdcf76574a0cb24d5b937d46458cdf.py","filterable":1,"quickSearch":1,"searchable":1,"type":3},
+{"key":"裤佬iQiYi影视","name":"iQiYi丨影视","type":1,"api":"https://iqiyizyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"裤佬爬虫影视","name":"爬虫丨影视","type":1,"api":"https://dy.7772888.xyz/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"裤佬聚合采集","name":"聚合丨采集","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json"},
-{"key":"潇洒_独播","name":"独播丨影视","type":3,"api":"csp_Duboku","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_厂长","name":"厂长丨影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy89.com","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_牌牌","name":"金牌丨影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"ext":"https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
-{"key":"潇洒_修罗","name":"修罗丨影视","type":3,"api":"csp_Xlys","searchable":1,"quickSearch":1,"ext":"https://www.xlysw.ggff.net","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_子子","name":"瓜子丨影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_云播","name":"云播丨影视","type":3,"api":"csp_Tvyb","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_骚火","name":"骚火丨影视","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"ext":"https://shdy5.us","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_农民","name":"农民丨影视","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"ext":"https://vip.wwgz.cn:5200","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_机器","name":"爱看丨影视","type":3,"api":"csp_IkanBot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_之王","name":"采集丨合集","type":3,"api":"./js/drpy2.min.js","ext":"./js/采集之王.js?type=url&params=../js/采集静态.json","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":20,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
 
 {"key":"老张_克隆","name":"克隆丨老张","type":4,"api":"http://zhangqun66.xyz/klhj.php","style":{"type":"rect","ratio":1.33},"searchable":1,"quickSearch":0,"changeable":1},
 {"key":"老张_合合","name":"合合丨老张","type":4,"api":"http://zhangqun66.xyz/cjjh.php","style":{"type":"rect","ratio":1.33},"searchable":1,"quickSearch":0,"changeable":1},
