@@ -1,5 +1,5 @@
 {
-"spider":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0",
+"spider":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2",
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/",
 "logo":"./lib/1.gif",
 "lives":[
@@ -16,20 +16,21 @@
 
 "sites":[
 {"key":"裤佬世界杯直播","name":"世界杯丨直播","type":1,"api":"https://jsnzkpg.us.ci"},
-{"key":"潇洒_咖啡","name":"咖啡丨体育","type":3,"api":"csp_KafeiTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_球通","name":"球通丨体育","type":3,"api":"csp_QiutongTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_瓜子","name":"瓜子丨体育","type":3,"api":"csp_GuaziTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_咖啡","name":"咖啡丨体育","type":3,"api":"csp_KafeiTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
+{"key":"潇洒_球通","name":"球通丨体育","type":3,"api":"csp_QiutongTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
+{"key":"潇洒_瓜子","name":"瓜子丨体育","type":3,"api":"csp_GuaziTY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
 {"key":"饭佬_超全","name":"吃瓜丨体育","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;592dc49c783d89dcde066bf1b72ad0d3"},
 {"key":"饭佬_看球","name":"看球丨体育","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":1,"style":{"type":"list"},"jar":"./jar/fan.jpg;md5;592dc49c783d89dcde066bf1b72ad0d3"},
 {"key":"饭佬_多多","name":"多多丨看球","type":3,"api":"csp_DoubaoGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
-{"key":"潇洒_八八","name":"八八丨体育","type":3,"api":"csp_Kanqiu","gridview":3,"style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_九一","name":"九一丨体育","type":3,"api":"csp_919TY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_八八","name":"八八丨体育","type":3,"api":"csp_Kanqiu","gridview":3,"style":{"type":"list"},"jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
+{"key":"潇洒_九一","name":"九一丨体育","type":3,"api":"csp_919TY","style":{"type":"list"},"jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
 
-{"key":"潇洒_呦呦","name":"呦呦｜DJ","type":3,"api":"csp_Djuu","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_轮回","name":"轮回丨DJ","type":3,"api":"csp_Djlh","style":{"type":"list"},"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"裤佬_酷我","name":"酷我丨音乐","type":3,"api":"https://dogpan.com/f/VO84ig/酷我音乐.py"},
+{"key":"潇洒_呦呦","name":"呦呦｜DJ","type":3,"api":"csp_Djuu","style":{"type":"list"},"jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
+{"key":"潇洒_轮回","name":"轮回丨DJ","type":3,"api":"csp_Djlh","style":{"type":"list"},"jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
 {"key":"裤佬_音乐","name":"音乐丨音乐","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"ext":{"sp":"AiMusic"},"timeout":20,"jar":"./jar/kuzi.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60"},
 {"key":"饭佬_音乐","name":"易听丨音乐","type":3,"api":"csp_MusicGuard","quickSearch":0,"searchable":0,"style":{"type":"rect","ratio":1},"ext":"","jar":"./jar/fan.jpg;md5;592dc49c783d89dcde066bf1b72ad0d3"},
-{"key":"潇洒_歌曲","name":"哔站丨音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩演唱会.json"},"timeout":20,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_歌曲","name":"哔站丨音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.597},"ext":{"danmu":true,"cookie":"./lib/bilibili.txt","json":"./bilibili/哔哩演唱会.json"},"timeout":20,"jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
 	
 {"key":"饭佬_斗鱼","name":"斗鱼丨游戏","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"饭佬_虎牙","name":"虎牙丨游戏","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":1,"quickSearch":0,"changeable":0},
@@ -39,15 +40,15 @@
 {"key":"裤佬_电台","name":"广播丨广播","type":3,"api":"./js/drpy2.min.js","ext":"./js/蜻蜓FM.js"},
 
 {"key":"聚合_短剧","name":"聚合丨短剧","type":3,"api":"./js/聚合短剧.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
-{"key":"潇洒_甜圈","name":"甜圈丨短剧","type":3,"api":"csp_TianquanDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_星阁","name":"星阁｜短剧","type":3,"api":"csp_XinggeDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_甜圈","name":"甜圈丨短剧","type":3,"api":"csp_TianquanDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
+{"key":"潇洒_星阁","name":"星阁｜短剧","type":3,"api":"csp_XinggeDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
 
-{"key":"潇洒_星芽","name":"星芽丨短剧","type":3,"api":"./py/星芽短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
-{"key":"潇洒_剧王","name":"剧王丨短剧","type":3,"api":"./py/剧王短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_星芽","name":"星芽丨短剧","type":3,"api":"./py/星芽短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
+{"key":"潇洒_剧王","name":"剧王丨短剧","type":3,"api":"./py/剧王短剧.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"genre":"shortdrama","jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
 {"key":"裤佬_盒马","name":"盒马丨短剧","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"HeMa"},"timeout":10,"jar":"./jar/kuzi.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60"},
 
 
-{"key":"潇洒_豆瓣","name":"豆瓣搜索ㅤ😃更新：2026年6月😃ㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"indexs":1,"jar":"./jar/spider.jar;md5;924b9122b831bccc2d63b29fde204cf0"},
+{"key":"潇洒_豆瓣","name":"豆瓣搜索ㅤ😃更新：2026年6月😃ㅤ🈲切勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"changeable":0,"indexs":1,"jar":"./jar/spider.jar;md5;81c8d28955626ba23e8209ee2f2051b2"},
 
 {"key":"裤佬星辰影视","name":"星辰丨影视","type":3,"api":"http://rihou.cc:88/js/星辰影院.js"},
 {"key":"裤佬泥巴影视","name":"泥巴丨影视","type":3,"api":"http://rihou.cc:88/js/drpy2.min.js","ext":"http://rihou.cc:88/js/泥泥视频.js"},
