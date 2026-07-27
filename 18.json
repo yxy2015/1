@@ -24,6 +24,7 @@
 {"key":"裸聊直播","name":"🔞裸聊直播","type":3,"api":"./js/drpy2.min.js","searchable":1,"filterable":1,"ext":"./js/18/json/ss直播.js"},
 {"key":"色播聚合","name":"🔞裸聊直播2","type":3,"api":"./js/18/色播聚合.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
 {"key":"51短剧","name":"🔞擦边短剧","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/18/json/51短剧.json"},
+{"key":"智能撸大师","name":"🔞智能撸大师","type":3,"api":"./js/18/智能撸大师.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
 
 {"key":"推特App","name":"🔞推特App","type":3,"api":"./js/18/推特App.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
 {"key":"Xhamster","name":"🔞Xhamster","type":3,"api":"./js/18/Xhamster.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"rect","ratio":1.5}},
