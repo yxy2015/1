@@ -867,6 +867,8 @@
 },
 	
 
+{"key":"火速","name":"🔞火速","type":1,"api":"https://api.huosuapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+{"key":"嘿嘿","name":"🔞嘿嘿","type":1,"api":"https://api.heiapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
 {"key":"采集","name":"🔞涩涩采集","type":4,"api":"http://zhangqun1818.serv00.net/cj/cjjh.php","style":{"type":"rect","ratio":1.33},"ext":"0","changeable":1},
 {"key":"潇洒_之王","name":"采集｜合集","type":3,"api":"./js/drpy2.min.js","ext":"./js/采集之王.js?type=url&params=../js/18/json/采集集合.json","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":20},

@@ -210,13 +210,13 @@ class Spider(Spider):
             "total": 999999
         }
 
-    def searchContent(self, key, quick, pg="1"):
-        doc = self.getpq(f"/so/{quote(key)}/{pg}.html")
-        items = doc(".base_l li, .play_list li")
-        return {
-            "list": self._parse_list(items, "search"),
-            "page": int(pg)
-        }
+def searchContent(self, key, quick, pg="1"):
+    doc = self.getpq(f"/so/{quote(key)}/{pg}.html")
+    items = doc(".base_l li, .play_list li")
+    return {
+        "list": self._parse_list(items, "search"),
+        "page": int(pg)
+    }
 
     def detailContent(self, ids):
         url = self._abs(ids[0])
